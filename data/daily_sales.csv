@@ -1,0 +1,5481 @@
+date,category,units_sold,on_promo
+2023-01-01,Beverages,162,False
+2023-01-02,Beverages,194,False
+2023-01-03,Beverages,180,False
+2023-01-04,Beverages,167,False
+2023-01-05,Beverages,173,False
+2023-01-06,Beverages,148,False
+2023-01-07,Beverages,236,False
+2023-01-08,Beverages,196,False
+2023-01-09,Beverages,170,False
+2023-01-10,Beverages,181,False
+2023-01-11,Beverages,235,True
+2023-01-12,Beverages,172,False
+2023-01-13,Beverages,154,False
+2023-01-14,Beverages,202,False
+2023-01-15,Beverages,226,False
+2023-01-16,Beverages,192,False
+2023-01-17,Beverages,196,False
+2023-01-18,Beverages,159,False
+2023-01-19,Beverages,151,False
+2023-01-20,Beverages,166,False
+2023-01-21,Beverages,194,False
+2023-01-22,Beverages,213,False
+2023-01-23,Beverages,138,False
+2023-01-24,Beverages,195,False
+2023-01-25,Beverages,165,False
+2023-01-26,Beverages,161,False
+2023-01-27,Beverages,150,False
+2023-01-28,Beverages,164,False
+2023-01-29,Beverages,208,False
+2023-01-30,Beverages,169,False
+2023-01-31,Beverages,145,False
+2023-02-01,Beverages,234,True
+2023-02-02,Beverages,184,False
+2023-02-03,Beverages,219,False
+2023-02-04,Beverages,214,False
+2023-02-05,Beverages,192,False
+2023-02-06,Beverages,186,False
+2023-02-07,Beverages,185,False
+2023-02-08,Beverages,143,False
+2023-02-09,Beverages,189,False
+2023-02-10,Beverages,186,False
+2023-02-11,Beverages,231,False
+2023-02-12,Beverages,251,False
+2023-02-13,Beverages,210,False
+2023-02-14,Beverages,252,True
+2023-02-15,Beverages,171,False
+2023-02-16,Beverages,235,False
+2023-02-17,Beverages,191,False
+2023-02-18,Beverages,219,False
+2023-02-19,Beverages,218,False
+2023-02-20,Beverages,193,False
+2023-02-21,Beverages,254,True
+2023-02-22,Beverages,180,False
+2023-02-23,Beverages,180,False
+2023-02-24,Beverages,189,False
+2023-02-25,Beverages,209,False
+2023-02-26,Beverages,282,True
+2023-02-27,Beverages,192,False
+2023-02-28,Beverages,186,False
+2023-03-01,Beverages,246,False
+2023-03-02,Beverages,173,False
+2023-03-03,Beverages,239,False
+2023-03-04,Beverages,275,False
+2023-03-05,Beverages,217,False
+2023-03-06,Beverages,214,False
+2023-03-07,Beverages,213,False
+2023-03-08,Beverages,195,False
+2023-03-09,Beverages,206,False
+2023-03-10,Beverages,200,False
+2023-03-11,Beverages,284,False
+2023-03-12,Beverages,358,True
+2023-03-13,Beverages,242,False
+2023-03-14,Beverages,233,False
+2023-03-15,Beverages,200,False
+2023-03-16,Beverages,211,False
+2023-03-17,Beverages,229,False
+2023-03-18,Beverages,231,False
+2023-03-19,Beverages,266,False
+2023-03-20,Beverages,216,False
+2023-03-21,Beverages,213,False
+2023-03-22,Beverages,233,False
+2023-03-23,Beverages,228,False
+2023-03-24,Beverages,214,False
+2023-03-25,Beverages,273,False
+2023-03-26,Beverages,234,False
+2023-03-27,Beverages,231,False
+2023-03-28,Beverages,307,True
+2023-03-29,Beverages,215,False
+2023-03-30,Beverages,303,True
+2023-03-31,Beverages,198,False
+2023-04-01,Beverages,304,False
+2023-04-02,Beverages,284,False
+2023-04-03,Beverages,241,False
+2023-04-04,Beverages,268,False
+2023-04-05,Beverages,238,False
+2023-04-06,Beverages,225,False
+2023-04-07,Beverages,310,True
+2023-04-08,Beverages,298,False
+2023-04-09,Beverages,265,False
+2023-04-10,Beverages,281,False
+2023-04-11,Beverages,213,False
+2023-04-12,Beverages,367,True
+2023-04-13,Beverages,254,False
+2023-04-14,Beverages,248,False
+2023-04-15,Beverages,278,False
+2023-04-16,Beverages,295,False
+2023-04-17,Beverages,249,False
+2023-04-18,Beverages,357,True
+2023-04-19,Beverages,252,False
+2023-04-20,Beverages,340,True
+2023-04-21,Beverages,244,False
+2023-04-22,Beverages,286,False
+2023-04-23,Beverages,293,False
+2023-04-24,Beverages,307,True
+2023-04-25,Beverages,226,False
+2023-04-26,Beverages,263,False
+2023-04-27,Beverages,253,False
+2023-04-28,Beverages,247,False
+2023-04-29,Beverages,288,False
+2023-04-30,Beverages,294,False
+2023-05-01,Beverages,262,False
+2023-05-02,Beverages,258,False
+2023-05-03,Beverages,275,False
+2023-05-04,Beverages,255,False
+2023-05-05,Beverages,279,False
+2023-05-06,Beverages,283,False
+2023-05-07,Beverages,331,False
+2023-05-08,Beverages,280,False
+2023-05-09,Beverages,276,False
+2023-05-10,Beverages,289,False
+2023-05-11,Beverages,301,False
+2023-05-12,Beverages,290,False
+2023-05-13,Beverages,280,False
+2023-05-14,Beverages,290,False
+2023-05-15,Beverages,261,False
+2023-05-16,Beverages,272,False
+2023-05-17,Beverages,281,False
+2023-05-18,Beverages,259,False
+2023-05-19,Beverages,275,False
+2023-05-20,Beverages,409,True
+2023-05-21,Beverages,302,False
+2023-05-22,Beverages,342,True
+2023-05-23,Beverages,256,False
+2023-05-24,Beverages,248,False
+2023-05-25,Beverages,255,False
+2023-05-26,Beverages,291,False
+2023-05-27,Beverages,296,False
+2023-05-28,Beverages,359,False
+2023-05-29,Beverages,281,False
+2023-05-30,Beverages,275,False
+2023-05-31,Beverages,257,False
+2023-06-01,Beverages,292,False
+2023-06-02,Beverages,270,False
+2023-06-03,Beverages,324,False
+2023-06-04,Beverages,367,False
+2023-06-05,Beverages,278,False
+2023-06-06,Beverages,300,False
+2023-06-07,Beverages,268,False
+2023-06-08,Beverages,377,True
+2023-06-09,Beverages,311,False
+2023-06-10,Beverages,311,False
+2023-06-11,Beverages,354,False
+2023-06-12,Beverages,292,False
+2023-06-13,Beverages,270,False
+2023-06-14,Beverages,291,False
+2023-06-15,Beverages,297,False
+2023-06-16,Beverages,291,False
+2023-06-17,Beverages,294,False
+2023-06-18,Beverages,309,False
+2023-06-19,Beverages,276,False
+2023-06-20,Beverages,279,False
+2023-06-21,Beverages,291,False
+2023-06-22,Beverages,283,False
+2023-06-23,Beverages,256,False
+2023-06-24,Beverages,329,False
+2023-06-25,Beverages,333,False
+2023-06-26,Beverages,290,False
+2023-06-27,Beverages,299,False
+2023-06-28,Beverages,393,True
+2023-06-29,Beverages,288,False
+2023-06-30,Beverages,279,False
+2023-07-01,Beverages,284,False
+2023-07-02,Beverages,320,False
+2023-07-03,Beverages,276,False
+2023-07-04,Beverages,277,False
+2023-07-05,Beverages,249,False
+2023-07-06,Beverages,253,False
+2023-07-07,Beverages,290,False
+2023-07-08,Beverages,312,False
+2023-07-09,Beverages,325,False
+2023-07-10,Beverages,272,False
+2023-07-11,Beverages,272,False
+2023-07-12,Beverages,288,False
+2023-07-13,Beverages,263,False
+2023-07-14,Beverages,274,False
+2023-07-15,Beverages,305,False
+2023-07-16,Beverages,305,False
+2023-07-17,Beverages,267,False
+2023-07-18,Beverages,276,False
+2023-07-19,Beverages,359,True
+2023-07-20,Beverages,294,False
+2023-07-21,Beverages,256,False
+2023-07-22,Beverages,309,False
+2023-07-23,Beverages,305,False
+2023-07-24,Beverages,297,False
+2023-07-25,Beverages,275,False
+2023-07-26,Beverages,290,False
+2023-07-27,Beverages,246,False
+2023-07-28,Beverages,372,True
+2023-07-29,Beverages,438,True
+2023-07-30,Beverages,424,True
+2023-07-31,Beverages,291,False
+2023-08-01,Beverages,241,False
+2023-08-02,Beverages,275,False
+2023-08-03,Beverages,290,False
+2023-08-04,Beverages,244,False
+2023-08-05,Beverages,280,False
+2023-08-06,Beverages,313,False
+2023-08-07,Beverages,278,False
+2023-08-08,Beverages,241,False
+2023-08-09,Beverages,243,False
+2023-08-10,Beverages,245,False
+2023-08-11,Beverages,226,False
+2023-08-12,Beverages,271,False
+2023-08-13,Beverages,270,False
+2023-08-14,Beverages,236,False
+2023-08-15,Beverages,249,False
+2023-08-16,Beverages,254,False
+2023-08-17,Beverages,277,False
+2023-08-18,Beverages,232,False
+2023-08-19,Beverages,305,False
+2023-08-20,Beverages,384,True
+2023-08-21,Beverages,249,False
+2023-08-22,Beverages,262,False
+2023-08-23,Beverages,230,False
+2023-08-24,Beverages,257,False
+2023-08-25,Beverages,253,False
+2023-08-26,Beverages,397,True
+2023-08-27,Beverages,293,False
+2023-08-28,Beverages,293,False
+2023-08-29,Beverages,239,False
+2023-08-30,Beverages,241,False
+2023-08-31,Beverages,239,False
+2023-09-01,Beverages,210,False
+2023-09-02,Beverages,242,False
+2023-09-03,Beverages,274,False
+2023-09-04,Beverages,245,False
+2023-09-05,Beverages,287,True
+2023-09-06,Beverages,205,False
+2023-09-07,Beverages,228,False
+2023-09-08,Beverages,210,False
+2023-09-09,Beverages,264,False
+2023-09-10,Beverages,257,False
+2023-09-11,Beverages,193,False
+2023-09-12,Beverages,247,False
+2023-09-13,Beverages,252,False
+2023-09-14,Beverages,209,False
+2023-09-15,Beverages,213,False
+2023-09-16,Beverages,258,False
+2023-09-17,Beverages,259,False
+2023-09-18,Beverages,232,False
+2023-09-19,Beverages,255,False
+2023-09-20,Beverages,217,False
+2023-09-21,Beverages,206,False
+2023-09-22,Beverages,196,False
+2023-09-23,Beverages,240,False
+2023-09-24,Beverages,252,False
+2023-09-25,Beverages,252,False
+2023-09-26,Beverages,211,False
+2023-09-27,Beverages,224,False
+2023-09-28,Beverages,297,True
+2023-09-29,Beverages,241,False
+2023-09-30,Beverages,297,False
+2023-10-01,Beverages,286,True
+2023-10-02,Beverages,181,False
+2023-10-03,Beverages,208,False
+2023-10-04,Beverages,202,False
+2023-10-05,Beverages,223,False
+2023-10-06,Beverages,200,False
+2023-10-07,Beverages,212,False
+2023-10-08,Beverages,229,False
+2023-10-09,Beverages,210,False
+2023-10-10,Beverages,204,False
+2023-10-11,Beverages,199,False
+2023-10-12,Beverages,209,False
+2023-10-13,Beverages,211,False
+2023-10-14,Beverages,243,False
+2023-10-15,Beverages,230,False
+2023-10-16,Beverages,187,False
+2023-10-17,Beverages,193,False
+2023-10-18,Beverages,211,False
+2023-10-19,Beverages,176,False
+2023-10-20,Beverages,263,True
+2023-10-21,Beverages,212,False
+2023-10-22,Beverages,219,False
+2023-10-23,Beverages,213,False
+2023-10-24,Beverages,260,True
+2023-10-25,Beverages,191,False
+2023-10-26,Beverages,166,False
+2023-10-27,Beverages,203,False
+2023-10-28,Beverages,230,False
+2023-10-29,Beverages,257,False
+2023-10-30,Beverages,185,False
+2023-10-31,Beverages,194,False
+2023-11-01,Beverages,172,False
+2023-11-02,Beverages,196,False
+2023-11-03,Beverages,166,False
+2023-11-04,Beverages,198,False
+2023-11-05,Beverages,204,False
+2023-11-06,Beverages,171,False
+2023-11-07,Beverages,160,False
+2023-11-08,Beverages,171,False
+2023-11-09,Beverages,187,False
+2023-11-10,Beverages,150,False
+2023-11-11,Beverages,196,False
+2023-11-12,Beverages,181,False
+2023-11-13,Beverages,189,False
+2023-11-14,Beverages,141,False
+2023-11-15,Beverages,158,False
+2023-11-16,Beverages,233,True
+2023-11-17,Beverages,196,False
+2023-11-18,Beverages,192,False
+2023-11-19,Beverages,183,False
+2023-11-20,Beverages,201,False
+2023-11-21,Beverages,143,False
+2023-11-22,Beverages,129,False
+2023-11-23,Beverages,176,False
+2023-11-24,Beverages,159,False
+2023-11-25,Beverages,243,True
+2023-11-26,Beverages,206,False
+2023-11-27,Beverages,172,False
+2023-11-28,Beverages,217,True
+2023-11-29,Beverages,146,False
+2023-11-30,Beverages,242,True
+2023-12-01,Beverages,227,True
+2023-12-02,Beverages,182,False
+2023-12-03,Beverages,217,False
+2023-12-04,Beverages,141,False
+2023-12-05,Beverages,133,False
+2023-12-06,Beverages,148,False
+2023-12-07,Beverages,159,False
+2023-12-08,Beverages,164,False
+2023-12-09,Beverages,180,False
+2023-12-10,Beverages,190,False
+2023-12-11,Beverages,138,False
+2023-12-12,Beverages,185,False
+2023-12-13,Beverages,159,False
+2023-12-14,Beverages,180,False
+2023-12-15,Beverages,166,False
+2023-12-16,Beverages,192,False
+2023-12-17,Beverages,194,False
+2023-12-18,Beverages,168,False
+2023-12-19,Beverages,171,False
+2023-12-20,Beverages,183,False
+2023-12-21,Beverages,163,False
+2023-12-22,Beverages,172,False
+2023-12-23,Beverages,182,False
+2023-12-24,Beverages,209,False
+2023-12-25,Beverages,148,False
+2023-12-26,Beverages,248,True
+2023-12-27,Beverages,159,False
+2023-12-28,Beverages,135,False
+2023-12-29,Beverages,162,False
+2023-12-30,Beverages,172,False
+2023-12-31,Beverages,199,False
+2024-01-01,Beverages,157,False
+2024-01-02,Beverages,160,False
+2024-01-03,Beverages,194,True
+2024-01-04,Beverages,160,False
+2024-01-05,Beverages,125,False
+2024-01-06,Beverages,165,False
+2024-01-07,Beverages,207,False
+2024-01-08,Beverages,182,False
+2024-01-09,Beverages,176,False
+2024-01-10,Beverages,151,False
+2024-01-11,Beverages,167,False
+2024-01-12,Beverages,168,False
+2024-01-13,Beverages,173,False
+2024-01-14,Beverages,220,False
+2024-01-15,Beverages,183,False
+2024-01-16,Beverages,164,False
+2024-01-17,Beverages,169,False
+2024-01-18,Beverages,172,False
+2024-01-19,Beverages,132,False
+2024-01-20,Beverages,189,False
+2024-01-21,Beverages,181,False
+2024-01-22,Beverages,150,False
+2024-01-23,Beverages,163,False
+2024-01-24,Beverages,200,False
+2024-01-25,Beverages,179,False
+2024-01-26,Beverages,158,False
+2024-01-27,Beverages,203,False
+2024-01-28,Beverages,218,False
+2024-01-29,Beverages,184,False
+2024-01-30,Beverages,169,False
+2024-01-31,Beverages,157,False
+2024-02-01,Beverages,202,False
+2024-02-02,Beverages,197,False
+2024-02-03,Beverages,311,True
+2024-02-04,Beverages,230,False
+2024-02-05,Beverages,208,False
+2024-02-06,Beverages,181,False
+2024-02-07,Beverages,213,False
+2024-02-08,Beverages,193,False
+2024-02-09,Beverages,227,False
+2024-02-10,Beverages,206,False
+2024-02-11,Beverages,249,False
+2024-02-12,Beverages,193,False
+2024-02-13,Beverages,179,False
+2024-02-14,Beverages,248,True
+2024-02-15,Beverages,184,False
+2024-02-16,Beverages,197,False
+2024-02-17,Beverages,228,False
+2024-02-18,Beverages,285,True
+2024-02-19,Beverages,190,False
+2024-02-20,Beverages,228,False
+2024-02-21,Beverages,220,False
+2024-02-22,Beverages,198,False
+2024-02-23,Beverages,191,False
+2024-02-24,Beverages,221,False
+2024-02-25,Beverages,229,False
+2024-02-26,Beverages,172,False
+2024-02-27,Beverages,185,False
+2024-02-28,Beverages,161,False
+2024-02-29,Beverages,197,False
+2024-03-01,Beverages,231,False
+2024-03-02,Beverages,244,False
+2024-03-03,Beverages,281,False
+2024-03-04,Beverages,198,False
+2024-03-05,Beverages,194,False
+2024-03-06,Beverages,224,False
+2024-03-07,Beverages,238,False
+2024-03-08,Beverages,250,False
+2024-03-09,Beverages,245,False
+2024-03-10,Beverages,272,False
+2024-03-11,Beverages,219,False
+2024-03-12,Beverages,217,False
+2024-03-13,Beverages,236,False
+2024-03-14,Beverages,231,False
+2024-03-15,Beverages,269,True
+2024-03-16,Beverages,279,False
+2024-03-17,Beverages,277,False
+2024-03-18,Beverages,209,False
+2024-03-19,Beverages,227,False
+2024-03-20,Beverages,229,False
+2024-03-21,Beverages,225,False
+2024-03-22,Beverages,210,False
+2024-03-23,Beverages,241,False
+2024-03-24,Beverages,253,False
+2024-03-25,Beverages,318,True
+2024-03-26,Beverages,230,False
+2024-03-27,Beverages,213,False
+2024-03-28,Beverages,234,False
+2024-03-29,Beverages,170,False
+2024-03-30,Beverages,273,False
+2024-03-31,Beverages,222,False
+2024-04-01,Beverages,244,False
+2024-04-02,Beverages,230,False
+2024-04-03,Beverages,227,False
+2024-04-04,Beverages,270,False
+2024-04-05,Beverages,242,False
+2024-04-06,Beverages,294,False
+2024-04-07,Beverages,387,True
+2024-04-08,Beverages,258,False
+2024-04-09,Beverages,251,False
+2024-04-10,Beverages,227,False
+2024-04-11,Beverages,268,False
+2024-04-12,Beverages,241,False
+2024-04-13,Beverages,260,False
+2024-04-14,Beverages,280,False
+2024-04-15,Beverages,276,False
+2024-04-16,Beverages,265,False
+2024-04-17,Beverages,244,False
+2024-04-18,Beverages,244,False
+2024-04-19,Beverages,244,False
+2024-04-20,Beverages,324,False
+2024-04-21,Beverages,294,False
+2024-04-22,Beverages,258,False
+2024-04-23,Beverages,356,True
+2024-04-24,Beverages,254,False
+2024-04-25,Beverages,245,False
+2024-04-26,Beverages,247,False
+2024-04-27,Beverages,286,False
+2024-04-28,Beverages,287,False
+2024-04-29,Beverages,263,False
+2024-04-30,Beverages,251,False
+2024-05-01,Beverages,380,True
+2024-05-02,Beverages,271,False
+2024-05-03,Beverages,273,False
+2024-05-04,Beverages,278,False
+2024-05-05,Beverages,329,False
+2024-05-06,Beverages,278,False
+2024-05-07,Beverages,290,False
+2024-05-08,Beverages,221,False
+2024-05-09,Beverages,309,False
+2024-05-10,Beverages,270,False
+2024-05-11,Beverages,332,False
+2024-05-12,Beverages,294,False
+2024-05-13,Beverages,283,False
+2024-05-14,Beverages,253,False
+2024-05-15,Beverages,261,False
+2024-05-16,Beverages,401,True
+2024-05-17,Beverages,269,False
+2024-05-18,Beverages,317,False
+2024-05-19,Beverages,328,False
+2024-05-20,Beverages,281,False
+2024-05-21,Beverages,275,False
+2024-05-22,Beverages,278,False
+2024-05-23,Beverages,314,False
+2024-05-24,Beverages,271,False
+2024-05-25,Beverages,316,False
+2024-05-26,Beverages,331,False
+2024-05-27,Beverages,291,False
+2024-05-28,Beverages,293,False
+2024-05-29,Beverages,283,False
+2024-05-30,Beverages,252,False
+2024-05-31,Beverages,396,True
+2024-06-01,Beverages,302,False
+2024-06-02,Beverages,327,False
+2024-06-03,Beverages,267,False
+2024-06-04,Beverages,279,False
+2024-06-05,Beverages,286,False
+2024-06-06,Beverages,286,False
+2024-06-07,Beverages,287,False
+2024-06-08,Beverages,350,False
+2024-06-09,Beverages,330,False
+2024-06-10,Beverages,276,False
+2024-06-11,Beverages,297,False
+2024-06-12,Beverages,301,False
+2024-06-13,Beverages,258,False
+2024-06-14,Beverages,291,False
+2024-06-15,Beverages,334,False
+2024-06-16,Beverages,317,False
+2024-06-17,Beverages,304,False
+2024-06-18,Beverages,277,False
+2024-06-19,Beverages,282,False
+2024-06-20,Beverages,277,False
+2024-06-21,Beverages,280,False
+2024-06-22,Beverages,303,False
+2024-06-23,Beverages,297,False
+2024-06-24,Beverages,308,False
+2024-06-25,Beverages,265,False
+2024-06-26,Beverages,263,False
+2024-06-27,Beverages,340,True
+2024-06-28,Beverages,269,False
+2024-06-29,Beverages,411,True
+2024-06-30,Beverages,351,False
+2024-07-01,Beverages,290,False
+2024-07-02,Beverages,260,False
+2024-07-03,Beverages,312,False
+2024-07-04,Beverages,289,False
+2024-07-05,Beverages,266,False
+2024-07-06,Beverages,269,False
+2024-07-07,Beverages,353,False
+2024-07-08,Beverages,248,False
+2024-07-09,Beverages,243,False
+2024-07-10,Beverages,290,False
+2024-07-11,Beverages,410,True
+2024-07-12,Beverages,392,True
+2024-07-13,Beverages,323,False
+2024-07-14,Beverages,323,False
+2024-07-15,Beverages,287,False
+2024-07-16,Beverages,285,False
+2024-07-17,Beverages,277,False
+2024-07-18,Beverages,274,False
+2024-07-19,Beverages,271,False
+2024-07-20,Beverages,409,True
+2024-07-21,Beverages,308,False
+2024-07-22,Beverages,337,True
+2024-07-23,Beverages,270,False
+2024-07-24,Beverages,255,False
+2024-07-25,Beverages,253,False
+2024-07-26,Beverages,275,False
+2024-07-27,Beverages,337,False
+2024-07-28,Beverages,329,False
+2024-07-29,Beverages,244,False
+2024-07-30,Beverages,255,False
+2024-07-31,Beverages,289,False
+2024-08-01,Beverages,233,False
+2024-08-02,Beverages,246,False
+2024-08-03,Beverages,297,False
+2024-08-04,Beverages,270,False
+2024-08-05,Beverages,252,False
+2024-08-06,Beverages,227,False
+2024-08-07,Beverages,239,False
+2024-08-08,Beverages,256,False
+2024-08-09,Beverages,222,False
+2024-08-10,Beverages,295,False
+2024-08-11,Beverages,287,False
+2024-08-12,Beverages,260,False
+2024-08-13,Beverages,254,False
+2024-08-14,Beverages,274,False
+2024-08-15,Beverages,252,False
+2024-08-16,Beverages,330,True
+2024-08-17,Beverages,290,False
+2024-08-18,Beverages,297,False
+2024-08-19,Beverages,251,False
+2024-08-20,Beverages,251,False
+2024-08-21,Beverages,238,False
+2024-08-22,Beverages,238,False
+2024-08-23,Beverages,225,False
+2024-08-24,Beverages,318,False
+2024-08-25,Beverages,266,False
+2024-08-26,Beverages,238,False
+2024-08-27,Beverages,237,False
+2024-08-28,Beverages,266,False
+2024-08-29,Beverages,245,False
+2024-08-30,Beverages,272,False
+2024-08-31,Beverages,276,False
+2024-09-01,Beverages,258,False
+2024-09-02,Beverages,205,False
+2024-09-03,Beverages,258,False
+2024-09-04,Beverages,199,False
+2024-09-05,Beverages,225,False
+2024-09-06,Beverages,231,False
+2024-09-07,Beverages,349,True
+2024-09-08,Beverages,250,False
+2024-09-09,Beverages,218,False
+2024-09-10,Beverages,221,False
+2024-09-11,Beverages,217,False
+2024-09-12,Beverages,237,False
+2024-09-13,Beverages,259,False
+2024-09-14,Beverages,243,False
+2024-09-15,Beverages,229,False
+2024-09-16,Beverages,218,False
+2024-09-17,Beverages,265,False
+2024-09-18,Beverages,206,False
+2024-09-19,Beverages,249,False
+2024-09-20,Beverages,250,False
+2024-09-21,Beverages,243,False
+2024-09-22,Beverages,263,False
+2024-09-23,Beverages,326,True
+2024-09-24,Beverages,213,False
+2024-09-25,Beverages,216,False
+2024-09-26,Beverages,210,False
+2024-09-27,Beverages,202,False
+2024-09-28,Beverages,330,True
+2024-09-29,Beverages,231,False
+2024-09-30,Beverages,221,False
+2024-10-01,Beverages,176,False
+2024-10-02,Beverages,194,False
+2024-10-03,Beverages,163,False
+2024-10-04,Beverages,196,False
+2024-10-05,Beverages,233,False
+2024-10-06,Beverages,183,False
+2024-10-07,Beverages,197,False
+2024-10-08,Beverages,212,False
+2024-10-09,Beverages,169,False
+2024-10-10,Beverages,219,False
+2024-10-11,Beverages,197,False
+2024-10-12,Beverages,206,False
+2024-10-13,Beverages,218,False
+2024-10-14,Beverages,200,False
+2024-10-15,Beverages,191,False
+2024-10-16,Beverages,199,False
+2024-10-17,Beverages,174,False
+2024-10-18,Beverages,259,True
+2024-10-19,Beverages,194,False
+2024-10-20,Beverages,217,False
+2024-10-21,Beverages,174,False
+2024-10-22,Beverages,177,False
+2024-10-23,Beverages,212,False
+2024-10-24,Beverages,209,False
+2024-10-25,Beverages,201,False
+2024-10-26,Beverages,199,False
+2024-10-27,Beverages,213,False
+2024-10-28,Beverages,278,True
+2024-10-29,Beverages,192,False
+2024-10-30,Beverages,231,False
+2024-10-31,Beverages,197,False
+2024-11-01,Beverages,171,False
+2024-11-02,Beverages,188,False
+2024-11-03,Beverages,196,False
+2024-11-04,Beverages,224,True
+2024-11-05,Beverages,181,False
+2024-11-06,Beverages,244,True
+2024-11-07,Beverages,154,False
+2024-11-08,Beverages,145,False
+2024-11-09,Beverages,229,True
+2024-11-10,Beverages,202,False
+2024-11-11,Beverages,149,False
+2024-11-12,Beverages,130,False
+2024-11-13,Beverages,175,False
+2024-11-14,Beverages,212,False
+2024-11-15,Beverages,168,False
+2024-11-16,Beverages,208,False
+2024-11-17,Beverages,195,False
+2024-11-18,Beverages,166,False
+2024-11-19,Beverages,184,False
+2024-11-20,Beverages,163,False
+2024-11-21,Beverages,173,False
+2024-11-22,Beverages,174,False
+2024-11-23,Beverages,181,False
+2024-11-24,Beverages,211,False
+2024-11-25,Beverages,165,False
+2024-11-26,Beverages,155,False
+2024-11-27,Beverages,177,False
+2024-11-28,Beverages,152,False
+2024-11-29,Beverages,169,False
+2024-11-30,Beverages,193,False
+2024-12-01,Beverages,203,False
+2024-12-02,Beverages,224,True
+2024-12-03,Beverages,160,False
+2024-12-04,Beverages,174,False
+2024-12-05,Beverages,184,False
+2024-12-06,Beverages,170,False
+2024-12-07,Beverages,184,False
+2024-12-08,Beverages,161,False
+2024-12-09,Beverages,141,False
+2024-12-10,Beverages,155,False
+2024-12-11,Beverages,149,False
+2024-12-12,Beverages,157,False
+2024-12-13,Beverages,161,False
+2024-12-14,Beverages,193,False
+2024-12-15,Beverages,247,True
+2024-12-16,Beverages,169,False
+2024-12-17,Beverages,161,False
+2024-12-18,Beverages,181,True
+2024-12-19,Beverages,143,False
+2024-12-20,Beverages,157,False
+2024-12-21,Beverages,163,False
+2024-12-22,Beverages,195,False
+2024-12-23,Beverages,187,False
+2024-12-24,Beverages,181,False
+2024-12-25,Beverages,156,False
+2024-12-26,Beverages,186,False
+2024-12-27,Beverages,163,False
+2024-12-28,Beverages,178,False
+2024-12-29,Beverages,173,False
+2024-12-30,Beverages,155,False
+2024-12-31,Beverages,153,False
+2025-01-01,Beverages,171,False
+2025-01-02,Beverages,171,False
+2025-01-03,Beverages,168,False
+2025-01-04,Beverages,201,False
+2025-01-05,Beverages,214,False
+2025-01-06,Beverages,185,False
+2025-01-07,Beverages,201,True
+2025-01-08,Beverages,123,False
+2025-01-09,Beverages,184,False
+2025-01-10,Beverages,144,False
+2025-01-11,Beverages,189,False
+2025-01-12,Beverages,173,False
+2025-01-13,Beverages,136,False
+2025-01-14,Beverages,178,False
+2025-01-15,Beverages,181,False
+2025-01-16,Beverages,158,False
+2025-01-17,Beverages,122,False
+2025-01-18,Beverages,184,False
+2025-01-19,Beverages,200,False
+2025-01-20,Beverages,142,False
+2025-01-21,Beverages,171,False
+2025-01-22,Beverages,168,False
+2025-01-23,Beverages,178,False
+2025-01-24,Beverages,229,True
+2025-01-25,Beverages,176,False
+2025-01-26,Beverages,214,False
+2025-01-27,Beverages,165,False
+2025-01-28,Beverages,168,False
+2025-01-29,Beverages,152,False
+2025-01-30,Beverages,160,False
+2025-01-31,Beverages,211,True
+2025-02-01,Beverages,215,False
+2025-02-02,Beverages,249,False
+2025-02-03,Beverages,166,False
+2025-02-04,Beverages,162,False
+2025-02-05,Beverages,216,False
+2025-02-06,Beverages,186,False
+2025-02-07,Beverages,178,False
+2025-02-08,Beverages,237,False
+2025-02-09,Beverages,208,False
+2025-02-10,Beverages,222,False
+2025-02-11,Beverages,202,False
+2025-02-12,Beverages,181,False
+2025-02-13,Beverages,228,False
+2025-02-14,Beverages,179,False
+2025-02-15,Beverages,232,False
+2025-02-16,Beverages,224,False
+2025-02-17,Beverages,213,False
+2025-02-18,Beverages,217,False
+2025-02-19,Beverages,257,True
+2025-02-20,Beverages,177,False
+2025-02-21,Beverages,198,False
+2025-02-22,Beverages,207,False
+2025-02-23,Beverages,254,False
+2025-02-24,Beverages,192,False
+2025-02-25,Beverages,184,False
+2025-02-26,Beverages,193,False
+2025-02-27,Beverages,166,False
+2025-02-28,Beverages,173,False
+2025-03-01,Beverages,274,False
+2025-03-02,Beverages,241,False
+2025-03-03,Beverages,202,False
+2025-03-04,Beverages,229,False
+2025-03-05,Beverages,241,False
+2025-03-06,Beverages,233,False
+2025-03-07,Beverages,238,False
+2025-03-08,Beverages,240,False
+2025-03-09,Beverages,317,True
+2025-03-10,Beverages,246,False
+2025-03-11,Beverages,214,False
+2025-03-12,Beverages,216,False
+2025-03-13,Beverages,243,False
+2025-03-14,Beverages,230,False
+2025-03-15,Beverages,261,False
+2025-03-16,Beverages,291,False
+2025-03-17,Beverages,209,False
+2025-03-18,Beverages,236,False
+2025-03-19,Beverages,221,False
+2025-03-20,Beverages,225,False
+2025-03-21,Beverages,247,False
+2025-03-22,Beverages,262,False
+2025-03-23,Beverages,262,False
+2025-03-24,Beverages,239,False
+2025-03-25,Beverages,214,False
+2025-03-26,Beverages,205,False
+2025-03-27,Beverages,202,False
+2025-03-28,Beverages,185,False
+2025-03-29,Beverages,289,False
+2025-03-30,Beverages,234,False
+2025-03-31,Beverages,216,False
+2025-04-01,Beverages,245,False
+2025-04-02,Beverages,255,False
+2025-04-03,Beverages,264,False
+2025-04-04,Beverages,265,False
+2025-04-05,Beverages,277,False
+2025-04-06,Beverages,285,False
+2025-04-07,Beverages,255,False
+2025-04-08,Beverages,246,False
+2025-04-09,Beverages,278,False
+2025-04-10,Beverages,259,False
+2025-04-11,Beverages,263,False
+2025-04-12,Beverages,299,False
+2025-04-13,Beverages,409,True
+2025-04-14,Beverages,253,False
+2025-04-15,Beverages,227,False
+2025-04-16,Beverages,257,False
+2025-04-17,Beverages,239,False
+2025-04-18,Beverages,241,False
+2025-04-19,Beverages,298,False
+2025-04-20,Beverages,309,False
+2025-04-21,Beverages,250,False
+2025-04-22,Beverages,255,False
+2025-04-23,Beverages,367,True
+2025-04-24,Beverages,254,False
+2025-04-25,Beverages,296,False
+2025-04-26,Beverages,297,False
+2025-04-27,Beverages,357,True
+2025-04-28,Beverages,263,False
+2025-04-29,Beverages,344,True
+2025-04-30,Beverages,273,False
+2025-05-01,Beverages,284,False
+2025-05-02,Beverages,270,False
+2025-05-03,Beverages,291,False
+2025-05-04,Beverages,309,False
+2025-05-05,Beverages,257,False
+2025-05-06,Beverages,262,False
+2025-05-07,Beverages,282,False
+2025-05-08,Beverages,301,False
+2025-05-09,Beverages,374,True
+2025-05-10,Beverages,292,False
+2025-05-11,Beverages,321,False
+2025-05-12,Beverages,293,False
+2025-05-13,Beverages,261,False
+2025-05-14,Beverages,270,False
+2025-05-15,Beverages,272,False
+2025-05-16,Beverages,258,False
+2025-05-17,Beverages,324,False
+2025-05-18,Beverages,311,False
+2025-05-19,Beverages,279,False
+2025-05-20,Beverages,256,False
+2025-05-21,Beverages,264,False
+2025-05-22,Beverages,380,True
+2025-05-23,Beverages,361,True
+2025-05-24,Beverages,343,False
+2025-05-25,Beverages,306,False
+2025-05-26,Beverages,276,False
+2025-05-27,Beverages,288,False
+2025-05-28,Beverages,247,False
+2025-05-29,Beverages,241,False
+2025-05-30,Beverages,245,False
+2025-05-31,Beverages,335,False
+2025-06-01,Beverages,312,False
+2025-06-02,Beverages,325,False
+2025-06-03,Beverages,270,False
+2025-06-04,Beverages,283,False
+2025-06-05,Beverages,307,False
+2025-06-06,Beverages,315,False
+2025-06-07,Beverages,358,False
+2025-06-08,Beverages,343,False
+2025-06-09,Beverages,298,False
+2025-06-10,Beverages,290,False
+2025-06-11,Beverages,294,False
+2025-06-12,Beverages,270,False
+2025-06-13,Beverages,266,False
+2025-06-14,Beverages,322,False
+2025-06-15,Beverages,319,False
+2025-06-16,Beverages,272,False
+2025-06-17,Beverages,292,False
+2025-06-18,Beverages,297,False
+2025-06-19,Beverages,282,False
+2025-06-20,Beverages,306,False
+2025-06-21,Beverages,302,False
+2025-06-22,Beverages,319,False
+2025-06-23,Beverages,267,False
+2025-06-24,Beverages,247,False
+2025-06-25,Beverages,279,False
+2025-06-26,Beverages,278,False
+2025-06-27,Beverages,307,False
+2025-06-28,Beverages,333,False
+2025-06-29,Beverages,304,False
+2025-06-30,Beverages,313,False
+2025-07-01,Beverages,293,False
+2025-07-02,Beverages,282,False
+2025-07-03,Beverages,268,False
+2025-07-04,Beverages,255,False
+2025-07-05,Beverages,306,False
+2025-07-06,Beverages,332,False
+2025-07-07,Beverages,305,False
+2025-07-08,Beverages,299,False
+2025-07-09,Beverages,263,False
+2025-07-10,Beverages,252,False
+2025-07-11,Beverages,274,False
+2025-07-12,Beverages,282,False
+2025-07-13,Beverages,318,False
+2025-07-14,Beverages,269,False
+2025-07-15,Beverages,264,False
+2025-07-16,Beverages,244,False
+2025-07-17,Beverages,281,False
+2025-07-18,Beverages,263,False
+2025-07-19,Beverages,292,False
+2025-07-20,Beverages,262,False
+2025-07-21,Beverages,271,False
+2025-07-22,Beverages,303,False
+2025-07-23,Beverages,301,False
+2025-07-24,Beverages,264,False
+2025-07-25,Beverages,261,False
+2025-07-26,Beverages,321,False
+2025-07-27,Beverages,295,False
+2025-07-28,Beverages,372,True
+2025-07-29,Beverages,285,False
+2025-07-30,Beverages,294,False
+2025-07-31,Beverages,270,False
+2025-08-01,Beverages,246,False
+2025-08-02,Beverages,373,True
+2025-08-03,Beverages,273,False
+2025-08-04,Beverages,246,False
+2025-08-05,Beverages,256,False
+2025-08-06,Beverages,266,False
+2025-08-07,Beverages,236,False
+2025-08-08,Beverages,276,False
+2025-08-09,Beverages,283,False
+2025-08-10,Beverages,287,False
+2025-08-11,Beverages,237,False
+2025-08-12,Beverages,207,False
+2025-08-13,Beverages,266,False
+2025-08-14,Beverages,263,False
+2025-08-15,Beverages,245,False
+2025-08-16,Beverages,289,False
+2025-08-17,Beverages,297,False
+2025-08-18,Beverages,222,False
+2025-08-19,Beverages,241,False
+2025-08-20,Beverages,264,False
+2025-08-21,Beverages,228,False
+2025-08-22,Beverages,255,False
+2025-08-23,Beverages,264,False
+2025-08-24,Beverages,296,False
+2025-08-25,Beverages,249,False
+2025-08-26,Beverages,222,False
+2025-08-27,Beverages,270,False
+2025-08-28,Beverages,237,False
+2025-08-29,Beverages,323,True
+2025-08-30,Beverages,291,False
+2025-08-31,Beverages,308,False
+2025-09-01,Beverages,202,False
+2025-09-02,Beverages,221,False
+2025-09-03,Beverages,228,False
+2025-09-04,Beverages,232,False
+2025-09-05,Beverages,223,False
+2025-09-06,Beverages,247,False
+2025-09-07,Beverages,238,False
+2025-09-08,Beverages,222,False
+2025-09-09,Beverages,201,False
+2025-09-10,Beverages,169,False
+2025-09-11,Beverages,228,False
+2025-09-12,Beverages,236,False
+2025-09-13,Beverages,211,False
+2025-09-14,Beverages,235,False
+2025-09-15,Beverages,231,False
+2025-09-16,Beverages,256,False
+2025-09-17,Beverages,220,False
+2025-09-18,Beverages,207,False
+2025-09-19,Beverages,217,False
+2025-09-20,Beverages,277,False
+2025-09-21,Beverages,242,False
+2025-09-22,Beverages,206,False
+2025-09-23,Beverages,212,False
+2025-09-24,Beverages,203,False
+2025-09-25,Beverages,222,False
+2025-09-26,Beverages,249,False
+2025-09-27,Beverages,259,False
+2025-09-28,Beverages,249,False
+2025-09-29,Beverages,215,False
+2025-09-30,Beverages,192,False
+2025-10-01,Beverages,206,False
+2025-10-02,Beverages,189,False
+2025-10-03,Beverages,187,False
+2025-10-04,Beverages,351,True
+2025-10-05,Beverages,224,False
+2025-10-06,Beverages,177,False
+2025-10-07,Beverages,182,False
+2025-10-08,Beverages,210,False
+2025-10-09,Beverages,192,False
+2025-10-10,Beverages,165,False
+2025-10-11,Beverages,311,True
+2025-10-12,Beverages,207,False
+2025-10-13,Beverages,223,False
+2025-10-14,Beverages,209,False
+2025-10-15,Beverages,182,False
+2025-10-16,Beverages,279,True
+2025-10-17,Beverages,191,False
+2025-10-18,Beverages,234,False
+2025-10-19,Beverages,227,False
+2025-10-20,Beverages,175,False
+2025-10-21,Beverages,179,False
+2025-10-22,Beverages,208,False
+2025-10-23,Beverages,184,False
+2025-10-24,Beverages,183,False
+2025-10-25,Beverages,202,False
+2025-10-26,Beverages,226,False
+2025-10-27,Beverages,226,False
+2025-10-28,Beverages,171,False
+2025-10-29,Beverages,190,False
+2025-10-30,Beverages,215,False
+2025-10-31,Beverages,189,False
+2025-11-01,Beverages,201,False
+2025-11-02,Beverages,175,False
+2025-11-03,Beverages,176,False
+2025-11-04,Beverages,165,False
+2025-11-05,Beverages,185,False
+2025-11-06,Beverages,189,False
+2025-11-07,Beverages,214,False
+2025-11-08,Beverages,203,False
+2025-11-09,Beverages,199,False
+2025-11-10,Beverages,171,False
+2025-11-11,Beverages,221,True
+2025-11-12,Beverages,174,False
+2025-11-13,Beverages,222,True
+2025-11-14,Beverages,171,False
+2025-11-15,Beverages,284,True
+2025-11-16,Beverages,176,False
+2025-11-17,Beverages,188,False
+2025-11-18,Beverages,191,False
+2025-11-19,Beverages,166,False
+2025-11-20,Beverages,131,False
+2025-11-21,Beverages,157,False
+2025-11-22,Beverages,216,False
+2025-11-23,Beverages,193,False
+2025-11-24,Beverages,150,False
+2025-11-25,Beverages,159,False
+2025-11-26,Beverages,183,False
+2025-11-27,Beverages,178,False
+2025-11-28,Beverages,164,False
+2025-11-29,Beverages,187,False
+2025-11-30,Beverages,254,True
+2025-12-01,Beverages,144,False
+2025-12-02,Beverages,188,False
+2025-12-03,Beverages,154,False
+2025-12-04,Beverages,181,False
+2025-12-05,Beverages,187,False
+2025-12-06,Beverages,202,False
+2025-12-07,Beverages,176,False
+2025-12-08,Beverages,167,False
+2025-12-09,Beverages,160,False
+2025-12-10,Beverages,144,False
+2025-12-11,Beverages,166,False
+2025-12-12,Beverages,139,False
+2025-12-13,Beverages,205,False
+2025-12-14,Beverages,176,False
+2025-12-15,Beverages,164,False
+2025-12-16,Beverages,165,False
+2025-12-17,Beverages,155,False
+2025-12-18,Beverages,170,False
+2025-12-19,Beverages,152,False
+2025-12-20,Beverages,199,False
+2025-12-21,Beverages,160,False
+2025-12-22,Beverages,162,False
+2025-12-23,Beverages,250,True
+2025-12-24,Beverages,142,False
+2025-12-25,Beverages,148,False
+2025-12-26,Beverages,225,True
+2025-12-27,Beverages,187,False
+2025-12-28,Beverages,190,False
+2025-12-29,Beverages,169,False
+2025-12-30,Beverages,171,False
+2025-12-31,Beverages,180,False
+2023-01-01,Snacks,233,False
+2023-01-02,Snacks,194,False
+2023-01-03,Snacks,207,False
+2023-01-04,Snacks,225,False
+2023-01-05,Snacks,196,False
+2023-01-06,Snacks,183,False
+2023-01-07,Snacks,243,False
+2023-01-08,Snacks,225,False
+2023-01-09,Snacks,166,False
+2023-01-10,Snacks,210,False
+2023-01-11,Snacks,249,True
+2023-01-12,Snacks,196,False
+2023-01-13,Snacks,202,False
+2023-01-14,Snacks,230,False
+2023-01-15,Snacks,237,False
+2023-01-16,Snacks,191,False
+2023-01-17,Snacks,205,False
+2023-01-18,Snacks,194,False
+2023-01-19,Snacks,208,False
+2023-01-20,Snacks,206,False
+2023-01-21,Snacks,214,False
+2023-01-22,Snacks,243,False
+2023-01-23,Snacks,190,False
+2023-01-24,Snacks,209,False
+2023-01-25,Snacks,203,False
+2023-01-26,Snacks,224,False
+2023-01-27,Snacks,194,False
+2023-01-28,Snacks,222,False
+2023-01-29,Snacks,227,False
+2023-01-30,Snacks,193,False
+2023-01-31,Snacks,209,False
+2023-02-01,Snacks,211,True
+2023-02-02,Snacks,165,False
+2023-02-03,Snacks,165,False
+2023-02-04,Snacks,221,False
+2023-02-05,Snacks,232,False
+2023-02-06,Snacks,178,False
+2023-02-07,Snacks,178,False
+2023-02-08,Snacks,181,False
+2023-02-09,Snacks,197,False
+2023-02-10,Snacks,167,False
+2023-02-11,Snacks,210,False
+2023-02-12,Snacks,221,False
+2023-02-13,Snacks,187,False
+2023-02-14,Snacks,237,True
+2023-02-15,Snacks,194,False
+2023-02-16,Snacks,141,False
+2023-02-17,Snacks,190,False
+2023-02-18,Snacks,198,False
+2023-02-19,Snacks,181,False
+2023-02-20,Snacks,187,False
+2023-02-21,Snacks,254,True
+2023-02-22,Snacks,178,False
+2023-02-23,Snacks,194,False
+2023-02-24,Snacks,203,False
+2023-02-25,Snacks,226,False
+2023-02-26,Snacks,293,True
+2023-02-27,Snacks,191,False
+2023-02-28,Snacks,181,False
+2023-03-01,Snacks,139,False
+2023-03-02,Snacks,159,False
+2023-03-03,Snacks,150,False
+2023-03-04,Snacks,218,False
+2023-03-05,Snacks,184,False
+2023-03-06,Snacks,164,False
+2023-03-07,Snacks,170,False
+2023-03-08,Snacks,163,False
+2023-03-09,Snacks,187,False
+2023-03-10,Snacks,154,False
+2023-03-11,Snacks,190,False
+2023-03-12,Snacks,232,True
+2023-03-13,Snacks,143,False
+2023-03-14,Snacks,154,False
+2023-03-15,Snacks,162,False
+2023-03-16,Snacks,156,False
+2023-03-17,Snacks,153,False
+2023-03-18,Snacks,167,False
+2023-03-19,Snacks,186,False
+2023-03-20,Snacks,141,False
+2023-03-21,Snacks,173,False
+2023-03-22,Snacks,164,False
+2023-03-23,Snacks,142,False
+2023-03-24,Snacks,158,False
+2023-03-25,Snacks,176,False
+2023-03-26,Snacks,191,False
+2023-03-27,Snacks,182,False
+2023-03-28,Snacks,184,True
+2023-03-29,Snacks,164,False
+2023-03-30,Snacks,209,True
+2023-03-31,Snacks,172,False
+2023-04-01,Snacks,175,False
+2023-04-02,Snacks,161,False
+2023-04-03,Snacks,145,False
+2023-04-04,Snacks,138,False
+2023-04-05,Snacks,165,False
+2023-04-06,Snacks,150,False
+2023-04-07,Snacks,222,True
+2023-04-08,Snacks,171,False
+2023-04-09,Snacks,162,False
+2023-04-10,Snacks,128,False
+2023-04-11,Snacks,124,False
+2023-04-12,Snacks,172,True
+2023-04-13,Snacks,154,False
+2023-04-14,Snacks,157,False
+2023-04-15,Snacks,149,False
+2023-04-16,Snacks,185,False
+2023-04-17,Snacks,143,False
+2023-04-18,Snacks,197,True
+2023-04-19,Snacks,173,False
+2023-04-20,Snacks,208,True
+2023-04-21,Snacks,146,False
+2023-04-22,Snacks,159,False
+2023-04-23,Snacks,141,False
+2023-04-24,Snacks,184,True
+2023-04-25,Snacks,147,False
+2023-04-26,Snacks,135,False
+2023-04-27,Snacks,148,False
+2023-04-28,Snacks,151,False
+2023-04-29,Snacks,169,False
+2023-04-30,Snacks,163,False
+2023-05-01,Snacks,147,False
+2023-05-02,Snacks,151,False
+2023-05-03,Snacks,129,False
+2023-05-04,Snacks,165,False
+2023-05-05,Snacks,144,False
+2023-05-06,Snacks,167,False
+2023-05-07,Snacks,177,False
+2023-05-08,Snacks,148,False
+2023-05-09,Snacks,159,False
+2023-05-10,Snacks,149,False
+2023-05-11,Snacks,136,False
+2023-05-12,Snacks,150,False
+2023-05-13,Snacks,150,False
+2023-05-14,Snacks,168,False
+2023-05-15,Snacks,145,False
+2023-05-16,Snacks,142,False
+2023-05-17,Snacks,143,False
+2023-05-18,Snacks,118,False
+2023-05-19,Snacks,137,False
+2023-05-20,Snacks,218,True
+2023-05-21,Snacks,169,False
+2023-05-22,Snacks,174,True
+2023-05-23,Snacks,163,False
+2023-05-24,Snacks,133,False
+2023-05-25,Snacks,159,False
+2023-05-26,Snacks,151,False
+2023-05-27,Snacks,157,False
+2023-05-28,Snacks,192,False
+2023-05-29,Snacks,128,False
+2023-05-30,Snacks,158,False
+2023-05-31,Snacks,159,False
+2023-06-01,Snacks,140,False
+2023-06-02,Snacks,170,False
+2023-06-03,Snacks,169,False
+2023-06-04,Snacks,176,False
+2023-06-05,Snacks,153,False
+2023-06-06,Snacks,148,False
+2023-06-07,Snacks,161,False
+2023-06-08,Snacks,206,True
+2023-06-09,Snacks,125,False
+2023-06-10,Snacks,191,False
+2023-06-11,Snacks,148,False
+2023-06-12,Snacks,165,False
+2023-06-13,Snacks,166,False
+2023-06-14,Snacks,134,False
+2023-06-15,Snacks,144,False
+2023-06-16,Snacks,134,False
+2023-06-17,Snacks,169,False
+2023-06-18,Snacks,168,False
+2023-06-19,Snacks,161,False
+2023-06-20,Snacks,169,False
+2023-06-21,Snacks,170,False
+2023-06-22,Snacks,142,False
+2023-06-23,Snacks,147,False
+2023-06-24,Snacks,148,False
+2023-06-25,Snacks,161,False
+2023-06-26,Snacks,164,False
+2023-06-27,Snacks,173,False
+2023-06-28,Snacks,177,True
+2023-06-29,Snacks,141,False
+2023-06-30,Snacks,149,False
+2023-07-01,Snacks,191,False
+2023-07-02,Snacks,175,False
+2023-07-03,Snacks,169,False
+2023-07-04,Snacks,156,False
+2023-07-05,Snacks,162,False
+2023-07-06,Snacks,170,False
+2023-07-07,Snacks,163,False
+2023-07-08,Snacks,181,False
+2023-07-09,Snacks,185,False
+2023-07-10,Snacks,161,False
+2023-07-11,Snacks,157,False
+2023-07-12,Snacks,159,False
+2023-07-13,Snacks,186,False
+2023-07-14,Snacks,171,False
+2023-07-15,Snacks,183,False
+2023-07-16,Snacks,197,False
+2023-07-17,Snacks,158,False
+2023-07-18,Snacks,179,False
+2023-07-19,Snacks,217,True
+2023-07-20,Snacks,161,False
+2023-07-21,Snacks,169,False
+2023-07-22,Snacks,164,False
+2023-07-23,Snacks,171,False
+2023-07-24,Snacks,145,False
+2023-07-25,Snacks,165,False
+2023-07-26,Snacks,187,False
+2023-07-27,Snacks,195,False
+2023-07-28,Snacks,220,True
+2023-07-29,Snacks,250,True
+2023-07-30,Snacks,217,True
+2023-07-31,Snacks,155,False
+2023-08-01,Snacks,169,False
+2023-08-02,Snacks,171,False
+2023-08-03,Snacks,178,False
+2023-08-04,Snacks,173,False
+2023-08-05,Snacks,178,False
+2023-08-06,Snacks,218,False
+2023-08-07,Snacks,165,False
+2023-08-08,Snacks,183,False
+2023-08-09,Snacks,210,False
+2023-08-10,Snacks,167,False
+2023-08-11,Snacks,144,False
+2023-08-12,Snacks,203,False
+2023-08-13,Snacks,223,False
+2023-08-14,Snacks,208,False
+2023-08-15,Snacks,162,False
+2023-08-16,Snacks,187,False
+2023-08-17,Snacks,173,False
+2023-08-18,Snacks,178,False
+2023-08-19,Snacks,245,False
+2023-08-20,Snacks,247,True
+2023-08-21,Snacks,184,False
+2023-08-22,Snacks,187,False
+2023-08-23,Snacks,196,False
+2023-08-24,Snacks,181,False
+2023-08-25,Snacks,184,False
+2023-08-26,Snacks,263,True
+2023-08-27,Snacks,211,False
+2023-08-28,Snacks,175,False
+2023-08-29,Snacks,189,False
+2023-08-30,Snacks,175,False
+2023-08-31,Snacks,185,False
+2023-09-01,Snacks,197,False
+2023-09-02,Snacks,243,False
+2023-09-03,Snacks,226,False
+2023-09-04,Snacks,172,False
+2023-09-05,Snacks,275,True
+2023-09-06,Snacks,184,False
+2023-09-07,Snacks,188,False
+2023-09-08,Snacks,189,False
+2023-09-09,Snacks,247,False
+2023-09-10,Snacks,196,False
+2023-09-11,Snacks,243,False
+2023-09-12,Snacks,213,False
+2023-09-13,Snacks,201,False
+2023-09-14,Snacks,197,False
+2023-09-15,Snacks,202,False
+2023-09-16,Snacks,235,False
+2023-09-17,Snacks,236,False
+2023-09-18,Snacks,206,False
+2023-09-19,Snacks,199,False
+2023-09-20,Snacks,195,False
+2023-09-21,Snacks,195,False
+2023-09-22,Snacks,195,False
+2023-09-23,Snacks,243,False
+2023-09-24,Snacks,236,False
+2023-09-25,Snacks,155,False
+2023-09-26,Snacks,207,False
+2023-09-27,Snacks,200,False
+2023-09-28,Snacks,256,True
+2023-09-29,Snacks,192,False
+2023-09-30,Snacks,243,False
+2023-10-01,Snacks,328,True
+2023-10-02,Snacks,199,False
+2023-10-03,Snacks,216,False
+2023-10-04,Snacks,196,False
+2023-10-05,Snacks,190,False
+2023-10-06,Snacks,201,False
+2023-10-07,Snacks,254,False
+2023-10-08,Snacks,256,False
+2023-10-09,Snacks,218,False
+2023-10-10,Snacks,221,False
+2023-10-11,Snacks,218,False
+2023-10-12,Snacks,201,False
+2023-10-13,Snacks,217,False
+2023-10-14,Snacks,253,False
+2023-10-15,Snacks,253,False
+2023-10-16,Snacks,227,False
+2023-10-17,Snacks,221,False
+2023-10-18,Snacks,215,False
+2023-10-19,Snacks,226,False
+2023-10-20,Snacks,273,True
+2023-10-21,Snacks,229,False
+2023-10-22,Snacks,240,False
+2023-10-23,Snacks,200,False
+2023-10-24,Snacks,264,True
+2023-10-25,Snacks,208,False
+2023-10-26,Snacks,199,False
+2023-10-27,Snacks,206,False
+2023-10-28,Snacks,215,False
+2023-10-29,Snacks,245,False
+2023-10-30,Snacks,210,False
+2023-10-31,Snacks,199,False
+2023-11-01,Snacks,224,False
+2023-11-02,Snacks,229,False
+2023-11-03,Snacks,192,False
+2023-11-04,Snacks,236,False
+2023-11-05,Snacks,236,False
+2023-11-06,Snacks,201,False
+2023-11-07,Snacks,227,False
+2023-11-08,Snacks,212,False
+2023-11-09,Snacks,211,False
+2023-11-10,Snacks,186,False
+2023-11-11,Snacks,256,False
+2023-11-12,Snacks,229,False
+2023-11-13,Snacks,216,False
+2023-11-14,Snacks,219,False
+2023-11-15,Snacks,235,False
+2023-11-16,Snacks,261,True
+2023-11-17,Snacks,172,False
+2023-11-18,Snacks,250,False
+2023-11-19,Snacks,273,False
+2023-11-20,Snacks,233,False
+2023-11-21,Snacks,218,False
+2023-11-22,Snacks,208,False
+2023-11-23,Snacks,227,False
+2023-11-24,Snacks,201,False
+2023-11-25,Snacks,328,True
+2023-11-26,Snacks,255,False
+2023-11-27,Snacks,230,False
+2023-11-28,Snacks,319,True
+2023-11-29,Snacks,221,False
+2023-11-30,Snacks,272,True
+2023-12-01,Snacks,273,True
+2023-12-02,Snacks,216,False
+2023-12-03,Snacks,232,False
+2023-12-04,Snacks,204,False
+2023-12-05,Snacks,203,False
+2023-12-06,Snacks,213,False
+2023-12-07,Snacks,198,False
+2023-12-08,Snacks,226,False
+2023-12-09,Snacks,242,False
+2023-12-10,Snacks,242,False
+2023-12-11,Snacks,206,False
+2023-12-12,Snacks,213,False
+2023-12-13,Snacks,222,False
+2023-12-14,Snacks,198,False
+2023-12-15,Snacks,201,False
+2023-12-16,Snacks,237,False
+2023-12-17,Snacks,222,False
+2023-12-18,Snacks,199,False
+2023-12-19,Snacks,203,False
+2023-12-20,Snacks,223,False
+2023-12-21,Snacks,214,False
+2023-12-22,Snacks,213,False
+2023-12-23,Snacks,254,False
+2023-12-24,Snacks,240,False
+2023-12-25,Snacks,216,False
+2023-12-26,Snacks,272,True
+2023-12-27,Snacks,214,False
+2023-12-28,Snacks,202,False
+2023-12-29,Snacks,175,False
+2023-12-30,Snacks,240,False
+2023-12-31,Snacks,262,False
+2024-01-01,Snacks,211,False
+2024-01-02,Snacks,211,False
+2024-01-03,Snacks,275,True
+2024-01-04,Snacks,199,False
+2024-01-05,Snacks,200,False
+2024-01-06,Snacks,218,False
+2024-01-07,Snacks,223,False
+2024-01-08,Snacks,206,False
+2024-01-09,Snacks,215,False
+2024-01-10,Snacks,195,False
+2024-01-11,Snacks,191,False
+2024-01-12,Snacks,198,False
+2024-01-13,Snacks,236,False
+2024-01-14,Snacks,206,False
+2024-01-15,Snacks,164,False
+2024-01-16,Snacks,190,False
+2024-01-17,Snacks,180,False
+2024-01-18,Snacks,190,False
+2024-01-19,Snacks,195,False
+2024-01-20,Snacks,221,False
+2024-01-21,Snacks,248,False
+2024-01-22,Snacks,202,False
+2024-01-23,Snacks,202,False
+2024-01-24,Snacks,206,False
+2024-01-25,Snacks,181,False
+2024-01-26,Snacks,212,False
+2024-01-27,Snacks,226,False
+2024-01-28,Snacks,237,False
+2024-01-29,Snacks,182,False
+2024-01-30,Snacks,175,False
+2024-01-31,Snacks,209,False
+2024-02-01,Snacks,185,False
+2024-02-02,Snacks,167,False
+2024-02-03,Snacks,257,True
+2024-02-04,Snacks,223,False
+2024-02-05,Snacks,163,False
+2024-02-06,Snacks,204,False
+2024-02-07,Snacks,167,False
+2024-02-08,Snacks,189,False
+2024-02-09,Snacks,175,False
+2024-02-10,Snacks,216,False
+2024-02-11,Snacks,199,False
+2024-02-12,Snacks,178,False
+2024-02-13,Snacks,181,False
+2024-02-14,Snacks,220,True
+2024-02-15,Snacks,191,False
+2024-02-16,Snacks,173,False
+2024-02-17,Snacks,204,False
+2024-02-18,Snacks,255,True
+2024-02-19,Snacks,143,False
+2024-02-20,Snacks,177,False
+2024-02-21,Snacks,215,False
+2024-02-22,Snacks,191,False
+2024-02-23,Snacks,180,False
+2024-02-24,Snacks,203,False
+2024-02-25,Snacks,207,False
+2024-02-26,Snacks,188,False
+2024-02-27,Snacks,163,False
+2024-02-28,Snacks,196,False
+2024-02-29,Snacks,190,False
+2024-03-01,Snacks,173,False
+2024-03-02,Snacks,193,False
+2024-03-03,Snacks,187,False
+2024-03-04,Snacks,172,False
+2024-03-05,Snacks,171,False
+2024-03-06,Snacks,157,False
+2024-03-07,Snacks,154,False
+2024-03-08,Snacks,164,False
+2024-03-09,Snacks,209,False
+2024-03-10,Snacks,169,False
+2024-03-11,Snacks,141,False
+2024-03-12,Snacks,165,False
+2024-03-13,Snacks,163,False
+2024-03-14,Snacks,165,False
+2024-03-15,Snacks,215,True
+2024-03-16,Snacks,184,False
+2024-03-17,Snacks,208,False
+2024-03-18,Snacks,139,False
+2024-03-19,Snacks,151,False
+2024-03-20,Snacks,161,False
+2024-03-21,Snacks,139,False
+2024-03-22,Snacks,160,False
+2024-03-23,Snacks,211,False
+2024-03-24,Snacks,187,False
+2024-03-25,Snacks,215,True
+2024-03-26,Snacks,144,False
+2024-03-27,Snacks,154,False
+2024-03-28,Snacks,157,False
+2024-03-29,Snacks,158,False
+2024-03-30,Snacks,205,False
+2024-03-31,Snacks,195,False
+2024-04-01,Snacks,134,False
+2024-04-02,Snacks,153,False
+2024-04-03,Snacks,157,False
+2024-04-04,Snacks,166,False
+2024-04-05,Snacks,172,False
+2024-04-06,Snacks,158,False
+2024-04-07,Snacks,212,True
+2024-04-08,Snacks,132,False
+2024-04-09,Snacks,146,False
+2024-04-10,Snacks,156,False
+2024-04-11,Snacks,164,False
+2024-04-12,Snacks,149,False
+2024-04-13,Snacks,168,False
+2024-04-14,Snacks,174,False
+2024-04-15,Snacks,138,False
+2024-04-16,Snacks,180,False
+2024-04-17,Snacks,127,False
+2024-04-18,Snacks,152,False
+2024-04-19,Snacks,179,False
+2024-04-20,Snacks,172,False
+2024-04-21,Snacks,169,False
+2024-04-22,Snacks,145,False
+2024-04-23,Snacks,192,True
+2024-04-24,Snacks,169,False
+2024-04-25,Snacks,118,False
+2024-04-26,Snacks,172,False
+2024-04-27,Snacks,152,False
+2024-04-28,Snacks,168,False
+2024-04-29,Snacks,144,False
+2024-04-30,Snacks,158,False
+2024-05-01,Snacks,165,True
+2024-05-02,Snacks,152,False
+2024-05-03,Snacks,174,False
+2024-05-04,Snacks,147,False
+2024-05-05,Snacks,169,False
+2024-05-06,Snacks,135,False
+2024-05-07,Snacks,151,False
+2024-05-08,Snacks,145,False
+2024-05-09,Snacks,136,False
+2024-05-10,Snacks,152,False
+2024-05-11,Snacks,193,False
+2024-05-12,Snacks,164,False
+2024-05-13,Snacks,155,False
+2024-05-14,Snacks,126,False
+2024-05-15,Snacks,131,False
+2024-05-16,Snacks,195,True
+2024-05-17,Snacks,166,False
+2024-05-18,Snacks,172,False
+2024-05-19,Snacks,162,False
+2024-05-20,Snacks,145,False
+2024-05-21,Snacks,127,False
+2024-05-22,Snacks,154,False
+2024-05-23,Snacks,158,False
+2024-05-24,Snacks,138,False
+2024-05-25,Snacks,160,False
+2024-05-26,Snacks,171,False
+2024-05-27,Snacks,139,False
+2024-05-28,Snacks,144,False
+2024-05-29,Snacks,175,False
+2024-05-30,Snacks,141,False
+2024-05-31,Snacks,183,True
+2024-06-01,Snacks,163,False
+2024-06-02,Snacks,183,False
+2024-06-03,Snacks,147,False
+2024-06-04,Snacks,140,False
+2024-06-05,Snacks,169,False
+2024-06-06,Snacks,170,False
+2024-06-07,Snacks,141,False
+2024-06-08,Snacks,145,False
+2024-06-09,Snacks,187,False
+2024-06-10,Snacks,140,False
+2024-06-11,Snacks,161,False
+2024-06-12,Snacks,121,False
+2024-06-13,Snacks,163,False
+2024-06-14,Snacks,132,False
+2024-06-15,Snacks,183,False
+2024-06-16,Snacks,172,False
+2024-06-17,Snacks,136,False
+2024-06-18,Snacks,144,False
+2024-06-19,Snacks,160,False
+2024-06-20,Snacks,151,False
+2024-06-21,Snacks,158,False
+2024-06-22,Snacks,201,False
+2024-06-23,Snacks,150,False
+2024-06-24,Snacks,173,False
+2024-06-25,Snacks,151,False
+2024-06-26,Snacks,137,False
+2024-06-27,Snacks,175,True
+2024-06-28,Snacks,147,False
+2024-06-29,Snacks,237,True
+2024-06-30,Snacks,170,False
+2024-07-01,Snacks,184,False
+2024-07-02,Snacks,142,False
+2024-07-03,Snacks,162,False
+2024-07-04,Snacks,144,False
+2024-07-05,Snacks,168,False
+2024-07-06,Snacks,200,False
+2024-07-07,Snacks,181,False
+2024-07-08,Snacks,125,False
+2024-07-09,Snacks,165,False
+2024-07-10,Snacks,169,False
+2024-07-11,Snacks,217,True
+2024-07-12,Snacks,229,True
+2024-07-13,Snacks,171,False
+2024-07-14,Snacks,197,False
+2024-07-15,Snacks,180,False
+2024-07-16,Snacks,137,False
+2024-07-17,Snacks,167,False
+2024-07-18,Snacks,155,False
+2024-07-19,Snacks,161,False
+2024-07-20,Snacks,248,True
+2024-07-21,Snacks,180,False
+2024-07-22,Snacks,202,True
+2024-07-23,Snacks,163,False
+2024-07-24,Snacks,147,False
+2024-07-25,Snacks,147,False
+2024-07-26,Snacks,172,False
+2024-07-27,Snacks,170,False
+2024-07-28,Snacks,196,False
+2024-07-29,Snacks,169,False
+2024-07-30,Snacks,138,False
+2024-07-31,Snacks,153,False
+2024-08-01,Snacks,197,False
+2024-08-02,Snacks,166,False
+2024-08-03,Snacks,200,False
+2024-08-04,Snacks,214,False
+2024-08-05,Snacks,191,False
+2024-08-06,Snacks,176,False
+2024-08-07,Snacks,171,False
+2024-08-08,Snacks,200,False
+2024-08-09,Snacks,205,False
+2024-08-10,Snacks,221,False
+2024-08-11,Snacks,208,False
+2024-08-12,Snacks,168,False
+2024-08-13,Snacks,168,False
+2024-08-14,Snacks,188,False
+2024-08-15,Snacks,186,False
+2024-08-16,Snacks,254,True
+2024-08-17,Snacks,216,False
+2024-08-18,Snacks,185,False
+2024-08-19,Snacks,195,False
+2024-08-20,Snacks,166,False
+2024-08-21,Snacks,174,False
+2024-08-22,Snacks,184,False
+2024-08-23,Snacks,209,False
+2024-08-24,Snacks,252,False
+2024-08-25,Snacks,216,False
+2024-08-26,Snacks,177,False
+2024-08-27,Snacks,188,False
+2024-08-28,Snacks,193,False
+2024-08-29,Snacks,175,False
+2024-08-30,Snacks,206,False
+2024-08-31,Snacks,210,False
+2024-09-01,Snacks,234,False
+2024-09-02,Snacks,207,False
+2024-09-03,Snacks,204,False
+2024-09-04,Snacks,210,False
+2024-09-05,Snacks,189,False
+2024-09-06,Snacks,189,False
+2024-09-07,Snacks,279,True
+2024-09-08,Snacks,233,False
+2024-09-09,Snacks,209,False
+2024-09-10,Snacks,204,False
+2024-09-11,Snacks,222,False
+2024-09-12,Snacks,197,False
+2024-09-13,Snacks,207,False
+2024-09-14,Snacks,211,False
+2024-09-15,Snacks,222,False
+2024-09-16,Snacks,208,False
+2024-09-17,Snacks,210,False
+2024-09-18,Snacks,193,False
+2024-09-19,Snacks,196,False
+2024-09-20,Snacks,176,False
+2024-09-21,Snacks,222,False
+2024-09-22,Snacks,240,False
+2024-09-23,Snacks,265,True
+2024-09-24,Snacks,205,False
+2024-09-25,Snacks,198,False
+2024-09-26,Snacks,198,False
+2024-09-27,Snacks,188,False
+2024-09-28,Snacks,305,True
+2024-09-29,Snacks,233,False
+2024-09-30,Snacks,205,False
+2024-10-01,Snacks,203,False
+2024-10-02,Snacks,179,False
+2024-10-03,Snacks,226,False
+2024-10-04,Snacks,203,False
+2024-10-05,Snacks,229,False
+2024-10-06,Snacks,252,False
+2024-10-07,Snacks,205,False
+2024-10-08,Snacks,226,False
+2024-10-09,Snacks,219,False
+2024-10-10,Snacks,220,False
+2024-10-11,Snacks,191,False
+2024-10-12,Snacks,259,False
+2024-10-13,Snacks,246,False
+2024-10-14,Snacks,205,False
+2024-10-15,Snacks,212,False
+2024-10-16,Snacks,185,False
+2024-10-17,Snacks,216,False
+2024-10-18,Snacks,259,True
+2024-10-19,Snacks,222,False
+2024-10-20,Snacks,220,False
+2024-10-21,Snacks,226,False
+2024-10-22,Snacks,201,False
+2024-10-23,Snacks,232,False
+2024-10-24,Snacks,203,False
+2024-10-25,Snacks,186,False
+2024-10-26,Snacks,226,False
+2024-10-27,Snacks,260,False
+2024-10-28,Snacks,271,True
+2024-10-29,Snacks,202,False
+2024-10-30,Snacks,213,False
+2024-10-31,Snacks,218,False
+2024-11-01,Snacks,231,False
+2024-11-02,Snacks,268,False
+2024-11-03,Snacks,242,False
+2024-11-04,Snacks,260,True
+2024-11-05,Snacks,209,False
+2024-11-06,Snacks,283,True
+2024-11-07,Snacks,201,False
+2024-11-08,Snacks,201,False
+2024-11-09,Snacks,326,True
+2024-11-10,Snacks,247,False
+2024-11-11,Snacks,215,False
+2024-11-12,Snacks,204,False
+2024-11-13,Snacks,212,False
+2024-11-14,Snacks,202,False
+2024-11-15,Snacks,228,False
+2024-11-16,Snacks,262,False
+2024-11-17,Snacks,221,False
+2024-11-18,Snacks,202,False
+2024-11-19,Snacks,193,False
+2024-11-20,Snacks,206,False
+2024-11-21,Snacks,214,False
+2024-11-22,Snacks,194,False
+2024-11-23,Snacks,234,False
+2024-11-24,Snacks,233,False
+2024-11-25,Snacks,218,False
+2024-11-26,Snacks,216,False
+2024-11-27,Snacks,205,False
+2024-11-28,Snacks,218,False
+2024-11-29,Snacks,207,False
+2024-11-30,Snacks,243,False
+2024-12-01,Snacks,266,False
+2024-12-02,Snacks,293,True
+2024-12-03,Snacks,192,False
+2024-12-04,Snacks,222,False
+2024-12-05,Snacks,222,False
+2024-12-06,Snacks,194,False
+2024-12-07,Snacks,254,False
+2024-12-08,Snacks,264,False
+2024-12-09,Snacks,194,False
+2024-12-10,Snacks,197,False
+2024-12-11,Snacks,225,False
+2024-12-12,Snacks,214,False
+2024-12-13,Snacks,218,False
+2024-12-14,Snacks,247,False
+2024-12-15,Snacks,320,True
+2024-12-16,Snacks,191,False
+2024-12-17,Snacks,225,False
+2024-12-18,Snacks,290,True
+2024-12-19,Snacks,207,False
+2024-12-20,Snacks,210,False
+2024-12-21,Snacks,220,False
+2024-12-22,Snacks,249,False
+2024-12-23,Snacks,219,False
+2024-12-24,Snacks,209,False
+2024-12-25,Snacks,227,False
+2024-12-26,Snacks,206,False
+2024-12-27,Snacks,218,False
+2024-12-28,Snacks,227,False
+2024-12-29,Snacks,242,False
+2024-12-30,Snacks,208,False
+2024-12-31,Snacks,214,False
+2025-01-01,Snacks,192,False
+2025-01-02,Snacks,196,False
+2025-01-03,Snacks,209,False
+2025-01-04,Snacks,221,False
+2025-01-05,Snacks,204,False
+2025-01-06,Snacks,223,False
+2025-01-07,Snacks,277,True
+2025-01-08,Snacks,179,False
+2025-01-09,Snacks,207,False
+2025-01-10,Snacks,190,False
+2025-01-11,Snacks,231,False
+2025-01-12,Snacks,231,False
+2025-01-13,Snacks,194,False
+2025-01-14,Snacks,186,False
+2025-01-15,Snacks,188,False
+2025-01-16,Snacks,184,False
+2025-01-17,Snacks,186,False
+2025-01-18,Snacks,226,False
+2025-01-19,Snacks,217,False
+2025-01-20,Snacks,207,False
+2025-01-21,Snacks,219,False
+2025-01-22,Snacks,189,False
+2025-01-23,Snacks,201,False
+2025-01-24,Snacks,264,True
+2025-01-25,Snacks,234,False
+2025-01-26,Snacks,228,False
+2025-01-27,Snacks,208,False
+2025-01-28,Snacks,204,False
+2025-01-29,Snacks,180,False
+2025-01-30,Snacks,210,False
+2025-01-31,Snacks,270,True
+2025-02-01,Snacks,196,False
+2025-02-02,Snacks,208,False
+2025-02-03,Snacks,190,False
+2025-02-04,Snacks,177,False
+2025-02-05,Snacks,195,False
+2025-02-06,Snacks,214,False
+2025-02-07,Snacks,169,False
+2025-02-08,Snacks,187,False
+2025-02-09,Snacks,211,False
+2025-02-10,Snacks,190,False
+2025-02-11,Snacks,177,False
+2025-02-12,Snacks,201,False
+2025-02-13,Snacks,161,False
+2025-02-14,Snacks,190,False
+2025-02-15,Snacks,198,False
+2025-02-16,Snacks,232,False
+2025-02-17,Snacks,209,False
+2025-02-18,Snacks,169,False
+2025-02-19,Snacks,226,True
+2025-02-20,Snacks,192,False
+2025-02-21,Snacks,174,False
+2025-02-22,Snacks,206,False
+2025-02-23,Snacks,207,False
+2025-02-24,Snacks,152,False
+2025-02-25,Snacks,180,False
+2025-02-26,Snacks,170,False
+2025-02-27,Snacks,173,False
+2025-02-28,Snacks,201,False
+2025-03-01,Snacks,169,False
+2025-03-02,Snacks,199,False
+2025-03-03,Snacks,158,False
+2025-03-04,Snacks,158,False
+2025-03-05,Snacks,174,False
+2025-03-06,Snacks,167,False
+2025-03-07,Snacks,171,False
+2025-03-08,Snacks,201,False
+2025-03-09,Snacks,238,True
+2025-03-10,Snacks,154,False
+2025-03-11,Snacks,147,False
+2025-03-12,Snacks,151,False
+2025-03-13,Snacks,205,False
+2025-03-14,Snacks,180,False
+2025-03-15,Snacks,167,False
+2025-03-16,Snacks,168,False
+2025-03-17,Snacks,169,False
+2025-03-18,Snacks,170,False
+2025-03-19,Snacks,170,False
+2025-03-20,Snacks,159,False
+2025-03-21,Snacks,161,False
+2025-03-22,Snacks,192,False
+2025-03-23,Snacks,188,False
+2025-03-24,Snacks,131,False
+2025-03-25,Snacks,159,False
+2025-03-26,Snacks,150,False
+2025-03-27,Snacks,165,False
+2025-03-28,Snacks,205,False
+2025-03-29,Snacks,192,False
+2025-03-30,Snacks,182,False
+2025-03-31,Snacks,176,False
+2025-04-01,Snacks,157,False
+2025-04-02,Snacks,156,False
+2025-04-03,Snacks,158,False
+2025-04-04,Snacks,179,False
+2025-04-05,Snacks,156,False
+2025-04-06,Snacks,179,False
+2025-04-07,Snacks,136,False
+2025-04-08,Snacks,158,False
+2025-04-09,Snacks,136,False
+2025-04-10,Snacks,144,False
+2025-04-11,Snacks,145,False
+2025-04-12,Snacks,186,False
+2025-04-13,Snacks,237,True
+2025-04-14,Snacks,132,False
+2025-04-15,Snacks,150,False
+2025-04-16,Snacks,139,False
+2025-04-17,Snacks,132,False
+2025-04-18,Snacks,147,False
+2025-04-19,Snacks,168,False
+2025-04-20,Snacks,207,False
+2025-04-21,Snacks,156,False
+2025-04-22,Snacks,130,False
+2025-04-23,Snacks,186,True
+2025-04-24,Snacks,164,False
+2025-04-25,Snacks,180,False
+2025-04-26,Snacks,149,False
+2025-04-27,Snacks,197,True
+2025-04-28,Snacks,177,False
+2025-04-29,Snacks,200,True
+2025-04-30,Snacks,137,False
+2025-05-01,Snacks,153,False
+2025-05-02,Snacks,107,False
+2025-05-03,Snacks,167,False
+2025-05-04,Snacks,171,False
+2025-05-05,Snacks,158,False
+2025-05-06,Snacks,130,False
+2025-05-07,Snacks,146,False
+2025-05-08,Snacks,132,False
+2025-05-09,Snacks,192,True
+2025-05-10,Snacks,154,False
+2025-05-11,Snacks,161,False
+2025-05-12,Snacks,131,False
+2025-05-13,Snacks,154,False
+2025-05-14,Snacks,157,False
+2025-05-15,Snacks,142,False
+2025-05-16,Snacks,146,False
+2025-05-17,Snacks,146,False
+2025-05-18,Snacks,162,False
+2025-05-19,Snacks,144,False
+2025-05-20,Snacks,183,False
+2025-05-21,Snacks,129,False
+2025-05-22,Snacks,210,True
+2025-05-23,Snacks,203,True
+2025-05-24,Snacks,171,False
+2025-05-25,Snacks,192,False
+2025-05-26,Snacks,150,False
+2025-05-27,Snacks,151,False
+2025-05-28,Snacks,144,False
+2025-05-29,Snacks,163,False
+2025-05-30,Snacks,161,False
+2025-05-31,Snacks,158,False
+2025-06-01,Snacks,153,False
+2025-06-02,Snacks,147,False
+2025-06-03,Snacks,138,False
+2025-06-04,Snacks,149,False
+2025-06-05,Snacks,168,False
+2025-06-06,Snacks,143,False
+2025-06-07,Snacks,172,False
+2025-06-08,Snacks,173,False
+2025-06-09,Snacks,162,False
+2025-06-10,Snacks,117,False
+2025-06-11,Snacks,141,False
+2025-06-12,Snacks,153,False
+2025-06-13,Snacks,167,False
+2025-06-14,Snacks,165,False
+2025-06-15,Snacks,145,False
+2025-06-16,Snacks,159,False
+2025-06-17,Snacks,141,False
+2025-06-18,Snacks,133,False
+2025-06-19,Snacks,141,False
+2025-06-20,Snacks,147,False
+2025-06-21,Snacks,163,False
+2025-06-22,Snacks,140,False
+2025-06-23,Snacks,163,False
+2025-06-24,Snacks,168,False
+2025-06-25,Snacks,159,False
+2025-06-26,Snacks,133,False
+2025-06-27,Snacks,147,False
+2025-06-28,Snacks,172,False
+2025-06-29,Snacks,181,False
+2025-06-30,Snacks,159,False
+2025-07-01,Snacks,152,False
+2025-07-02,Snacks,164,False
+2025-07-03,Snacks,169,False
+2025-07-04,Snacks,183,False
+2025-07-05,Snacks,197,False
+2025-07-06,Snacks,198,False
+2025-07-07,Snacks,164,False
+2025-07-08,Snacks,183,False
+2025-07-09,Snacks,168,False
+2025-07-10,Snacks,150,False
+2025-07-11,Snacks,183,False
+2025-07-12,Snacks,197,False
+2025-07-13,Snacks,180,False
+2025-07-14,Snacks,156,False
+2025-07-15,Snacks,167,False
+2025-07-16,Snacks,169,False
+2025-07-17,Snacks,165,False
+2025-07-18,Snacks,167,False
+2025-07-19,Snacks,211,False
+2025-07-20,Snacks,202,False
+2025-07-21,Snacks,165,False
+2025-07-22,Snacks,176,False
+2025-07-23,Snacks,148,False
+2025-07-24,Snacks,168,False
+2025-07-25,Snacks,189,False
+2025-07-26,Snacks,184,False
+2025-07-27,Snacks,175,False
+2025-07-28,Snacks,202,True
+2025-07-29,Snacks,147,False
+2025-07-30,Snacks,151,False
+2025-07-31,Snacks,157,False
+2025-08-01,Snacks,160,False
+2025-08-02,Snacks,269,True
+2025-08-03,Snacks,220,False
+2025-08-04,Snacks,167,False
+2025-08-05,Snacks,202,False
+2025-08-06,Snacks,187,False
+2025-08-07,Snacks,195,False
+2025-08-08,Snacks,171,False
+2025-08-09,Snacks,219,False
+2025-08-10,Snacks,191,False
+2025-08-11,Snacks,193,False
+2025-08-12,Snacks,182,False
+2025-08-13,Snacks,188,False
+2025-08-14,Snacks,163,False
+2025-08-15,Snacks,167,False
+2025-08-16,Snacks,216,False
+2025-08-17,Snacks,193,False
+2025-08-18,Snacks,187,False
+2025-08-19,Snacks,160,False
+2025-08-20,Snacks,192,False
+2025-08-21,Snacks,162,False
+2025-08-22,Snacks,188,False
+2025-08-23,Snacks,216,False
+2025-08-24,Snacks,197,False
+2025-08-25,Snacks,188,False
+2025-08-26,Snacks,184,False
+2025-08-27,Snacks,172,False
+2025-08-28,Snacks,165,False
+2025-08-29,Snacks,206,True
+2025-08-30,Snacks,212,False
+2025-08-31,Snacks,184,False
+2025-09-01,Snacks,199,False
+2025-09-02,Snacks,194,False
+2025-09-03,Snacks,207,False
+2025-09-04,Snacks,193,False
+2025-09-05,Snacks,193,False
+2025-09-06,Snacks,238,False
+2025-09-07,Snacks,232,False
+2025-09-08,Snacks,202,False
+2025-09-09,Snacks,204,False
+2025-09-10,Snacks,175,False
+2025-09-11,Snacks,208,False
+2025-09-12,Snacks,206,False
+2025-09-13,Snacks,212,False
+2025-09-14,Snacks,224,False
+2025-09-15,Snacks,197,False
+2025-09-16,Snacks,196,False
+2025-09-17,Snacks,202,False
+2025-09-18,Snacks,218,False
+2025-09-19,Snacks,213,False
+2025-09-20,Snacks,208,False
+2025-09-21,Snacks,236,False
+2025-09-22,Snacks,217,False
+2025-09-23,Snacks,203,False
+2025-09-24,Snacks,213,False
+2025-09-25,Snacks,226,False
+2025-09-26,Snacks,212,False
+2025-09-27,Snacks,231,False
+2025-09-28,Snacks,242,False
+2025-09-29,Snacks,200,False
+2025-09-30,Snacks,198,False
+2025-10-01,Snacks,205,False
+2025-10-02,Snacks,233,False
+2025-10-03,Snacks,199,False
+2025-10-04,Snacks,336,True
+2025-10-05,Snacks,249,False
+2025-10-06,Snacks,190,False
+2025-10-07,Snacks,216,False
+2025-10-08,Snacks,180,False
+2025-10-09,Snacks,219,False
+2025-10-10,Snacks,223,False
+2025-10-11,Snacks,306,True
+2025-10-12,Snacks,244,False
+2025-10-13,Snacks,238,False
+2025-10-14,Snacks,203,False
+2025-10-15,Snacks,195,False
+2025-10-16,Snacks,295,True
+2025-10-17,Snacks,239,False
+2025-10-18,Snacks,242,False
+2025-10-19,Snacks,256,False
+2025-10-20,Snacks,230,False
+2025-10-21,Snacks,200,False
+2025-10-22,Snacks,203,False
+2025-10-23,Snacks,228,False
+2025-10-24,Snacks,235,False
+2025-10-25,Snacks,250,False
+2025-10-26,Snacks,229,False
+2025-10-27,Snacks,239,False
+2025-10-28,Snacks,203,False
+2025-10-29,Snacks,205,False
+2025-10-30,Snacks,215,False
+2025-10-31,Snacks,233,False
+2025-11-01,Snacks,260,False
+2025-11-02,Snacks,253,False
+2025-11-03,Snacks,222,False
+2025-11-04,Snacks,216,False
+2025-11-05,Snacks,223,False
+2025-11-06,Snacks,179,False
+2025-11-07,Snacks,211,False
+2025-11-08,Snacks,251,False
+2025-11-09,Snacks,231,False
+2025-11-10,Snacks,221,False
+2025-11-11,Snacks,277,True
+2025-11-12,Snacks,240,False
+2025-11-13,Snacks,302,True
+2025-11-14,Snacks,208,False
+2025-11-15,Snacks,319,True
+2025-11-16,Snacks,246,False
+2025-11-17,Snacks,208,False
+2025-11-18,Snacks,218,False
+2025-11-19,Snacks,204,False
+2025-11-20,Snacks,199,False
+2025-11-21,Snacks,224,False
+2025-11-22,Snacks,256,False
+2025-11-23,Snacks,236,False
+2025-11-24,Snacks,228,False
+2025-11-25,Snacks,206,False
+2025-11-26,Snacks,219,False
+2025-11-27,Snacks,227,False
+2025-11-28,Snacks,215,False
+2025-11-29,Snacks,254,False
+2025-11-30,Snacks,314,True
+2025-12-01,Snacks,207,False
+2025-12-02,Snacks,207,False
+2025-12-03,Snacks,200,False
+2025-12-04,Snacks,208,False
+2025-12-05,Snacks,188,False
+2025-12-06,Snacks,235,False
+2025-12-07,Snacks,238,False
+2025-12-08,Snacks,207,False
+2025-12-09,Snacks,207,False
+2025-12-10,Snacks,209,False
+2025-12-11,Snacks,217,False
+2025-12-12,Snacks,223,False
+2025-12-13,Snacks,233,False
+2025-12-14,Snacks,225,False
+2025-12-15,Snacks,195,False
+2025-12-16,Snacks,203,False
+2025-12-17,Snacks,205,False
+2025-12-18,Snacks,199,False
+2025-12-19,Snacks,192,False
+2025-12-20,Snacks,235,False
+2025-12-21,Snacks,244,False
+2025-12-22,Snacks,219,False
+2025-12-23,Snacks,265,True
+2025-12-24,Snacks,204,False
+2025-12-25,Snacks,197,False
+2025-12-26,Snacks,273,True
+2025-12-27,Snacks,230,False
+2025-12-28,Snacks,250,False
+2025-12-29,Snacks,185,False
+2025-12-30,Snacks,205,False
+2025-12-31,Snacks,215,False
+2023-01-01,Personal Care,178,False
+2023-01-02,Personal Care,183,False
+2023-01-03,Personal Care,157,False
+2023-01-04,Personal Care,142,False
+2023-01-05,Personal Care,152,False
+2023-01-06,Personal Care,133,False
+2023-01-07,Personal Care,175,False
+2023-01-08,Personal Care,167,False
+2023-01-09,Personal Care,163,False
+2023-01-10,Personal Care,147,False
+2023-01-11,Personal Care,182,True
+2023-01-12,Personal Care,146,False
+2023-01-13,Personal Care,172,False
+2023-01-14,Personal Care,172,False
+2023-01-15,Personal Care,196,False
+2023-01-16,Personal Care,162,False
+2023-01-17,Personal Care,158,False
+2023-01-18,Personal Care,157,False
+2023-01-19,Personal Care,157,False
+2023-01-20,Personal Care,131,False
+2023-01-21,Personal Care,173,False
+2023-01-22,Personal Care,185,False
+2023-01-23,Personal Care,152,False
+2023-01-24,Personal Care,137,False
+2023-01-25,Personal Care,152,False
+2023-01-26,Personal Care,172,False
+2023-01-27,Personal Care,167,False
+2023-01-28,Personal Care,175,False
+2023-01-29,Personal Care,187,False
+2023-01-30,Personal Care,149,False
+2023-01-31,Personal Care,134,False
+2023-02-01,Personal Care,167,True
+2023-02-02,Personal Care,165,False
+2023-02-03,Personal Care,144,False
+2023-02-04,Personal Care,167,False
+2023-02-05,Personal Care,166,False
+2023-02-06,Personal Care,169,False
+2023-02-07,Personal Care,166,False
+2023-02-08,Personal Care,172,False
+2023-02-09,Personal Care,146,False
+2023-02-10,Personal Care,151,False
+2023-02-11,Personal Care,153,False
+2023-02-12,Personal Care,186,False
+2023-02-13,Personal Care,134,False
+2023-02-14,Personal Care,179,True
+2023-02-15,Personal Care,135,False
+2023-02-16,Personal Care,141,False
+2023-02-17,Personal Care,138,False
+2023-02-18,Personal Care,163,False
+2023-02-19,Personal Care,164,False
+2023-02-20,Personal Care,141,False
+2023-02-21,Personal Care,186,True
+2023-02-22,Personal Care,135,False
+2023-02-23,Personal Care,150,False
+2023-02-24,Personal Care,161,False
+2023-02-25,Personal Care,164,False
+2023-02-26,Personal Care,196,True
+2023-02-27,Personal Care,145,False
+2023-02-28,Personal Care,161,False
+2023-03-01,Personal Care,142,False
+2023-03-02,Personal Care,134,False
+2023-03-03,Personal Care,145,False
+2023-03-04,Personal Care,149,False
+2023-03-05,Personal Care,169,False
+2023-03-06,Personal Care,145,False
+2023-03-07,Personal Care,137,False
+2023-03-08,Personal Care,131,False
+2023-03-09,Personal Care,130,False
+2023-03-10,Personal Care,146,False
+2023-03-11,Personal Care,175,False
+2023-03-12,Personal Care,186,True
+2023-03-13,Personal Care,145,False
+2023-03-14,Personal Care,117,False
+2023-03-15,Personal Care,133,False
+2023-03-16,Personal Care,140,False
+2023-03-17,Personal Care,130,False
+2023-03-18,Personal Care,151,False
+2023-03-19,Personal Care,154,False
+2023-03-20,Personal Care,143,False
+2023-03-21,Personal Care,138,False
+2023-03-22,Personal Care,115,False
+2023-03-23,Personal Care,116,False
+2023-03-24,Personal Care,133,False
+2023-03-25,Personal Care,166,False
+2023-03-26,Personal Care,130,False
+2023-03-27,Personal Care,134,False
+2023-03-28,Personal Care,162,True
+2023-03-29,Personal Care,156,False
+2023-03-30,Personal Care,164,True
+2023-03-31,Personal Care,144,False
+2023-04-01,Personal Care,154,False
+2023-04-02,Personal Care,129,False
+2023-04-03,Personal Care,141,False
+2023-04-04,Personal Care,135,False
+2023-04-05,Personal Care,138,False
+2023-04-06,Personal Care,176,False
+2023-04-07,Personal Care,136,True
+2023-04-08,Personal Care,172,False
+2023-04-09,Personal Care,149,False
+2023-04-10,Personal Care,136,False
+2023-04-11,Personal Care,132,False
+2023-04-12,Personal Care,154,True
+2023-04-13,Personal Care,126,False
+2023-04-14,Personal Care,136,False
+2023-04-15,Personal Care,135,False
+2023-04-16,Personal Care,161,False
+2023-04-17,Personal Care,128,False
+2023-04-18,Personal Care,146,True
+2023-04-19,Personal Care,127,False
+2023-04-20,Personal Care,173,True
+2023-04-21,Personal Care,127,False
+2023-04-22,Personal Care,156,False
+2023-04-23,Personal Care,144,False
+2023-04-24,Personal Care,167,True
+2023-04-25,Personal Care,140,False
+2023-04-26,Personal Care,153,False
+2023-04-27,Personal Care,131,False
+2023-04-28,Personal Care,140,False
+2023-04-29,Personal Care,153,False
+2023-04-30,Personal Care,167,False
+2023-05-01,Personal Care,119,False
+2023-05-02,Personal Care,135,False
+2023-05-03,Personal Care,125,False
+2023-05-04,Personal Care,126,False
+2023-05-05,Personal Care,128,False
+2023-05-06,Personal Care,149,False
+2023-05-07,Personal Care,145,False
+2023-05-08,Personal Care,129,False
+2023-05-09,Personal Care,145,False
+2023-05-10,Personal Care,138,False
+2023-05-11,Personal Care,137,False
+2023-05-12,Personal Care,122,False
+2023-05-13,Personal Care,136,False
+2023-05-14,Personal Care,157,False
+2023-05-15,Personal Care,137,False
+2023-05-16,Personal Care,144,False
+2023-05-17,Personal Care,120,False
+2023-05-18,Personal Care,124,False
+2023-05-19,Personal Care,109,False
+2023-05-20,Personal Care,171,True
+2023-05-21,Personal Care,157,False
+2023-05-22,Personal Care,147,True
+2023-05-23,Personal Care,134,False
+2023-05-24,Personal Care,125,False
+2023-05-25,Personal Care,131,False
+2023-05-26,Personal Care,114,False
+2023-05-27,Personal Care,147,False
+2023-05-28,Personal Care,113,False
+2023-05-29,Personal Care,125,False
+2023-05-30,Personal Care,109,False
+2023-05-31,Personal Care,141,False
+2023-06-01,Personal Care,134,False
+2023-06-02,Personal Care,130,False
+2023-06-03,Personal Care,161,False
+2023-06-04,Personal Care,133,False
+2023-06-05,Personal Care,145,False
+2023-06-06,Personal Care,135,False
+2023-06-07,Personal Care,122,False
+2023-06-08,Personal Care,163,True
+2023-06-09,Personal Care,113,False
+2023-06-10,Personal Care,135,False
+2023-06-11,Personal Care,137,False
+2023-06-12,Personal Care,119,False
+2023-06-13,Personal Care,113,False
+2023-06-14,Personal Care,139,False
+2023-06-15,Personal Care,122,False
+2023-06-16,Personal Care,129,False
+2023-06-17,Personal Care,137,False
+2023-06-18,Personal Care,123,False
+2023-06-19,Personal Care,128,False
+2023-06-20,Personal Care,104,False
+2023-06-21,Personal Care,124,False
+2023-06-22,Personal Care,110,False
+2023-06-23,Personal Care,147,False
+2023-06-24,Personal Care,154,False
+2023-06-25,Personal Care,145,False
+2023-06-26,Personal Care,139,False
+2023-06-27,Personal Care,116,False
+2023-06-28,Personal Care,156,True
+2023-06-29,Personal Care,127,False
+2023-06-30,Personal Care,128,False
+2023-07-01,Personal Care,160,False
+2023-07-02,Personal Care,154,False
+2023-07-03,Personal Care,130,False
+2023-07-04,Personal Care,108,False
+2023-07-05,Personal Care,116,False
+2023-07-06,Personal Care,126,False
+2023-07-07,Personal Care,128,False
+2023-07-08,Personal Care,133,False
+2023-07-09,Personal Care,173,False
+2023-07-10,Personal Care,144,False
+2023-07-11,Personal Care,134,False
+2023-07-12,Personal Care,128,False
+2023-07-13,Personal Care,125,False
+2023-07-14,Personal Care,116,False
+2023-07-15,Personal Care,147,False
+2023-07-16,Personal Care,149,False
+2023-07-17,Personal Care,113,False
+2023-07-18,Personal Care,131,False
+2023-07-19,Personal Care,151,True
+2023-07-20,Personal Care,106,False
+2023-07-21,Personal Care,117,False
+2023-07-22,Personal Care,141,False
+2023-07-23,Personal Care,167,False
+2023-07-24,Personal Care,133,False
+2023-07-25,Personal Care,112,False
+2023-07-26,Personal Care,132,False
+2023-07-27,Personal Care,110,False
+2023-07-28,Personal Care,165,True
+2023-07-29,Personal Care,170,True
+2023-07-30,Personal Care,174,True
+2023-07-31,Personal Care,142,False
+2023-08-01,Personal Care,118,False
+2023-08-02,Personal Care,117,False
+2023-08-03,Personal Care,126,False
+2023-08-04,Personal Care,144,False
+2023-08-05,Personal Care,135,False
+2023-08-06,Personal Care,121,False
+2023-08-07,Personal Care,127,False
+2023-08-08,Personal Care,139,False
+2023-08-09,Personal Care,146,False
+2023-08-10,Personal Care,127,False
+2023-08-11,Personal Care,128,False
+2023-08-12,Personal Care,165,False
+2023-08-13,Personal Care,131,False
+2023-08-14,Personal Care,128,False
+2023-08-15,Personal Care,135,False
+2023-08-16,Personal Care,138,False
+2023-08-17,Personal Care,127,False
+2023-08-18,Personal Care,133,False
+2023-08-19,Personal Care,125,False
+2023-08-20,Personal Care,175,True
+2023-08-21,Personal Care,138,False
+2023-08-22,Personal Care,121,False
+2023-08-23,Personal Care,133,False
+2023-08-24,Personal Care,138,False
+2023-08-25,Personal Care,129,False
+2023-08-26,Personal Care,185,True
+2023-08-27,Personal Care,142,False
+2023-08-28,Personal Care,130,False
+2023-08-29,Personal Care,139,False
+2023-08-30,Personal Care,134,False
+2023-08-31,Personal Care,126,False
+2023-09-01,Personal Care,143,False
+2023-09-02,Personal Care,169,False
+2023-09-03,Personal Care,138,False
+2023-09-04,Personal Care,153,False
+2023-09-05,Personal Care,164,True
+2023-09-06,Personal Care,145,False
+2023-09-07,Personal Care,153,False
+2023-09-08,Personal Care,125,False
+2023-09-09,Personal Care,153,False
+2023-09-10,Personal Care,158,False
+2023-09-11,Personal Care,131,False
+2023-09-12,Personal Care,159,False
+2023-09-13,Personal Care,130,False
+2023-09-14,Personal Care,134,False
+2023-09-15,Personal Care,142,False
+2023-09-16,Personal Care,148,False
+2023-09-17,Personal Care,157,False
+2023-09-18,Personal Care,144,False
+2023-09-19,Personal Care,136,False
+2023-09-20,Personal Care,139,False
+2023-09-21,Personal Care,134,False
+2023-09-22,Personal Care,123,False
+2023-09-23,Personal Care,165,False
+2023-09-24,Personal Care,181,False
+2023-09-25,Personal Care,140,False
+2023-09-26,Personal Care,143,False
+2023-09-27,Personal Care,148,False
+2023-09-28,Personal Care,154,True
+2023-09-29,Personal Care,159,False
+2023-09-30,Personal Care,163,False
+2023-10-01,Personal Care,222,True
+2023-10-02,Personal Care,139,False
+2023-10-03,Personal Care,168,False
+2023-10-04,Personal Care,156,False
+2023-10-05,Personal Care,154,False
+2023-10-06,Personal Care,150,False
+2023-10-07,Personal Care,167,False
+2023-10-08,Personal Care,183,False
+2023-10-09,Personal Care,149,False
+2023-10-10,Personal Care,125,False
+2023-10-11,Personal Care,135,False
+2023-10-12,Personal Care,145,False
+2023-10-13,Personal Care,151,False
+2023-10-14,Personal Care,169,False
+2023-10-15,Personal Care,183,False
+2023-10-16,Personal Care,126,False
+2023-10-17,Personal Care,149,False
+2023-10-18,Personal Care,127,False
+2023-10-19,Personal Care,156,False
+2023-10-20,Personal Care,176,True
+2023-10-21,Personal Care,174,False
+2023-10-22,Personal Care,160,False
+2023-10-23,Personal Care,162,False
+2023-10-24,Personal Care,189,True
+2023-10-25,Personal Care,154,False
+2023-10-26,Personal Care,146,False
+2023-10-27,Personal Care,154,False
+2023-10-28,Personal Care,162,False
+2023-10-29,Personal Care,179,False
+2023-10-30,Personal Care,166,False
+2023-10-31,Personal Care,159,False
+2023-11-01,Personal Care,145,False
+2023-11-02,Personal Care,157,False
+2023-11-03,Personal Care,139,False
+2023-11-04,Personal Care,182,False
+2023-11-05,Personal Care,181,False
+2023-11-06,Personal Care,132,False
+2023-11-07,Personal Care,140,False
+2023-11-08,Personal Care,150,False
+2023-11-09,Personal Care,150,False
+2023-11-10,Personal Care,139,False
+2023-11-11,Personal Care,180,False
+2023-11-12,Personal Care,179,False
+2023-11-13,Personal Care,151,False
+2023-11-14,Personal Care,145,False
+2023-11-15,Personal Care,165,False
+2023-11-16,Personal Care,202,True
+2023-11-17,Personal Care,148,False
+2023-11-18,Personal Care,169,False
+2023-11-19,Personal Care,181,False
+2023-11-20,Personal Care,149,False
+2023-11-21,Personal Care,151,False
+2023-11-22,Personal Care,161,False
+2023-11-23,Personal Care,132,False
+2023-11-24,Personal Care,168,False
+2023-11-25,Personal Care,212,True
+2023-11-26,Personal Care,171,False
+2023-11-27,Personal Care,152,False
+2023-11-28,Personal Care,183,True
+2023-11-29,Personal Care,134,False
+2023-11-30,Personal Care,200,True
+2023-12-01,Personal Care,186,True
+2023-12-02,Personal Care,183,False
+2023-12-03,Personal Care,189,False
+2023-12-04,Personal Care,144,False
+2023-12-05,Personal Care,160,False
+2023-12-06,Personal Care,152,False
+2023-12-07,Personal Care,164,False
+2023-12-08,Personal Care,131,False
+2023-12-09,Personal Care,177,False
+2023-12-10,Personal Care,171,False
+2023-12-11,Personal Care,160,False
+2023-12-12,Personal Care,160,False
+2023-12-13,Personal Care,147,False
+2023-12-14,Personal Care,147,False
+2023-12-15,Personal Care,154,False
+2023-12-16,Personal Care,168,False
+2023-12-17,Personal Care,188,False
+2023-12-18,Personal Care,151,False
+2023-12-19,Personal Care,122,False
+2023-12-20,Personal Care,151,False
+2023-12-21,Personal Care,143,False
+2023-12-22,Personal Care,137,False
+2023-12-23,Personal Care,164,False
+2023-12-24,Personal Care,179,False
+2023-12-25,Personal Care,170,False
+2023-12-26,Personal Care,190,True
+2023-12-27,Personal Care,148,False
+2023-12-28,Personal Care,160,False
+2023-12-29,Personal Care,150,False
+2023-12-30,Personal Care,170,False
+2023-12-31,Personal Care,165,False
+2024-01-01,Personal Care,133,False
+2024-01-02,Personal Care,149,False
+2024-01-03,Personal Care,185,True
+2024-01-04,Personal Care,152,False
+2024-01-05,Personal Care,148,False
+2024-01-06,Personal Care,165,False
+2024-01-07,Personal Care,183,False
+2024-01-08,Personal Care,138,False
+2024-01-09,Personal Care,162,False
+2024-01-10,Personal Care,142,False
+2024-01-11,Personal Care,145,False
+2024-01-12,Personal Care,137,False
+2024-01-13,Personal Care,170,False
+2024-01-14,Personal Care,187,False
+2024-01-15,Personal Care,159,False
+2024-01-16,Personal Care,164,False
+2024-01-17,Personal Care,159,False
+2024-01-18,Personal Care,141,False
+2024-01-19,Personal Care,149,False
+2024-01-20,Personal Care,167,False
+2024-01-21,Personal Care,191,False
+2024-01-22,Personal Care,140,False
+2024-01-23,Personal Care,163,False
+2024-01-24,Personal Care,163,False
+2024-01-25,Personal Care,173,False
+2024-01-26,Personal Care,148,False
+2024-01-27,Personal Care,184,False
+2024-01-28,Personal Care,201,False
+2024-01-29,Personal Care,146,False
+2024-01-30,Personal Care,136,False
+2024-01-31,Personal Care,132,False
+2024-02-01,Personal Care,155,False
+2024-02-02,Personal Care,126,False
+2024-02-03,Personal Care,199,True
+2024-02-04,Personal Care,175,False
+2024-02-05,Personal Care,150,False
+2024-02-06,Personal Care,152,False
+2024-02-07,Personal Care,150,False
+2024-02-08,Personal Care,162,False
+2024-02-09,Personal Care,137,False
+2024-02-10,Personal Care,162,False
+2024-02-11,Personal Care,161,False
+2024-02-12,Personal Care,157,False
+2024-02-13,Personal Care,158,False
+2024-02-14,Personal Care,182,True
+2024-02-15,Personal Care,161,False
+2024-02-16,Personal Care,134,False
+2024-02-17,Personal Care,188,False
+2024-02-18,Personal Care,221,True
+2024-02-19,Personal Care,156,False
+2024-02-20,Personal Care,167,False
+2024-02-21,Personal Care,129,False
+2024-02-22,Personal Care,142,False
+2024-02-23,Personal Care,139,False
+2024-02-24,Personal Care,178,False
+2024-02-25,Personal Care,158,False
+2024-02-26,Personal Care,156,False
+2024-02-27,Personal Care,163,False
+2024-02-28,Personal Care,155,False
+2024-02-29,Personal Care,151,False
+2024-03-01,Personal Care,129,False
+2024-03-02,Personal Care,152,False
+2024-03-03,Personal Care,175,False
+2024-03-04,Personal Care,149,False
+2024-03-05,Personal Care,140,False
+2024-03-06,Personal Care,135,False
+2024-03-07,Personal Care,117,False
+2024-03-08,Personal Care,128,False
+2024-03-09,Personal Care,182,False
+2024-03-10,Personal Care,147,False
+2024-03-11,Personal Care,142,False
+2024-03-12,Personal Care,151,False
+2024-03-13,Personal Care,126,False
+2024-03-14,Personal Care,142,False
+2024-03-15,Personal Care,179,True
+2024-03-16,Personal Care,161,False
+2024-03-17,Personal Care,193,False
+2024-03-18,Personal Care,121,False
+2024-03-19,Personal Care,152,False
+2024-03-20,Personal Care,138,False
+2024-03-21,Personal Care,149,False
+2024-03-22,Personal Care,145,False
+2024-03-23,Personal Care,153,False
+2024-03-24,Personal Care,164,False
+2024-03-25,Personal Care,147,True
+2024-03-26,Personal Care,147,False
+2024-03-27,Personal Care,143,False
+2024-03-28,Personal Care,147,False
+2024-03-29,Personal Care,152,False
+2024-03-30,Personal Care,165,False
+2024-03-31,Personal Care,163,False
+2024-04-01,Personal Care,123,False
+2024-04-02,Personal Care,125,False
+2024-04-03,Personal Care,146,False
+2024-04-04,Personal Care,149,False
+2024-04-05,Personal Care,130,False
+2024-04-06,Personal Care,153,False
+2024-04-07,Personal Care,173,True
+2024-04-08,Personal Care,146,False
+2024-04-09,Personal Care,140,False
+2024-04-10,Personal Care,154,False
+2024-04-11,Personal Care,123,False
+2024-04-12,Personal Care,128,False
+2024-04-13,Personal Care,155,False
+2024-04-14,Personal Care,160,False
+2024-04-15,Personal Care,130,False
+2024-04-16,Personal Care,123,False
+2024-04-17,Personal Care,142,False
+2024-04-18,Personal Care,141,False
+2024-04-19,Personal Care,122,False
+2024-04-20,Personal Care,168,False
+2024-04-21,Personal Care,165,False
+2024-04-22,Personal Care,134,False
+2024-04-23,Personal Care,160,True
+2024-04-24,Personal Care,139,False
+2024-04-25,Personal Care,123,False
+2024-04-26,Personal Care,133,False
+2024-04-27,Personal Care,128,False
+2024-04-28,Personal Care,162,False
+2024-04-29,Personal Care,115,False
+2024-04-30,Personal Care,149,False
+2024-05-01,Personal Care,149,True
+2024-05-02,Personal Care,125,False
+2024-05-03,Personal Care,120,False
+2024-05-04,Personal Care,143,False
+2024-05-05,Personal Care,162,False
+2024-05-06,Personal Care,99,False
+2024-05-07,Personal Care,141,False
+2024-05-08,Personal Care,131,False
+2024-05-09,Personal Care,113,False
+2024-05-10,Personal Care,115,False
+2024-05-11,Personal Care,165,False
+2024-05-12,Personal Care,135,False
+2024-05-13,Personal Care,114,False
+2024-05-14,Personal Care,140,False
+2024-05-15,Personal Care,131,False
+2024-05-16,Personal Care,142,True
+2024-05-17,Personal Care,129,False
+2024-05-18,Personal Care,135,False
+2024-05-19,Personal Care,158,False
+2024-05-20,Personal Care,139,False
+2024-05-21,Personal Care,133,False
+2024-05-22,Personal Care,131,False
+2024-05-23,Personal Care,147,False
+2024-05-24,Personal Care,127,False
+2024-05-25,Personal Care,133,False
+2024-05-26,Personal Care,151,False
+2024-05-27,Personal Care,150,False
+2024-05-28,Personal Care,116,False
+2024-05-29,Personal Care,123,False
+2024-05-30,Personal Care,132,False
+2024-05-31,Personal Care,152,True
+2024-06-01,Personal Care,133,False
+2024-06-02,Personal Care,156,False
+2024-06-03,Personal Care,151,False
+2024-06-04,Personal Care,127,False
+2024-06-05,Personal Care,115,False
+2024-06-06,Personal Care,108,False
+2024-06-07,Personal Care,128,False
+2024-06-08,Personal Care,156,False
+2024-06-09,Personal Care,149,False
+2024-06-10,Personal Care,125,False
+2024-06-11,Personal Care,118,False
+2024-06-12,Personal Care,113,False
+2024-06-13,Personal Care,134,False
+2024-06-14,Personal Care,135,False
+2024-06-15,Personal Care,126,False
+2024-06-16,Personal Care,162,False
+2024-06-17,Personal Care,131,False
+2024-06-18,Personal Care,141,False
+2024-06-19,Personal Care,110,False
+2024-06-20,Personal Care,110,False
+2024-06-21,Personal Care,123,False
+2024-06-22,Personal Care,149,False
+2024-06-23,Personal Care,164,False
+2024-06-24,Personal Care,133,False
+2024-06-25,Personal Care,122,False
+2024-06-26,Personal Care,114,False
+2024-06-27,Personal Care,164,True
+2024-06-28,Personal Care,114,False
+2024-06-29,Personal Care,191,True
+2024-06-30,Personal Care,141,False
+2024-07-01,Personal Care,145,False
+2024-07-02,Personal Care,135,False
+2024-07-03,Personal Care,125,False
+2024-07-04,Personal Care,121,False
+2024-07-05,Personal Care,123,False
+2024-07-06,Personal Care,151,False
+2024-07-07,Personal Care,147,False
+2024-07-08,Personal Care,120,False
+2024-07-09,Personal Care,125,False
+2024-07-10,Personal Care,128,False
+2024-07-11,Personal Care,129,True
+2024-07-12,Personal Care,158,True
+2024-07-13,Personal Care,135,False
+2024-07-14,Personal Care,133,False
+2024-07-15,Personal Care,108,False
+2024-07-16,Personal Care,107,False
+2024-07-17,Personal Care,112,False
+2024-07-18,Personal Care,119,False
+2024-07-19,Personal Care,149,False
+2024-07-20,Personal Care,169,True
+2024-07-21,Personal Care,148,False
+2024-07-22,Personal Care,157,True
+2024-07-23,Personal Care,128,False
+2024-07-24,Personal Care,126,False
+2024-07-25,Personal Care,114,False
+2024-07-26,Personal Care,143,False
+2024-07-27,Personal Care,166,False
+2024-07-28,Personal Care,127,False
+2024-07-29,Personal Care,116,False
+2024-07-30,Personal Care,124,False
+2024-07-31,Personal Care,116,False
+2024-08-01,Personal Care,138,False
+2024-08-02,Personal Care,124,False
+2024-08-03,Personal Care,177,False
+2024-08-04,Personal Care,166,False
+2024-08-05,Personal Care,135,False
+2024-08-06,Personal Care,144,False
+2024-08-07,Personal Care,145,False
+2024-08-08,Personal Care,126,False
+2024-08-09,Personal Care,123,False
+2024-08-10,Personal Care,153,False
+2024-08-11,Personal Care,162,False
+2024-08-12,Personal Care,134,False
+2024-08-13,Personal Care,115,False
+2024-08-14,Personal Care,124,False
+2024-08-15,Personal Care,132,False
+2024-08-16,Personal Care,158,True
+2024-08-17,Personal Care,174,False
+2024-08-18,Personal Care,137,False
+2024-08-19,Personal Care,138,False
+2024-08-20,Personal Care,149,False
+2024-08-21,Personal Care,158,False
+2024-08-22,Personal Care,128,False
+2024-08-23,Personal Care,138,False
+2024-08-24,Personal Care,159,False
+2024-08-25,Personal Care,155,False
+2024-08-26,Personal Care,131,False
+2024-08-27,Personal Care,137,False
+2024-08-28,Personal Care,104,False
+2024-08-29,Personal Care,140,False
+2024-08-30,Personal Care,134,False
+2024-08-31,Personal Care,150,False
+2024-09-01,Personal Care,184,False
+2024-09-02,Personal Care,132,False
+2024-09-03,Personal Care,135,False
+2024-09-04,Personal Care,162,False
+2024-09-05,Personal Care,131,False
+2024-09-06,Personal Care,134,False
+2024-09-07,Personal Care,192,True
+2024-09-08,Personal Care,170,False
+2024-09-09,Personal Care,142,False
+2024-09-10,Personal Care,126,False
+2024-09-11,Personal Care,134,False
+2024-09-12,Personal Care,133,False
+2024-09-13,Personal Care,139,False
+2024-09-14,Personal Care,166,False
+2024-09-15,Personal Care,166,False
+2024-09-16,Personal Care,120,False
+2024-09-17,Personal Care,152,False
+2024-09-18,Personal Care,143,False
+2024-09-19,Personal Care,156,False
+2024-09-20,Personal Care,145,False
+2024-09-21,Personal Care,173,False
+2024-09-22,Personal Care,166,False
+2024-09-23,Personal Care,183,True
+2024-09-24,Personal Care,146,False
+2024-09-25,Personal Care,139,False
+2024-09-26,Personal Care,165,False
+2024-09-27,Personal Care,150,False
+2024-09-28,Personal Care,200,True
+2024-09-29,Personal Care,147,False
+2024-09-30,Personal Care,126,False
+2024-10-01,Personal Care,151,False
+2024-10-02,Personal Care,149,False
+2024-10-03,Personal Care,141,False
+2024-10-04,Personal Care,149,False
+2024-10-05,Personal Care,187,False
+2024-10-06,Personal Care,177,False
+2024-10-07,Personal Care,135,False
+2024-10-08,Personal Care,146,False
+2024-10-09,Personal Care,138,False
+2024-10-10,Personal Care,143,False
+2024-10-11,Personal Care,143,False
+2024-10-12,Personal Care,164,False
+2024-10-13,Personal Care,156,False
+2024-10-14,Personal Care,146,False
+2024-10-15,Personal Care,141,False
+2024-10-16,Personal Care,115,False
+2024-10-17,Personal Care,170,False
+2024-10-18,Personal Care,189,True
+2024-10-19,Personal Care,165,False
+2024-10-20,Personal Care,170,False
+2024-10-21,Personal Care,134,False
+2024-10-22,Personal Care,166,False
+2024-10-23,Personal Care,169,False
+2024-10-24,Personal Care,149,False
+2024-10-25,Personal Care,159,False
+2024-10-26,Personal Care,172,False
+2024-10-27,Personal Care,155,False
+2024-10-28,Personal Care,172,True
+2024-10-29,Personal Care,149,False
+2024-10-30,Personal Care,142,False
+2024-10-31,Personal Care,145,False
+2024-11-01,Personal Care,152,False
+2024-11-02,Personal Care,175,False
+2024-11-03,Personal Care,177,False
+2024-11-04,Personal Care,172,True
+2024-11-05,Personal Care,145,False
+2024-11-06,Personal Care,169,True
+2024-11-07,Personal Care,164,False
+2024-11-08,Personal Care,129,False
+2024-11-09,Personal Care,224,True
+2024-11-10,Personal Care,191,False
+2024-11-11,Personal Care,150,False
+2024-11-12,Personal Care,124,False
+2024-11-13,Personal Care,149,False
+2024-11-14,Personal Care,152,False
+2024-11-15,Personal Care,142,False
+2024-11-16,Personal Care,170,False
+2024-11-17,Personal Care,193,False
+2024-11-18,Personal Care,160,False
+2024-11-19,Personal Care,143,False
+2024-11-20,Personal Care,135,False
+2024-11-21,Personal Care,149,False
+2024-11-22,Personal Care,151,False
+2024-11-23,Personal Care,181,False
+2024-11-24,Personal Care,170,False
+2024-11-25,Personal Care,159,False
+2024-11-26,Personal Care,175,False
+2024-11-27,Personal Care,162,False
+2024-11-28,Personal Care,152,False
+2024-11-29,Personal Care,151,False
+2024-11-30,Personal Care,172,False
+2024-12-01,Personal Care,191,False
+2024-12-02,Personal Care,179,True
+2024-12-03,Personal Care,156,False
+2024-12-04,Personal Care,156,False
+2024-12-05,Personal Care,149,False
+2024-12-06,Personal Care,140,False
+2024-12-07,Personal Care,182,False
+2024-12-08,Personal Care,178,False
+2024-12-09,Personal Care,161,False
+2024-12-10,Personal Care,149,False
+2024-12-11,Personal Care,169,False
+2024-12-12,Personal Care,145,False
+2024-12-13,Personal Care,174,False
+2024-12-14,Personal Care,159,False
+2024-12-15,Personal Care,219,True
+2024-12-16,Personal Care,160,False
+2024-12-17,Personal Care,146,False
+2024-12-18,Personal Care,191,True
+2024-12-19,Personal Care,169,False
+2024-12-20,Personal Care,130,False
+2024-12-21,Personal Care,184,False
+2024-12-22,Personal Care,150,False
+2024-12-23,Personal Care,144,False
+2024-12-24,Personal Care,173,False
+2024-12-25,Personal Care,148,False
+2024-12-26,Personal Care,142,False
+2024-12-27,Personal Care,153,False
+2024-12-28,Personal Care,201,False
+2024-12-29,Personal Care,158,False
+2024-12-30,Personal Care,143,False
+2024-12-31,Personal Care,172,False
+2025-01-01,Personal Care,174,False
+2025-01-02,Personal Care,152,False
+2025-01-03,Personal Care,139,False
+2025-01-04,Personal Care,199,False
+2025-01-05,Personal Care,194,False
+2025-01-06,Personal Care,161,False
+2025-01-07,Personal Care,174,True
+2025-01-08,Personal Care,152,False
+2025-01-09,Personal Care,151,False
+2025-01-10,Personal Care,157,False
+2025-01-11,Personal Care,192,False
+2025-01-12,Personal Care,186,False
+2025-01-13,Personal Care,141,False
+2025-01-14,Personal Care,168,False
+2025-01-15,Personal Care,156,False
+2025-01-16,Personal Care,161,False
+2025-01-17,Personal Care,169,False
+2025-01-18,Personal Care,163,False
+2025-01-19,Personal Care,176,False
+2025-01-20,Personal Care,147,False
+2025-01-21,Personal Care,135,False
+2025-01-22,Personal Care,157,False
+2025-01-23,Personal Care,181,False
+2025-01-24,Personal Care,163,True
+2025-01-25,Personal Care,176,False
+2025-01-26,Personal Care,183,False
+2025-01-27,Personal Care,154,False
+2025-01-28,Personal Care,152,False
+2025-01-29,Personal Care,138,False
+2025-01-30,Personal Care,156,False
+2025-01-31,Personal Care,175,True
+2025-02-01,Personal Care,145,False
+2025-02-02,Personal Care,183,False
+2025-02-03,Personal Care,158,False
+2025-02-04,Personal Care,148,False
+2025-02-05,Personal Care,150,False
+2025-02-06,Personal Care,160,False
+2025-02-07,Personal Care,150,False
+2025-02-08,Personal Care,180,False
+2025-02-09,Personal Care,166,False
+2025-02-10,Personal Care,162,False
+2025-02-11,Personal Care,151,False
+2025-02-12,Personal Care,150,False
+2025-02-13,Personal Care,133,False
+2025-02-14,Personal Care,151,False
+2025-02-15,Personal Care,160,False
+2025-02-16,Personal Care,162,False
+2025-02-17,Personal Care,138,False
+2025-02-18,Personal Care,136,False
+2025-02-19,Personal Care,201,True
+2025-02-20,Personal Care,162,False
+2025-02-21,Personal Care,169,False
+2025-02-22,Personal Care,156,False
+2025-02-23,Personal Care,170,False
+2025-02-24,Personal Care,133,False
+2025-02-25,Personal Care,140,False
+2025-02-26,Personal Care,137,False
+2025-02-27,Personal Care,161,False
+2025-02-28,Personal Care,143,False
+2025-03-01,Personal Care,173,False
+2025-03-02,Personal Care,168,False
+2025-03-03,Personal Care,166,False
+2025-03-04,Personal Care,123,False
+2025-03-05,Personal Care,154,False
+2025-03-06,Personal Care,153,False
+2025-03-07,Personal Care,129,False
+2025-03-08,Personal Care,172,False
+2025-03-09,Personal Care,197,True
+2025-03-10,Personal Care,137,False
+2025-03-11,Personal Care,131,False
+2025-03-12,Personal Care,132,False
+2025-03-13,Personal Care,163,False
+2025-03-14,Personal Care,140,False
+2025-03-15,Personal Care,170,False
+2025-03-16,Personal Care,152,False
+2025-03-17,Personal Care,131,False
+2025-03-18,Personal Care,152,False
+2025-03-19,Personal Care,125,False
+2025-03-20,Personal Care,135,False
+2025-03-21,Personal Care,140,False
+2025-03-22,Personal Care,162,False
+2025-03-23,Personal Care,159,False
+2025-03-24,Personal Care,144,False
+2025-03-25,Personal Care,148,False
+2025-03-26,Personal Care,148,False
+2025-03-27,Personal Care,129,False
+2025-03-28,Personal Care,137,False
+2025-03-29,Personal Care,174,False
+2025-03-30,Personal Care,171,False
+2025-03-31,Personal Care,125,False
+2025-04-01,Personal Care,136,False
+2025-04-02,Personal Care,110,False
+2025-04-03,Personal Care,133,False
+2025-04-04,Personal Care,154,False
+2025-04-05,Personal Care,142,False
+2025-04-06,Personal Care,143,False
+2025-04-07,Personal Care,141,False
+2025-04-08,Personal Care,115,False
+2025-04-09,Personal Care,125,False
+2025-04-10,Personal Care,139,False
+2025-04-11,Personal Care,125,False
+2025-04-12,Personal Care,150,False
+2025-04-13,Personal Care,191,True
+2025-04-14,Personal Care,137,False
+2025-04-15,Personal Care,135,False
+2025-04-16,Personal Care,129,False
+2025-04-17,Personal Care,137,False
+2025-04-18,Personal Care,131,False
+2025-04-19,Personal Care,158,False
+2025-04-20,Personal Care,147,False
+2025-04-21,Personal Care,130,False
+2025-04-22,Personal Care,121,False
+2025-04-23,Personal Care,159,True
+2025-04-24,Personal Care,123,False
+2025-04-25,Personal Care,120,False
+2025-04-26,Personal Care,155,False
+2025-04-27,Personal Care,185,True
+2025-04-28,Personal Care,141,False
+2025-04-29,Personal Care,154,True
+2025-04-30,Personal Care,137,False
+2025-05-01,Personal Care,133,False
+2025-05-02,Personal Care,132,False
+2025-05-03,Personal Care,137,False
+2025-05-04,Personal Care,148,False
+2025-05-05,Personal Care,131,False
+2025-05-06,Personal Care,127,False
+2025-05-07,Personal Care,104,False
+2025-05-08,Personal Care,129,False
+2025-05-09,Personal Care,177,True
+2025-05-10,Personal Care,142,False
+2025-05-11,Personal Care,138,False
+2025-05-12,Personal Care,131,False
+2025-05-13,Personal Care,131,False
+2025-05-14,Personal Care,140,False
+2025-05-15,Personal Care,113,False
+2025-05-16,Personal Care,135,False
+2025-05-17,Personal Care,153,False
+2025-05-18,Personal Care,144,False
+2025-05-19,Personal Care,131,False
+2025-05-20,Personal Care,139,False
+2025-05-21,Personal Care,137,False
+2025-05-22,Personal Care,140,True
+2025-05-23,Personal Care,162,True
+2025-05-24,Personal Care,145,False
+2025-05-25,Personal Care,147,False
+2025-05-26,Personal Care,128,False
+2025-05-27,Personal Care,125,False
+2025-05-28,Personal Care,140,False
+2025-05-29,Personal Care,126,False
+2025-05-30,Personal Care,114,False
+2025-05-31,Personal Care,142,False
+2025-06-01,Personal Care,146,False
+2025-06-02,Personal Care,139,False
+2025-06-03,Personal Care,132,False
+2025-06-04,Personal Care,115,False
+2025-06-05,Personal Care,153,False
+2025-06-06,Personal Care,128,False
+2025-06-07,Personal Care,158,False
+2025-06-08,Personal Care,142,False
+2025-06-09,Personal Care,131,False
+2025-06-10,Personal Care,134,False
+2025-06-11,Personal Care,139,False
+2025-06-12,Personal Care,137,False
+2025-06-13,Personal Care,135,False
+2025-06-14,Personal Care,140,False
+2025-06-15,Personal Care,137,False
+2025-06-16,Personal Care,129,False
+2025-06-17,Personal Care,135,False
+2025-06-18,Personal Care,123,False
+2025-06-19,Personal Care,137,False
+2025-06-20,Personal Care,141,False
+2025-06-21,Personal Care,133,False
+2025-06-22,Personal Care,134,False
+2025-06-23,Personal Care,123,False
+2025-06-24,Personal Care,128,False
+2025-06-25,Personal Care,119,False
+2025-06-26,Personal Care,140,False
+2025-06-27,Personal Care,130,False
+2025-06-28,Personal Care,144,False
+2025-06-29,Personal Care,128,False
+2025-06-30,Personal Care,110,False
+2025-07-01,Personal Care,130,False
+2025-07-02,Personal Care,103,False
+2025-07-03,Personal Care,138,False
+2025-07-04,Personal Care,125,False
+2025-07-05,Personal Care,182,False
+2025-07-06,Personal Care,172,False
+2025-07-07,Personal Care,125,False
+2025-07-08,Personal Care,126,False
+2025-07-09,Personal Care,138,False
+2025-07-10,Personal Care,146,False
+2025-07-11,Personal Care,109,False
+2025-07-12,Personal Care,126,False
+2025-07-13,Personal Care,139,False
+2025-07-14,Personal Care,134,False
+2025-07-15,Personal Care,133,False
+2025-07-16,Personal Care,139,False
+2025-07-17,Personal Care,114,False
+2025-07-18,Personal Care,101,False
+2025-07-19,Personal Care,156,False
+2025-07-20,Personal Care,137,False
+2025-07-21,Personal Care,104,False
+2025-07-22,Personal Care,129,False
+2025-07-23,Personal Care,136,False
+2025-07-24,Personal Care,126,False
+2025-07-25,Personal Care,122,False
+2025-07-26,Personal Care,144,False
+2025-07-27,Personal Care,142,False
+2025-07-28,Personal Care,137,True
+2025-07-29,Personal Care,119,False
+2025-07-30,Personal Care,133,False
+2025-07-31,Personal Care,131,False
+2025-08-01,Personal Care,134,False
+2025-08-02,Personal Care,172,True
+2025-08-03,Personal Care,150,False
+2025-08-04,Personal Care,108,False
+2025-08-05,Personal Care,134,False
+2025-08-06,Personal Care,149,False
+2025-08-07,Personal Care,116,False
+2025-08-08,Personal Care,126,False
+2025-08-09,Personal Care,156,False
+2025-08-10,Personal Care,166,False
+2025-08-11,Personal Care,127,False
+2025-08-12,Personal Care,125,False
+2025-08-13,Personal Care,110,False
+2025-08-14,Personal Care,134,False
+2025-08-15,Personal Care,155,False
+2025-08-16,Personal Care,155,False
+2025-08-17,Personal Care,152,False
+2025-08-18,Personal Care,136,False
+2025-08-19,Personal Care,132,False
+2025-08-20,Personal Care,123,False
+2025-08-21,Personal Care,142,False
+2025-08-22,Personal Care,135,False
+2025-08-23,Personal Care,153,False
+2025-08-24,Personal Care,141,False
+2025-08-25,Personal Care,147,False
+2025-08-26,Personal Care,140,False
+2025-08-27,Personal Care,126,False
+2025-08-28,Personal Care,144,False
+2025-08-29,Personal Care,153,True
+2025-08-30,Personal Care,144,False
+2025-08-31,Personal Care,144,False
+2025-09-01,Personal Care,120,False
+2025-09-02,Personal Care,145,False
+2025-09-03,Personal Care,119,False
+2025-09-04,Personal Care,126,False
+2025-09-05,Personal Care,117,False
+2025-09-06,Personal Care,160,False
+2025-09-07,Personal Care,159,False
+2025-09-08,Personal Care,136,False
+2025-09-09,Personal Care,128,False
+2025-09-10,Personal Care,127,False
+2025-09-11,Personal Care,145,False
+2025-09-12,Personal Care,134,False
+2025-09-13,Personal Care,165,False
+2025-09-14,Personal Care,151,False
+2025-09-15,Personal Care,142,False
+2025-09-16,Personal Care,155,False
+2025-09-17,Personal Care,147,False
+2025-09-18,Personal Care,135,False
+2025-09-19,Personal Care,143,False
+2025-09-20,Personal Care,158,False
+2025-09-21,Personal Care,161,False
+2025-09-22,Personal Care,136,False
+2025-09-23,Personal Care,138,False
+2025-09-24,Personal Care,142,False
+2025-09-25,Personal Care,129,False
+2025-09-26,Personal Care,129,False
+2025-09-27,Personal Care,145,False
+2025-09-28,Personal Care,143,False
+2025-09-29,Personal Care,126,False
+2025-09-30,Personal Care,142,False
+2025-10-01,Personal Care,138,False
+2025-10-02,Personal Care,153,False
+2025-10-03,Personal Care,148,False
+2025-10-04,Personal Care,182,True
+2025-10-05,Personal Care,177,False
+2025-10-06,Personal Care,157,False
+2025-10-07,Personal Care,136,False
+2025-10-08,Personal Care,152,False
+2025-10-09,Personal Care,138,False
+2025-10-10,Personal Care,149,False
+2025-10-11,Personal Care,189,True
+2025-10-12,Personal Care,150,False
+2025-10-13,Personal Care,143,False
+2025-10-14,Personal Care,146,False
+2025-10-15,Personal Care,143,False
+2025-10-16,Personal Care,164,True
+2025-10-17,Personal Care,143,False
+2025-10-18,Personal Care,173,False
+2025-10-19,Personal Care,169,False
+2025-10-20,Personal Care,150,False
+2025-10-21,Personal Care,140,False
+2025-10-22,Personal Care,161,False
+2025-10-23,Personal Care,134,False
+2025-10-24,Personal Care,153,False
+2025-10-25,Personal Care,183,False
+2025-10-26,Personal Care,175,False
+2025-10-27,Personal Care,145,False
+2025-10-28,Personal Care,142,False
+2025-10-29,Personal Care,159,False
+2025-10-30,Personal Care,132,False
+2025-10-31,Personal Care,137,False
+2025-11-01,Personal Care,171,False
+2025-11-02,Personal Care,190,False
+2025-11-03,Personal Care,157,False
+2025-11-04,Personal Care,142,False
+2025-11-05,Personal Care,150,False
+2025-11-06,Personal Care,146,False
+2025-11-07,Personal Care,145,False
+2025-11-08,Personal Care,187,False
+2025-11-09,Personal Care,161,False
+2025-11-10,Personal Care,171,False
+2025-11-11,Personal Care,193,True
+2025-11-12,Personal Care,165,False
+2025-11-13,Personal Care,178,True
+2025-11-14,Personal Care,151,False
+2025-11-15,Personal Care,195,True
+2025-11-16,Personal Care,170,False
+2025-11-17,Personal Care,159,False
+2025-11-18,Personal Care,168,False
+2025-11-19,Personal Care,141,False
+2025-11-20,Personal Care,149,False
+2025-11-21,Personal Care,151,False
+2025-11-22,Personal Care,160,False
+2025-11-23,Personal Care,183,False
+2025-11-24,Personal Care,145,False
+2025-11-25,Personal Care,151,False
+2025-11-26,Personal Care,148,False
+2025-11-27,Personal Care,144,False
+2025-11-28,Personal Care,153,False
+2025-11-29,Personal Care,174,False
+2025-11-30,Personal Care,207,True
+2025-12-01,Personal Care,147,False
+2025-12-02,Personal Care,159,False
+2025-12-03,Personal Care,174,False
+2025-12-04,Personal Care,157,False
+2025-12-05,Personal Care,166,False
+2025-12-06,Personal Care,163,False
+2025-12-07,Personal Care,180,False
+2025-12-08,Personal Care,143,False
+2025-12-09,Personal Care,138,False
+2025-12-10,Personal Care,147,False
+2025-12-11,Personal Care,168,False
+2025-12-12,Personal Care,166,False
+2025-12-13,Personal Care,181,False
+2025-12-14,Personal Care,161,False
+2025-12-15,Personal Care,153,False
+2025-12-16,Personal Care,158,False
+2025-12-17,Personal Care,157,False
+2025-12-18,Personal Care,134,False
+2025-12-19,Personal Care,145,False
+2025-12-20,Personal Care,178,False
+2025-12-21,Personal Care,184,False
+2025-12-22,Personal Care,130,False
+2025-12-23,Personal Care,184,True
+2025-12-24,Personal Care,157,False
+2025-12-25,Personal Care,165,False
+2025-12-26,Personal Care,194,True
+2025-12-27,Personal Care,185,False
+2025-12-28,Personal Care,169,False
+2025-12-29,Personal Care,134,False
+2025-12-30,Personal Care,151,False
+2025-12-31,Personal Care,166,False
+2023-01-01,Home Cleaning,150,False
+2023-01-02,Home Cleaning,126,False
+2023-01-03,Home Cleaning,124,False
+2023-01-04,Home Cleaning,123,False
+2023-01-05,Home Cleaning,115,False
+2023-01-06,Home Cleaning,119,False
+2023-01-07,Home Cleaning,153,False
+2023-01-08,Home Cleaning,130,False
+2023-01-09,Home Cleaning,134,False
+2023-01-10,Home Cleaning,117,False
+2023-01-11,Home Cleaning,150,True
+2023-01-12,Home Cleaning,108,False
+2023-01-13,Home Cleaning,125,False
+2023-01-14,Home Cleaning,132,False
+2023-01-15,Home Cleaning,126,False
+2023-01-16,Home Cleaning,122,False
+2023-01-17,Home Cleaning,129,False
+2023-01-18,Home Cleaning,113,False
+2023-01-19,Home Cleaning,107,False
+2023-01-20,Home Cleaning,119,False
+2023-01-21,Home Cleaning,137,False
+2023-01-22,Home Cleaning,143,False
+2023-01-23,Home Cleaning,128,False
+2023-01-24,Home Cleaning,119,False
+2023-01-25,Home Cleaning,136,False
+2023-01-26,Home Cleaning,122,False
+2023-01-27,Home Cleaning,117,False
+2023-01-28,Home Cleaning,124,False
+2023-01-29,Home Cleaning,136,False
+2023-01-30,Home Cleaning,117,False
+2023-01-31,Home Cleaning,128,False
+2023-02-01,Home Cleaning,150,True
+2023-02-02,Home Cleaning,117,False
+2023-02-03,Home Cleaning,129,False
+2023-02-04,Home Cleaning,152,False
+2023-02-05,Home Cleaning,160,False
+2023-02-06,Home Cleaning,135,False
+2023-02-07,Home Cleaning,134,False
+2023-02-08,Home Cleaning,128,False
+2023-02-09,Home Cleaning,131,False
+2023-02-10,Home Cleaning,138,False
+2023-02-11,Home Cleaning,135,False
+2023-02-12,Home Cleaning,143,False
+2023-02-13,Home Cleaning,121,False
+2023-02-14,Home Cleaning,150,True
+2023-02-15,Home Cleaning,138,False
+2023-02-16,Home Cleaning,122,False
+2023-02-17,Home Cleaning,106,False
+2023-02-18,Home Cleaning,143,False
+2023-02-19,Home Cleaning,154,False
+2023-02-20,Home Cleaning,132,False
+2023-02-21,Home Cleaning,150,True
+2023-02-22,Home Cleaning,125,False
+2023-02-23,Home Cleaning,116,False
+2023-02-24,Home Cleaning,132,False
+2023-02-25,Home Cleaning,139,False
+2023-02-26,Home Cleaning,188,True
+2023-02-27,Home Cleaning,132,False
+2023-02-28,Home Cleaning,122,False
+2023-03-01,Home Cleaning,125,False
+2023-03-02,Home Cleaning,129,False
+2023-03-03,Home Cleaning,128,False
+2023-03-04,Home Cleaning,159,False
+2023-03-05,Home Cleaning,151,False
+2023-03-06,Home Cleaning,124,False
+2023-03-07,Home Cleaning,147,False
+2023-03-08,Home Cleaning,130,False
+2023-03-09,Home Cleaning,137,False
+2023-03-10,Home Cleaning,125,False
+2023-03-11,Home Cleaning,153,False
+2023-03-12,Home Cleaning,175,True
+2023-03-13,Home Cleaning,113,False
+2023-03-14,Home Cleaning,148,False
+2023-03-15,Home Cleaning,141,False
+2023-03-16,Home Cleaning,127,False
+2023-03-17,Home Cleaning,120,False
+2023-03-18,Home Cleaning,153,False
+2023-03-19,Home Cleaning,150,False
+2023-03-20,Home Cleaning,133,False
+2023-03-21,Home Cleaning,132,False
+2023-03-22,Home Cleaning,134,False
+2023-03-23,Home Cleaning,143,False
+2023-03-24,Home Cleaning,135,False
+2023-03-25,Home Cleaning,140,False
+2023-03-26,Home Cleaning,161,False
+2023-03-27,Home Cleaning,144,False
+2023-03-28,Home Cleaning,177,True
+2023-03-29,Home Cleaning,120,False
+2023-03-30,Home Cleaning,152,True
+2023-03-31,Home Cleaning,112,False
+2023-04-01,Home Cleaning,151,False
+2023-04-02,Home Cleaning,142,False
+2023-04-03,Home Cleaning,144,False
+2023-04-04,Home Cleaning,121,False
+2023-04-05,Home Cleaning,112,False
+2023-04-06,Home Cleaning,123,False
+2023-04-07,Home Cleaning,129,True
+2023-04-08,Home Cleaning,153,False
+2023-04-09,Home Cleaning,128,False
+2023-04-10,Home Cleaning,128,False
+2023-04-11,Home Cleaning,109,False
+2023-04-12,Home Cleaning,144,True
+2023-04-13,Home Cleaning,142,False
+2023-04-14,Home Cleaning,130,False
+2023-04-15,Home Cleaning,139,False
+2023-04-16,Home Cleaning,146,False
+2023-04-17,Home Cleaning,127,False
+2023-04-18,Home Cleaning,151,True
+2023-04-19,Home Cleaning,115,False
+2023-04-20,Home Cleaning,152,True
+2023-04-21,Home Cleaning,104,False
+2023-04-22,Home Cleaning,141,False
+2023-04-23,Home Cleaning,142,False
+2023-04-24,Home Cleaning,152,True
+2023-04-25,Home Cleaning,128,False
+2023-04-26,Home Cleaning,115,False
+2023-04-27,Home Cleaning,119,False
+2023-04-28,Home Cleaning,129,False
+2023-04-29,Home Cleaning,146,False
+2023-04-30,Home Cleaning,141,False
+2023-05-01,Home Cleaning,116,False
+2023-05-02,Home Cleaning,126,False
+2023-05-03,Home Cleaning,115,False
+2023-05-04,Home Cleaning,119,False
+2023-05-05,Home Cleaning,139,False
+2023-05-06,Home Cleaning,125,False
+2023-05-07,Home Cleaning,122,False
+2023-05-08,Home Cleaning,127,False
+2023-05-09,Home Cleaning,114,False
+2023-05-10,Home Cleaning,117,False
+2023-05-11,Home Cleaning,113,False
+2023-05-12,Home Cleaning,118,False
+2023-05-13,Home Cleaning,152,False
+2023-05-14,Home Cleaning,145,False
+2023-05-15,Home Cleaning,128,False
+2023-05-16,Home Cleaning,108,False
+2023-05-17,Home Cleaning,110,False
+2023-05-18,Home Cleaning,95,False
+2023-05-19,Home Cleaning,113,False
+2023-05-20,Home Cleaning,167,True
+2023-05-21,Home Cleaning,143,False
+2023-05-22,Home Cleaning,136,True
+2023-05-23,Home Cleaning,120,False
+2023-05-24,Home Cleaning,114,False
+2023-05-25,Home Cleaning,122,False
+2023-05-26,Home Cleaning,127,False
+2023-05-27,Home Cleaning,124,False
+2023-05-28,Home Cleaning,141,False
+2023-05-29,Home Cleaning,128,False
+2023-05-30,Home Cleaning,116,False
+2023-05-31,Home Cleaning,126,False
+2023-06-01,Home Cleaning,135,False
+2023-06-02,Home Cleaning,109,False
+2023-06-03,Home Cleaning,130,False
+2023-06-04,Home Cleaning,120,False
+2023-06-05,Home Cleaning,112,False
+2023-06-06,Home Cleaning,114,False
+2023-06-07,Home Cleaning,112,False
+2023-06-08,Home Cleaning,118,True
+2023-06-09,Home Cleaning,112,False
+2023-06-10,Home Cleaning,139,False
+2023-06-11,Home Cleaning,130,False
+2023-06-12,Home Cleaning,118,False
+2023-06-13,Home Cleaning,108,False
+2023-06-14,Home Cleaning,117,False
+2023-06-15,Home Cleaning,112,False
+2023-06-16,Home Cleaning,102,False
+2023-06-17,Home Cleaning,129,False
+2023-06-18,Home Cleaning,118,False
+2023-06-19,Home Cleaning,104,False
+2023-06-20,Home Cleaning,112,False
+2023-06-21,Home Cleaning,113,False
+2023-06-22,Home Cleaning,100,False
+2023-06-23,Home Cleaning,119,False
+2023-06-24,Home Cleaning,132,False
+2023-06-25,Home Cleaning,120,False
+2023-06-26,Home Cleaning,96,False
+2023-06-27,Home Cleaning,109,False
+2023-06-28,Home Cleaning,123,True
+2023-06-29,Home Cleaning,111,False
+2023-06-30,Home Cleaning,107,False
+2023-07-01,Home Cleaning,97,False
+2023-07-02,Home Cleaning,112,False
+2023-07-03,Home Cleaning,97,False
+2023-07-04,Home Cleaning,106,False
+2023-07-05,Home Cleaning,94,False
+2023-07-06,Home Cleaning,115,False
+2023-07-07,Home Cleaning,83,False
+2023-07-08,Home Cleaning,127,False
+2023-07-09,Home Cleaning,113,False
+2023-07-10,Home Cleaning,108,False
+2023-07-11,Home Cleaning,101,False
+2023-07-12,Home Cleaning,110,False
+2023-07-13,Home Cleaning,97,False
+2023-07-14,Home Cleaning,90,False
+2023-07-15,Home Cleaning,128,False
+2023-07-16,Home Cleaning,114,False
+2023-07-17,Home Cleaning,102,False
+2023-07-18,Home Cleaning,111,False
+2023-07-19,Home Cleaning,106,True
+2023-07-20,Home Cleaning,105,False
+2023-07-21,Home Cleaning,95,False
+2023-07-22,Home Cleaning,114,False
+2023-07-23,Home Cleaning,116,False
+2023-07-24,Home Cleaning,87,False
+2023-07-25,Home Cleaning,93,False
+2023-07-26,Home Cleaning,112,False
+2023-07-27,Home Cleaning,108,False
+2023-07-28,Home Cleaning,114,True
+2023-07-29,Home Cleaning,134,True
+2023-07-30,Home Cleaning,130,True
+2023-07-31,Home Cleaning,112,False
+2023-08-01,Home Cleaning,91,False
+2023-08-02,Home Cleaning,95,False
+2023-08-03,Home Cleaning,103,False
+2023-08-04,Home Cleaning,86,False
+2023-08-05,Home Cleaning,120,False
+2023-08-06,Home Cleaning,93,False
+2023-08-07,Home Cleaning,107,False
+2023-08-08,Home Cleaning,89,False
+2023-08-09,Home Cleaning,91,False
+2023-08-10,Home Cleaning,76,False
+2023-08-11,Home Cleaning,89,False
+2023-08-12,Home Cleaning,97,False
+2023-08-13,Home Cleaning,101,False
+2023-08-14,Home Cleaning,91,False
+2023-08-15,Home Cleaning,101,False
+2023-08-16,Home Cleaning,95,False
+2023-08-17,Home Cleaning,95,False
+2023-08-18,Home Cleaning,83,False
+2023-08-19,Home Cleaning,99,False
+2023-08-20,Home Cleaning,138,True
+2023-08-21,Home Cleaning,86,False
+2023-08-22,Home Cleaning,107,False
+2023-08-23,Home Cleaning,91,False
+2023-08-24,Home Cleaning,93,False
+2023-08-25,Home Cleaning,102,False
+2023-08-26,Home Cleaning,134,True
+2023-08-27,Home Cleaning,106,False
+2023-08-28,Home Cleaning,89,False
+2023-08-29,Home Cleaning,92,False
+2023-08-30,Home Cleaning,96,False
+2023-08-31,Home Cleaning,101,False
+2023-09-01,Home Cleaning,90,False
+2023-09-02,Home Cleaning,109,False
+2023-09-03,Home Cleaning,118,False
+2023-09-04,Home Cleaning,93,False
+2023-09-05,Home Cleaning,106,True
+2023-09-06,Home Cleaning,77,False
+2023-09-07,Home Cleaning,67,False
+2023-09-08,Home Cleaning,93,False
+2023-09-09,Home Cleaning,103,False
+2023-09-10,Home Cleaning,99,False
+2023-09-11,Home Cleaning,92,False
+2023-09-12,Home Cleaning,89,False
+2023-09-13,Home Cleaning,100,False
+2023-09-14,Home Cleaning,91,False
+2023-09-15,Home Cleaning,83,False
+2023-09-16,Home Cleaning,112,False
+2023-09-17,Home Cleaning,102,False
+2023-09-18,Home Cleaning,95,False
+2023-09-19,Home Cleaning,86,False
+2023-09-20,Home Cleaning,84,False
+2023-09-21,Home Cleaning,91,False
+2023-09-22,Home Cleaning,90,False
+2023-09-23,Home Cleaning,108,False
+2023-09-24,Home Cleaning,101,False
+2023-09-25,Home Cleaning,74,False
+2023-09-26,Home Cleaning,86,False
+2023-09-27,Home Cleaning,97,False
+2023-09-28,Home Cleaning,101,True
+2023-09-29,Home Cleaning,88,False
+2023-09-30,Home Cleaning,112,False
+2023-10-01,Home Cleaning,116,True
+2023-10-02,Home Cleaning,79,False
+2023-10-03,Home Cleaning,91,False
+2023-10-04,Home Cleaning,88,False
+2023-10-05,Home Cleaning,84,False
+2023-10-06,Home Cleaning,91,False
+2023-10-07,Home Cleaning,111,False
+2023-10-08,Home Cleaning,106,False
+2023-10-09,Home Cleaning,95,False
+2023-10-10,Home Cleaning,109,False
+2023-10-11,Home Cleaning,90,False
+2023-10-12,Home Cleaning,95,False
+2023-10-13,Home Cleaning,88,False
+2023-10-14,Home Cleaning,99,False
+2023-10-15,Home Cleaning,101,False
+2023-10-16,Home Cleaning,88,False
+2023-10-17,Home Cleaning,96,False
+2023-10-18,Home Cleaning,113,False
+2023-10-19,Home Cleaning,86,False
+2023-10-20,Home Cleaning,103,True
+2023-10-21,Home Cleaning,106,False
+2023-10-22,Home Cleaning,110,False
+2023-10-23,Home Cleaning,95,False
+2023-10-24,Home Cleaning,118,True
+2023-10-25,Home Cleaning,71,False
+2023-10-26,Home Cleaning,72,False
+2023-10-27,Home Cleaning,88,False
+2023-10-28,Home Cleaning,116,False
+2023-10-29,Home Cleaning,93,False
+2023-10-30,Home Cleaning,66,False
+2023-10-31,Home Cleaning,98,False
+2023-11-01,Home Cleaning,102,False
+2023-11-02,Home Cleaning,90,False
+2023-11-03,Home Cleaning,91,False
+2023-11-04,Home Cleaning,106,False
+2023-11-05,Home Cleaning,116,False
+2023-11-06,Home Cleaning,94,False
+2023-11-07,Home Cleaning,104,False
+2023-11-08,Home Cleaning,75,False
+2023-11-09,Home Cleaning,92,False
+2023-11-10,Home Cleaning,90,False
+2023-11-11,Home Cleaning,113,False
+2023-11-12,Home Cleaning,110,False
+2023-11-13,Home Cleaning,107,False
+2023-11-14,Home Cleaning,84,False
+2023-11-15,Home Cleaning,100,False
+2023-11-16,Home Cleaning,120,True
+2023-11-17,Home Cleaning,116,False
+2023-11-18,Home Cleaning,111,False
+2023-11-19,Home Cleaning,118,False
+2023-11-20,Home Cleaning,84,False
+2023-11-21,Home Cleaning,79,False
+2023-11-22,Home Cleaning,107,False
+2023-11-23,Home Cleaning,100,False
+2023-11-24,Home Cleaning,110,False
+2023-11-25,Home Cleaning,120,True
+2023-11-26,Home Cleaning,120,False
+2023-11-27,Home Cleaning,116,False
+2023-11-28,Home Cleaning,119,True
+2023-11-29,Home Cleaning,102,False
+2023-11-30,Home Cleaning,115,True
+2023-12-01,Home Cleaning,113,True
+2023-12-02,Home Cleaning,138,False
+2023-12-03,Home Cleaning,121,False
+2023-12-04,Home Cleaning,114,False
+2023-12-05,Home Cleaning,96,False
+2023-12-06,Home Cleaning,100,False
+2023-12-07,Home Cleaning,123,False
+2023-12-08,Home Cleaning,107,False
+2023-12-09,Home Cleaning,139,False
+2023-12-10,Home Cleaning,126,False
+2023-12-11,Home Cleaning,94,False
+2023-12-12,Home Cleaning,118,False
+2023-12-13,Home Cleaning,105,False
+2023-12-14,Home Cleaning,116,False
+2023-12-15,Home Cleaning,110,False
+2023-12-16,Home Cleaning,113,False
+2023-12-17,Home Cleaning,128,False
+2023-12-18,Home Cleaning,129,False
+2023-12-19,Home Cleaning,114,False
+2023-12-20,Home Cleaning,109,False
+2023-12-21,Home Cleaning,119,False
+2023-12-22,Home Cleaning,112,False
+2023-12-23,Home Cleaning,128,False
+2023-12-24,Home Cleaning,117,False
+2023-12-25,Home Cleaning,112,False
+2023-12-26,Home Cleaning,136,True
+2023-12-27,Home Cleaning,103,False
+2023-12-28,Home Cleaning,123,False
+2023-12-29,Home Cleaning,109,False
+2023-12-30,Home Cleaning,119,False
+2023-12-31,Home Cleaning,135,False
+2024-01-01,Home Cleaning,117,False
+2024-01-02,Home Cleaning,127,False
+2024-01-03,Home Cleaning,135,True
+2024-01-04,Home Cleaning,119,False
+2024-01-05,Home Cleaning,124,False
+2024-01-06,Home Cleaning,141,False
+2024-01-07,Home Cleaning,120,False
+2024-01-08,Home Cleaning,110,False
+2024-01-09,Home Cleaning,128,False
+2024-01-10,Home Cleaning,119,False
+2024-01-11,Home Cleaning,115,False
+2024-01-12,Home Cleaning,108,False
+2024-01-13,Home Cleaning,128,False
+2024-01-14,Home Cleaning,120,False
+2024-01-15,Home Cleaning,119,False
+2024-01-16,Home Cleaning,115,False
+2024-01-17,Home Cleaning,111,False
+2024-01-18,Home Cleaning,119,False
+2024-01-19,Home Cleaning,123,False
+2024-01-20,Home Cleaning,156,False
+2024-01-21,Home Cleaning,125,False
+2024-01-22,Home Cleaning,130,False
+2024-01-23,Home Cleaning,129,False
+2024-01-24,Home Cleaning,113,False
+2024-01-25,Home Cleaning,122,False
+2024-01-26,Home Cleaning,116,False
+2024-01-27,Home Cleaning,140,False
+2024-01-28,Home Cleaning,151,False
+2024-01-29,Home Cleaning,125,False
+2024-01-30,Home Cleaning,124,False
+2024-01-31,Home Cleaning,116,False
+2024-02-01,Home Cleaning,114,False
+2024-02-02,Home Cleaning,125,False
+2024-02-03,Home Cleaning,179,True
+2024-02-04,Home Cleaning,133,False
+2024-02-05,Home Cleaning,118,False
+2024-02-06,Home Cleaning,128,False
+2024-02-07,Home Cleaning,119,False
+2024-02-08,Home Cleaning,120,False
+2024-02-09,Home Cleaning,124,False
+2024-02-10,Home Cleaning,134,False
+2024-02-11,Home Cleaning,138,False
+2024-02-12,Home Cleaning,134,False
+2024-02-13,Home Cleaning,116,False
+2024-02-14,Home Cleaning,132,True
+2024-02-15,Home Cleaning,122,False
+2024-02-16,Home Cleaning,134,False
+2024-02-17,Home Cleaning,145,False
+2024-02-18,Home Cleaning,164,True
+2024-02-19,Home Cleaning,128,False
+2024-02-20,Home Cleaning,112,False
+2024-02-21,Home Cleaning,132,False
+2024-02-22,Home Cleaning,131,False
+2024-02-23,Home Cleaning,124,False
+2024-02-24,Home Cleaning,155,False
+2024-02-25,Home Cleaning,136,False
+2024-02-26,Home Cleaning,137,False
+2024-02-27,Home Cleaning,129,False
+2024-02-28,Home Cleaning,124,False
+2024-02-29,Home Cleaning,127,False
+2024-03-01,Home Cleaning,129,False
+2024-03-02,Home Cleaning,160,False
+2024-03-03,Home Cleaning,140,False
+2024-03-04,Home Cleaning,123,False
+2024-03-05,Home Cleaning,139,False
+2024-03-06,Home Cleaning,125,False
+2024-03-07,Home Cleaning,138,False
+2024-03-08,Home Cleaning,145,False
+2024-03-09,Home Cleaning,146,False
+2024-03-10,Home Cleaning,155,False
+2024-03-11,Home Cleaning,120,False
+2024-03-12,Home Cleaning,137,False
+2024-03-13,Home Cleaning,132,False
+2024-03-14,Home Cleaning,134,False
+2024-03-15,Home Cleaning,144,True
+2024-03-16,Home Cleaning,135,False
+2024-03-17,Home Cleaning,154,False
+2024-03-18,Home Cleaning,112,False
+2024-03-19,Home Cleaning,127,False
+2024-03-20,Home Cleaning,138,False
+2024-03-21,Home Cleaning,132,False
+2024-03-22,Home Cleaning,147,False
+2024-03-23,Home Cleaning,159,False
+2024-03-24,Home Cleaning,144,False
+2024-03-25,Home Cleaning,150,True
+2024-03-26,Home Cleaning,130,False
+2024-03-27,Home Cleaning,116,False
+2024-03-28,Home Cleaning,122,False
+2024-03-29,Home Cleaning,125,False
+2024-03-30,Home Cleaning,132,False
+2024-03-31,Home Cleaning,150,False
+2024-04-01,Home Cleaning,125,False
+2024-04-02,Home Cleaning,113,False
+2024-04-03,Home Cleaning,131,False
+2024-04-04,Home Cleaning,134,False
+2024-04-05,Home Cleaning,129,False
+2024-04-06,Home Cleaning,144,False
+2024-04-07,Home Cleaning,174,True
+2024-04-08,Home Cleaning,133,False
+2024-04-09,Home Cleaning,130,False
+2024-04-10,Home Cleaning,120,False
+2024-04-11,Home Cleaning,130,False
+2024-04-12,Home Cleaning,138,False
+2024-04-13,Home Cleaning,141,False
+2024-04-14,Home Cleaning,165,False
+2024-04-15,Home Cleaning,123,False
+2024-04-16,Home Cleaning,128,False
+2024-04-17,Home Cleaning,121,False
+2024-04-18,Home Cleaning,129,False
+2024-04-19,Home Cleaning,112,False
+2024-04-20,Home Cleaning,142,False
+2024-04-21,Home Cleaning,137,False
+2024-04-22,Home Cleaning,129,False
+2024-04-23,Home Cleaning,155,True
+2024-04-24,Home Cleaning,133,False
+2024-04-25,Home Cleaning,106,False
+2024-04-26,Home Cleaning,145,False
+2024-04-27,Home Cleaning,149,False
+2024-04-28,Home Cleaning,140,False
+2024-04-29,Home Cleaning,129,False
+2024-04-30,Home Cleaning,129,False
+2024-05-01,Home Cleaning,132,True
+2024-05-02,Home Cleaning,122,False
+2024-05-03,Home Cleaning,115,False
+2024-05-04,Home Cleaning,134,False
+2024-05-05,Home Cleaning,132,False
+2024-05-06,Home Cleaning,107,False
+2024-05-07,Home Cleaning,121,False
+2024-05-08,Home Cleaning,125,False
+2024-05-09,Home Cleaning,125,False
+2024-05-10,Home Cleaning,127,False
+2024-05-11,Home Cleaning,141,False
+2024-05-12,Home Cleaning,133,False
+2024-05-13,Home Cleaning,127,False
+2024-05-14,Home Cleaning,108,False
+2024-05-15,Home Cleaning,112,False
+2024-05-16,Home Cleaning,130,True
+2024-05-17,Home Cleaning,130,False
+2024-05-18,Home Cleaning,146,False
+2024-05-19,Home Cleaning,142,False
+2024-05-20,Home Cleaning,129,False
+2024-05-21,Home Cleaning,112,False
+2024-05-22,Home Cleaning,123,False
+2024-05-23,Home Cleaning,119,False
+2024-05-24,Home Cleaning,127,False
+2024-05-25,Home Cleaning,137,False
+2024-05-26,Home Cleaning,135,False
+2024-05-27,Home Cleaning,125,False
+2024-05-28,Home Cleaning,128,False
+2024-05-29,Home Cleaning,114,False
+2024-05-30,Home Cleaning,119,False
+2024-05-31,Home Cleaning,129,True
+2024-06-01,Home Cleaning,105,False
+2024-06-02,Home Cleaning,128,False
+2024-06-03,Home Cleaning,115,False
+2024-06-04,Home Cleaning,112,False
+2024-06-05,Home Cleaning,93,False
+2024-06-06,Home Cleaning,107,False
+2024-06-07,Home Cleaning,90,False
+2024-06-08,Home Cleaning,139,False
+2024-06-09,Home Cleaning,117,False
+2024-06-10,Home Cleaning,121,False
+2024-06-11,Home Cleaning,118,False
+2024-06-12,Home Cleaning,102,False
+2024-06-13,Home Cleaning,100,False
+2024-06-14,Home Cleaning,113,False
+2024-06-15,Home Cleaning,119,False
+2024-06-16,Home Cleaning,127,False
+2024-06-17,Home Cleaning,106,False
+2024-06-18,Home Cleaning,94,False
+2024-06-19,Home Cleaning,90,False
+2024-06-20,Home Cleaning,112,False
+2024-06-21,Home Cleaning,105,False
+2024-06-22,Home Cleaning,122,False
+2024-06-23,Home Cleaning,133,False
+2024-06-24,Home Cleaning,120,False
+2024-06-25,Home Cleaning,108,False
+2024-06-26,Home Cleaning,107,False
+2024-06-27,Home Cleaning,131,True
+2024-06-28,Home Cleaning,98,False
+2024-06-29,Home Cleaning,147,True
+2024-06-30,Home Cleaning,131,False
+2024-07-01,Home Cleaning,106,False
+2024-07-02,Home Cleaning,83,False
+2024-07-03,Home Cleaning,93,False
+2024-07-04,Home Cleaning,92,False
+2024-07-05,Home Cleaning,101,False
+2024-07-06,Home Cleaning,119,False
+2024-07-07,Home Cleaning,128,False
+2024-07-08,Home Cleaning,96,False
+2024-07-09,Home Cleaning,96,False
+2024-07-10,Home Cleaning,110,False
+2024-07-11,Home Cleaning,118,True
+2024-07-12,Home Cleaning,126,True
+2024-07-13,Home Cleaning,118,False
+2024-07-14,Home Cleaning,105,False
+2024-07-15,Home Cleaning,88,False
+2024-07-16,Home Cleaning,86,False
+2024-07-17,Home Cleaning,106,False
+2024-07-18,Home Cleaning,110,False
+2024-07-19,Home Cleaning,116,False
+2024-07-20,Home Cleaning,140,True
+2024-07-21,Home Cleaning,125,False
+2024-07-22,Home Cleaning,110,True
+2024-07-23,Home Cleaning,90,False
+2024-07-24,Home Cleaning,107,False
+2024-07-25,Home Cleaning,104,False
+2024-07-26,Home Cleaning,101,False
+2024-07-27,Home Cleaning,118,False
+2024-07-28,Home Cleaning,118,False
+2024-07-29,Home Cleaning,111,False
+2024-07-30,Home Cleaning,111,False
+2024-07-31,Home Cleaning,105,False
+2024-08-01,Home Cleaning,100,False
+2024-08-02,Home Cleaning,97,False
+2024-08-03,Home Cleaning,103,False
+2024-08-04,Home Cleaning,113,False
+2024-08-05,Home Cleaning,80,False
+2024-08-06,Home Cleaning,102,False
+2024-08-07,Home Cleaning,82,False
+2024-08-08,Home Cleaning,95,False
+2024-08-09,Home Cleaning,85,False
+2024-08-10,Home Cleaning,111,False
+2024-08-11,Home Cleaning,106,False
+2024-08-12,Home Cleaning,79,False
+2024-08-13,Home Cleaning,96,False
+2024-08-14,Home Cleaning,88,False
+2024-08-15,Home Cleaning,100,False
+2024-08-16,Home Cleaning,107,True
+2024-08-17,Home Cleaning,110,False
+2024-08-18,Home Cleaning,98,False
+2024-08-19,Home Cleaning,87,False
+2024-08-20,Home Cleaning,89,False
+2024-08-21,Home Cleaning,100,False
+2024-08-22,Home Cleaning,107,False
+2024-08-23,Home Cleaning,86,False
+2024-08-24,Home Cleaning,116,False
+2024-08-25,Home Cleaning,87,False
+2024-08-26,Home Cleaning,82,False
+2024-08-27,Home Cleaning,84,False
+2024-08-28,Home Cleaning,81,False
+2024-08-29,Home Cleaning,79,False
+2024-08-30,Home Cleaning,96,False
+2024-08-31,Home Cleaning,105,False
+2024-09-01,Home Cleaning,107,False
+2024-09-02,Home Cleaning,96,False
+2024-09-03,Home Cleaning,92,False
+2024-09-04,Home Cleaning,96,False
+2024-09-05,Home Cleaning,89,False
+2024-09-06,Home Cleaning,80,False
+2024-09-07,Home Cleaning,128,True
+2024-09-08,Home Cleaning,98,False
+2024-09-09,Home Cleaning,82,False
+2024-09-10,Home Cleaning,88,False
+2024-09-11,Home Cleaning,82,False
+2024-09-12,Home Cleaning,86,False
+2024-09-13,Home Cleaning,93,False
+2024-09-14,Home Cleaning,107,False
+2024-09-15,Home Cleaning,96,False
+2024-09-16,Home Cleaning,86,False
+2024-09-17,Home Cleaning,99,False
+2024-09-18,Home Cleaning,94,False
+2024-09-19,Home Cleaning,108,False
+2024-09-20,Home Cleaning,100,False
+2024-09-21,Home Cleaning,114,False
+2024-09-22,Home Cleaning,91,False
+2024-09-23,Home Cleaning,110,True
+2024-09-24,Home Cleaning,90,False
+2024-09-25,Home Cleaning,85,False
+2024-09-26,Home Cleaning,91,False
+2024-09-27,Home Cleaning,98,False
+2024-09-28,Home Cleaning,123,True
+2024-09-29,Home Cleaning,96,False
+2024-09-30,Home Cleaning,97,False
+2024-10-01,Home Cleaning,87,False
+2024-10-02,Home Cleaning,95,False
+2024-10-03,Home Cleaning,90,False
+2024-10-04,Home Cleaning,91,False
+2024-10-05,Home Cleaning,113,False
+2024-10-06,Home Cleaning,97,False
+2024-10-07,Home Cleaning,110,False
+2024-10-08,Home Cleaning,77,False
+2024-10-09,Home Cleaning,87,False
+2024-10-10,Home Cleaning,96,False
+2024-10-11,Home Cleaning,98,False
+2024-10-12,Home Cleaning,106,False
+2024-10-13,Home Cleaning,106,False
+2024-10-14,Home Cleaning,96,False
+2024-10-15,Home Cleaning,91,False
+2024-10-16,Home Cleaning,105,False
+2024-10-17,Home Cleaning,100,False
+2024-10-18,Home Cleaning,114,True
+2024-10-19,Home Cleaning,98,False
+2024-10-20,Home Cleaning,106,False
+2024-10-21,Home Cleaning,90,False
+2024-10-22,Home Cleaning,84,False
+2024-10-23,Home Cleaning,96,False
+2024-10-24,Home Cleaning,88,False
+2024-10-25,Home Cleaning,98,False
+2024-10-26,Home Cleaning,97,False
+2024-10-27,Home Cleaning,122,False
+2024-10-28,Home Cleaning,99,True
+2024-10-29,Home Cleaning,95,False
+2024-10-30,Home Cleaning,100,False
+2024-10-31,Home Cleaning,88,False
+2024-11-01,Home Cleaning,108,False
+2024-11-02,Home Cleaning,104,False
+2024-11-03,Home Cleaning,128,False
+2024-11-04,Home Cleaning,115,True
+2024-11-05,Home Cleaning,95,False
+2024-11-06,Home Cleaning,112,True
+2024-11-07,Home Cleaning,107,False
+2024-11-08,Home Cleaning,95,False
+2024-11-09,Home Cleaning,126,True
+2024-11-10,Home Cleaning,113,False
+2024-11-11,Home Cleaning,90,False
+2024-11-12,Home Cleaning,116,False
+2024-11-13,Home Cleaning,95,False
+2024-11-14,Home Cleaning,107,False
+2024-11-15,Home Cleaning,102,False
+2024-11-16,Home Cleaning,106,False
+2024-11-17,Home Cleaning,115,False
+2024-11-18,Home Cleaning,107,False
+2024-11-19,Home Cleaning,98,False
+2024-11-20,Home Cleaning,110,False
+2024-11-21,Home Cleaning,109,False
+2024-11-22,Home Cleaning,108,False
+2024-11-23,Home Cleaning,111,False
+2024-11-24,Home Cleaning,105,False
+2024-11-25,Home Cleaning,95,False
+2024-11-26,Home Cleaning,102,False
+2024-11-27,Home Cleaning,105,False
+2024-11-28,Home Cleaning,81,False
+2024-11-29,Home Cleaning,100,False
+2024-11-30,Home Cleaning,116,False
+2024-12-01,Home Cleaning,124,False
+2024-12-02,Home Cleaning,138,True
+2024-12-03,Home Cleaning,114,False
+2024-12-04,Home Cleaning,122,False
+2024-12-05,Home Cleaning,108,False
+2024-12-06,Home Cleaning,118,False
+2024-12-07,Home Cleaning,141,False
+2024-12-08,Home Cleaning,138,False
+2024-12-09,Home Cleaning,100,False
+2024-12-10,Home Cleaning,108,False
+2024-12-11,Home Cleaning,107,False
+2024-12-12,Home Cleaning,114,False
+2024-12-13,Home Cleaning,116,False
+2024-12-14,Home Cleaning,119,False
+2024-12-15,Home Cleaning,146,True
+2024-12-16,Home Cleaning,92,False
+2024-12-17,Home Cleaning,123,False
+2024-12-18,Home Cleaning,122,True
+2024-12-19,Home Cleaning,110,False
+2024-12-20,Home Cleaning,107,False
+2024-12-21,Home Cleaning,137,False
+2024-12-22,Home Cleaning,102,False
+2024-12-23,Home Cleaning,110,False
+2024-12-24,Home Cleaning,109,False
+2024-12-25,Home Cleaning,106,False
+2024-12-26,Home Cleaning,125,False
+2024-12-27,Home Cleaning,102,False
+2024-12-28,Home Cleaning,133,False
+2024-12-29,Home Cleaning,130,False
+2024-12-30,Home Cleaning,121,False
+2024-12-31,Home Cleaning,104,False
+2025-01-01,Home Cleaning,114,False
+2025-01-02,Home Cleaning,130,False
+2025-01-03,Home Cleaning,124,False
+2025-01-04,Home Cleaning,124,False
+2025-01-05,Home Cleaning,133,False
+2025-01-06,Home Cleaning,123,False
+2025-01-07,Home Cleaning,145,True
+2025-01-08,Home Cleaning,114,False
+2025-01-09,Home Cleaning,94,False
+2025-01-10,Home Cleaning,125,False
+2025-01-11,Home Cleaning,127,False
+2025-01-12,Home Cleaning,120,False
+2025-01-13,Home Cleaning,95,False
+2025-01-14,Home Cleaning,127,False
+2025-01-15,Home Cleaning,121,False
+2025-01-16,Home Cleaning,118,False
+2025-01-17,Home Cleaning,132,False
+2025-01-18,Home Cleaning,144,False
+2025-01-19,Home Cleaning,152,False
+2025-01-20,Home Cleaning,108,False
+2025-01-21,Home Cleaning,120,False
+2025-01-22,Home Cleaning,106,False
+2025-01-23,Home Cleaning,118,False
+2025-01-24,Home Cleaning,136,True
+2025-01-25,Home Cleaning,144,False
+2025-01-26,Home Cleaning,138,False
+2025-01-27,Home Cleaning,125,False
+2025-01-28,Home Cleaning,126,False
+2025-01-29,Home Cleaning,139,False
+2025-01-30,Home Cleaning,117,False
+2025-01-31,Home Cleaning,130,True
+2025-02-01,Home Cleaning,149,False
+2025-02-02,Home Cleaning,139,False
+2025-02-03,Home Cleaning,140,False
+2025-02-04,Home Cleaning,125,False
+2025-02-05,Home Cleaning,122,False
+2025-02-06,Home Cleaning,123,False
+2025-02-07,Home Cleaning,134,False
+2025-02-08,Home Cleaning,145,False
+2025-02-09,Home Cleaning,141,False
+2025-02-10,Home Cleaning,142,False
+2025-02-11,Home Cleaning,120,False
+2025-02-12,Home Cleaning,128,False
+2025-02-13,Home Cleaning,133,False
+2025-02-14,Home Cleaning,113,False
+2025-02-15,Home Cleaning,151,False
+2025-02-16,Home Cleaning,137,False
+2025-02-17,Home Cleaning,135,False
+2025-02-18,Home Cleaning,119,False
+2025-02-19,Home Cleaning,153,True
+2025-02-20,Home Cleaning,137,False
+2025-02-21,Home Cleaning,135,False
+2025-02-22,Home Cleaning,149,False
+2025-02-23,Home Cleaning,144,False
+2025-02-24,Home Cleaning,122,False
+2025-02-25,Home Cleaning,140,False
+2025-02-26,Home Cleaning,121,False
+2025-02-27,Home Cleaning,118,False
+2025-02-28,Home Cleaning,133,False
+2025-03-01,Home Cleaning,142,False
+2025-03-02,Home Cleaning,141,False
+2025-03-03,Home Cleaning,117,False
+2025-03-04,Home Cleaning,126,False
+2025-03-05,Home Cleaning,129,False
+2025-03-06,Home Cleaning,132,False
+2025-03-07,Home Cleaning,138,False
+2025-03-08,Home Cleaning,154,False
+2025-03-09,Home Cleaning,170,True
+2025-03-10,Home Cleaning,128,False
+2025-03-11,Home Cleaning,134,False
+2025-03-12,Home Cleaning,141,False
+2025-03-13,Home Cleaning,131,False
+2025-03-14,Home Cleaning,126,False
+2025-03-15,Home Cleaning,141,False
+2025-03-16,Home Cleaning,137,False
+2025-03-17,Home Cleaning,136,False
+2025-03-18,Home Cleaning,135,False
+2025-03-19,Home Cleaning,135,False
+2025-03-20,Home Cleaning,129,False
+2025-03-21,Home Cleaning,142,False
+2025-03-22,Home Cleaning,145,False
+2025-03-23,Home Cleaning,158,False
+2025-03-24,Home Cleaning,130,False
+2025-03-25,Home Cleaning,125,False
+2025-03-26,Home Cleaning,135,False
+2025-03-27,Home Cleaning,134,False
+2025-03-28,Home Cleaning,133,False
+2025-03-29,Home Cleaning,150,False
+2025-03-30,Home Cleaning,149,False
+2025-03-31,Home Cleaning,151,False
+2025-04-01,Home Cleaning,138,False
+2025-04-02,Home Cleaning,134,False
+2025-04-03,Home Cleaning,128,False
+2025-04-04,Home Cleaning,136,False
+2025-04-05,Home Cleaning,151,False
+2025-04-06,Home Cleaning,147,False
+2025-04-07,Home Cleaning,125,False
+2025-04-08,Home Cleaning,127,False
+2025-04-09,Home Cleaning,99,False
+2025-04-10,Home Cleaning,129,False
+2025-04-11,Home Cleaning,123,False
+2025-04-12,Home Cleaning,160,False
+2025-04-13,Home Cleaning,169,True
+2025-04-14,Home Cleaning,117,False
+2025-04-15,Home Cleaning,127,False
+2025-04-16,Home Cleaning,118,False
+2025-04-17,Home Cleaning,131,False
+2025-04-18,Home Cleaning,130,False
+2025-04-19,Home Cleaning,155,False
+2025-04-20,Home Cleaning,139,False
+2025-04-21,Home Cleaning,128,False
+2025-04-22,Home Cleaning,115,False
+2025-04-23,Home Cleaning,153,True
+2025-04-24,Home Cleaning,132,False
+2025-04-25,Home Cleaning,132,False
+2025-04-26,Home Cleaning,146,False
+2025-04-27,Home Cleaning,172,True
+2025-04-28,Home Cleaning,141,False
+2025-04-29,Home Cleaning,144,True
+2025-04-30,Home Cleaning,129,False
+2025-05-01,Home Cleaning,110,False
+2025-05-02,Home Cleaning,112,False
+2025-05-03,Home Cleaning,139,False
+2025-05-04,Home Cleaning,148,False
+2025-05-05,Home Cleaning,118,False
+2025-05-06,Home Cleaning,118,False
+2025-05-07,Home Cleaning,116,False
+2025-05-08,Home Cleaning,115,False
+2025-05-09,Home Cleaning,141,True
+2025-05-10,Home Cleaning,125,False
+2025-05-11,Home Cleaning,149,False
+2025-05-12,Home Cleaning,114,False
+2025-05-13,Home Cleaning,126,False
+2025-05-14,Home Cleaning,109,False
+2025-05-15,Home Cleaning,126,False
+2025-05-16,Home Cleaning,126,False
+2025-05-17,Home Cleaning,141,False
+2025-05-18,Home Cleaning,129,False
+2025-05-19,Home Cleaning,122,False
+2025-05-20,Home Cleaning,110,False
+2025-05-21,Home Cleaning,118,False
+2025-05-22,Home Cleaning,147,True
+2025-05-23,Home Cleaning,145,True
+2025-05-24,Home Cleaning,138,False
+2025-05-25,Home Cleaning,129,False
+2025-05-26,Home Cleaning,126,False
+2025-05-27,Home Cleaning,120,False
+2025-05-28,Home Cleaning,100,False
+2025-05-29,Home Cleaning,127,False
+2025-05-30,Home Cleaning,120,False
+2025-05-31,Home Cleaning,149,False
+2025-06-01,Home Cleaning,117,False
+2025-06-02,Home Cleaning,82,False
+2025-06-03,Home Cleaning,112,False
+2025-06-04,Home Cleaning,113,False
+2025-06-05,Home Cleaning,95,False
+2025-06-06,Home Cleaning,101,False
+2025-06-07,Home Cleaning,151,False
+2025-06-08,Home Cleaning,124,False
+2025-06-09,Home Cleaning,116,False
+2025-06-10,Home Cleaning,104,False
+2025-06-11,Home Cleaning,92,False
+2025-06-12,Home Cleaning,109,False
+2025-06-13,Home Cleaning,108,False
+2025-06-14,Home Cleaning,123,False
+2025-06-15,Home Cleaning,125,False
+2025-06-16,Home Cleaning,112,False
+2025-06-17,Home Cleaning,109,False
+2025-06-18,Home Cleaning,99,False
+2025-06-19,Home Cleaning,114,False
+2025-06-20,Home Cleaning,93,False
+2025-06-21,Home Cleaning,108,False
+2025-06-22,Home Cleaning,133,False
+2025-06-23,Home Cleaning,114,False
+2025-06-24,Home Cleaning,109,False
+2025-06-25,Home Cleaning,98,False
+2025-06-26,Home Cleaning,104,False
+2025-06-27,Home Cleaning,108,False
+2025-06-28,Home Cleaning,112,False
+2025-06-29,Home Cleaning,120,False
+2025-06-30,Home Cleaning,116,False
+2025-07-01,Home Cleaning,113,False
+2025-07-02,Home Cleaning,96,False
+2025-07-03,Home Cleaning,107,False
+2025-07-04,Home Cleaning,83,False
+2025-07-05,Home Cleaning,121,False
+2025-07-06,Home Cleaning,108,False
+2025-07-07,Home Cleaning,103,False
+2025-07-08,Home Cleaning,98,False
+2025-07-09,Home Cleaning,112,False
+2025-07-10,Home Cleaning,92,False
+2025-07-11,Home Cleaning,106,False
+2025-07-12,Home Cleaning,113,False
+2025-07-13,Home Cleaning,114,False
+2025-07-14,Home Cleaning,98,False
+2025-07-15,Home Cleaning,93,False
+2025-07-16,Home Cleaning,100,False
+2025-07-17,Home Cleaning,99,False
+2025-07-18,Home Cleaning,102,False
+2025-07-19,Home Cleaning,116,False
+2025-07-20,Home Cleaning,122,False
+2025-07-21,Home Cleaning,108,False
+2025-07-22,Home Cleaning,91,False
+2025-07-23,Home Cleaning,108,False
+2025-07-24,Home Cleaning,90,False
+2025-07-25,Home Cleaning,105,False
+2025-07-26,Home Cleaning,120,False
+2025-07-27,Home Cleaning,98,False
+2025-07-28,Home Cleaning,116,True
+2025-07-29,Home Cleaning,96,False
+2025-07-30,Home Cleaning,93,False
+2025-07-31,Home Cleaning,112,False
+2025-08-01,Home Cleaning,87,False
+2025-08-02,Home Cleaning,115,True
+2025-08-03,Home Cleaning,107,False
+2025-08-04,Home Cleaning,99,False
+2025-08-05,Home Cleaning,91,False
+2025-08-06,Home Cleaning,103,False
+2025-08-07,Home Cleaning,97,False
+2025-08-08,Home Cleaning,74,False
+2025-08-09,Home Cleaning,102,False
+2025-08-10,Home Cleaning,102,False
+2025-08-11,Home Cleaning,97,False
+2025-08-12,Home Cleaning,70,False
+2025-08-13,Home Cleaning,115,False
+2025-08-14,Home Cleaning,97,False
+2025-08-15,Home Cleaning,94,False
+2025-08-16,Home Cleaning,117,False
+2025-08-17,Home Cleaning,127,False
+2025-08-18,Home Cleaning,100,False
+2025-08-19,Home Cleaning,101,False
+2025-08-20,Home Cleaning,94,False
+2025-08-21,Home Cleaning,91,False
+2025-08-22,Home Cleaning,88,False
+2025-08-23,Home Cleaning,99,False
+2025-08-24,Home Cleaning,101,False
+2025-08-25,Home Cleaning,81,False
+2025-08-26,Home Cleaning,92,False
+2025-08-27,Home Cleaning,78,False
+2025-08-28,Home Cleaning,94,False
+2025-08-29,Home Cleaning,106,True
+2025-08-30,Home Cleaning,108,False
+2025-08-31,Home Cleaning,102,False
+2025-09-01,Home Cleaning,117,False
+2025-09-02,Home Cleaning,102,False
+2025-09-03,Home Cleaning,79,False
+2025-09-04,Home Cleaning,92,False
+2025-09-05,Home Cleaning,85,False
+2025-09-06,Home Cleaning,95,False
+2025-09-07,Home Cleaning,92,False
+2025-09-08,Home Cleaning,94,False
+2025-09-09,Home Cleaning,84,False
+2025-09-10,Home Cleaning,99,False
+2025-09-11,Home Cleaning,99,False
+2025-09-12,Home Cleaning,102,False
+2025-09-13,Home Cleaning,96,False
+2025-09-14,Home Cleaning,108,False
+2025-09-15,Home Cleaning,96,False
+2025-09-16,Home Cleaning,86,False
+2025-09-17,Home Cleaning,83,False
+2025-09-18,Home Cleaning,104,False
+2025-09-19,Home Cleaning,92,False
+2025-09-20,Home Cleaning,109,False
+2025-09-21,Home Cleaning,96,False
+2025-09-22,Home Cleaning,79,False
+2025-09-23,Home Cleaning,85,False
+2025-09-24,Home Cleaning,89,False
+2025-09-25,Home Cleaning,81,False
+2025-09-26,Home Cleaning,90,False
+2025-09-27,Home Cleaning,89,False
+2025-09-28,Home Cleaning,94,False
+2025-09-29,Home Cleaning,96,False
+2025-09-30,Home Cleaning,95,False
+2025-10-01,Home Cleaning,89,False
+2025-10-02,Home Cleaning,84,False
+2025-10-03,Home Cleaning,84,False
+2025-10-04,Home Cleaning,119,True
+2025-10-05,Home Cleaning,112,False
+2025-10-06,Home Cleaning,101,False
+2025-10-07,Home Cleaning,88,False
+2025-10-08,Home Cleaning,83,False
+2025-10-09,Home Cleaning,95,False
+2025-10-10,Home Cleaning,85,False
+2025-10-11,Home Cleaning,118,True
+2025-10-12,Home Cleaning,118,False
+2025-10-13,Home Cleaning,100,False
+2025-10-14,Home Cleaning,94,False
+2025-10-15,Home Cleaning,81,False
+2025-10-16,Home Cleaning,108,True
+2025-10-17,Home Cleaning,102,False
+2025-10-18,Home Cleaning,103,False
+2025-10-19,Home Cleaning,118,False
+2025-10-20,Home Cleaning,104,False
+2025-10-21,Home Cleaning,107,False
+2025-10-22,Home Cleaning,95,False
+2025-10-23,Home Cleaning,98,False
+2025-10-24,Home Cleaning,105,False
+2025-10-25,Home Cleaning,111,False
+2025-10-26,Home Cleaning,102,False
+2025-10-27,Home Cleaning,89,False
+2025-10-28,Home Cleaning,95,False
+2025-10-29,Home Cleaning,81,False
+2025-10-30,Home Cleaning,91,False
+2025-10-31,Home Cleaning,102,False
+2025-11-01,Home Cleaning,96,False
+2025-11-02,Home Cleaning,129,False
+2025-11-03,Home Cleaning,110,False
+2025-11-04,Home Cleaning,96,False
+2025-11-05,Home Cleaning,105,False
+2025-11-06,Home Cleaning,100,False
+2025-11-07,Home Cleaning,111,False
+2025-11-08,Home Cleaning,124,False
+2025-11-09,Home Cleaning,103,False
+2025-11-10,Home Cleaning,105,False
+2025-11-11,Home Cleaning,113,True
+2025-11-12,Home Cleaning,101,False
+2025-11-13,Home Cleaning,109,True
+2025-11-14,Home Cleaning,115,False
+2025-11-15,Home Cleaning,141,True
+2025-11-16,Home Cleaning,108,False
+2025-11-17,Home Cleaning,88,False
+2025-11-18,Home Cleaning,97,False
+2025-11-19,Home Cleaning,104,False
+2025-11-20,Home Cleaning,102,False
+2025-11-21,Home Cleaning,111,False
+2025-11-22,Home Cleaning,122,False
+2025-11-23,Home Cleaning,124,False
+2025-11-24,Home Cleaning,103,False
+2025-11-25,Home Cleaning,88,False
+2025-11-26,Home Cleaning,98,False
+2025-11-27,Home Cleaning,109,False
+2025-11-28,Home Cleaning,100,False
+2025-11-29,Home Cleaning,119,False
+2025-11-30,Home Cleaning,129,True
+2025-12-01,Home Cleaning,101,False
+2025-12-02,Home Cleaning,109,False
+2025-12-03,Home Cleaning,113,False
+2025-12-04,Home Cleaning,104,False
+2025-12-05,Home Cleaning,108,False
+2025-12-06,Home Cleaning,118,False
+2025-12-07,Home Cleaning,136,False
+2025-12-08,Home Cleaning,107,False
+2025-12-09,Home Cleaning,123,False
+2025-12-10,Home Cleaning,123,False
+2025-12-11,Home Cleaning,109,False
+2025-12-12,Home Cleaning,101,False
+2025-12-13,Home Cleaning,108,False
+2025-12-14,Home Cleaning,114,False
+2025-12-15,Home Cleaning,98,False
+2025-12-16,Home Cleaning,122,False
+2025-12-17,Home Cleaning,111,False
+2025-12-18,Home Cleaning,113,False
+2025-12-19,Home Cleaning,90,False
+2025-12-20,Home Cleaning,116,False
+2025-12-21,Home Cleaning,134,False
+2025-12-22,Home Cleaning,113,False
+2025-12-23,Home Cleaning,125,True
+2025-12-24,Home Cleaning,115,False
+2025-12-25,Home Cleaning,124,False
+2025-12-26,Home Cleaning,125,True
+2025-12-27,Home Cleaning,127,False
+2025-12-28,Home Cleaning,128,False
+2025-12-29,Home Cleaning,131,False
+2025-12-30,Home Cleaning,92,False
+2025-12-31,Home Cleaning,116,False
+2023-01-01,Frozen Foods,234,False
+2023-01-02,Frozen Foods,212,False
+2023-01-03,Frozen Foods,197,False
+2023-01-04,Frozen Foods,204,False
+2023-01-05,Frozen Foods,214,False
+2023-01-06,Frozen Foods,245,False
+2023-01-07,Frozen Foods,246,False
+2023-01-08,Frozen Foods,225,False
+2023-01-09,Frozen Foods,200,False
+2023-01-10,Frozen Foods,199,False
+2023-01-11,Frozen Foods,233,True
+2023-01-12,Frozen Foods,201,False
+2023-01-13,Frozen Foods,214,False
+2023-01-14,Frozen Foods,219,False
+2023-01-15,Frozen Foods,249,False
+2023-01-16,Frozen Foods,211,False
+2023-01-17,Frozen Foods,196,False
+2023-01-18,Frozen Foods,203,False
+2023-01-19,Frozen Foods,225,False
+2023-01-20,Frozen Foods,214,False
+2023-01-21,Frozen Foods,236,False
+2023-01-22,Frozen Foods,233,False
+2023-01-23,Frozen Foods,206,False
+2023-01-24,Frozen Foods,198,False
+2023-01-25,Frozen Foods,178,False
+2023-01-26,Frozen Foods,231,False
+2023-01-27,Frozen Foods,207,False
+2023-01-28,Frozen Foods,241,False
+2023-01-29,Frozen Foods,235,False
+2023-01-30,Frozen Foods,196,False
+2023-01-31,Frozen Foods,203,False
+2023-02-01,Frozen Foods,228,True
+2023-02-02,Frozen Foods,228,False
+2023-02-03,Frozen Foods,183,False
+2023-02-04,Frozen Foods,216,False
+2023-02-05,Frozen Foods,223,False
+2023-02-06,Frozen Foods,215,False
+2023-02-07,Frozen Foods,199,False
+2023-02-08,Frozen Foods,183,False
+2023-02-09,Frozen Foods,215,False
+2023-02-10,Frozen Foods,208,False
+2023-02-11,Frozen Foods,236,False
+2023-02-12,Frozen Foods,238,False
+2023-02-13,Frozen Foods,230,False
+2023-02-14,Frozen Foods,277,True
+2023-02-15,Frozen Foods,190,False
+2023-02-16,Frozen Foods,220,False
+2023-02-17,Frozen Foods,204,False
+2023-02-18,Frozen Foods,235,False
+2023-02-19,Frozen Foods,207,False
+2023-02-20,Frozen Foods,197,False
+2023-02-21,Frozen Foods,238,True
+2023-02-22,Frozen Foods,210,False
+2023-02-23,Frozen Foods,213,False
+2023-02-24,Frozen Foods,172,False
+2023-02-25,Frozen Foods,229,False
+2023-02-26,Frozen Foods,300,True
+2023-02-27,Frozen Foods,197,False
+2023-02-28,Frozen Foods,208,False
+2023-03-01,Frozen Foods,187,False
+2023-03-02,Frozen Foods,187,False
+2023-03-03,Frozen Foods,179,False
+2023-03-04,Frozen Foods,194,False
+2023-03-05,Frozen Foods,196,False
+2023-03-06,Frozen Foods,192,False
+2023-03-07,Frozen Foods,183,False
+2023-03-08,Frozen Foods,181,False
+2023-03-09,Frozen Foods,177,False
+2023-03-10,Frozen Foods,179,False
+2023-03-11,Frozen Foods,223,False
+2023-03-12,Frozen Foods,258,True
+2023-03-13,Frozen Foods,165,False
+2023-03-14,Frozen Foods,192,False
+2023-03-15,Frozen Foods,180,False
+2023-03-16,Frozen Foods,183,False
+2023-03-17,Frozen Foods,203,False
+2023-03-18,Frozen Foods,210,False
+2023-03-19,Frozen Foods,214,False
+2023-03-20,Frozen Foods,167,False
+2023-03-21,Frozen Foods,180,False
+2023-03-22,Frozen Foods,190,False
+2023-03-23,Frozen Foods,163,False
+2023-03-24,Frozen Foods,185,False
+2023-03-25,Frozen Foods,211,False
+2023-03-26,Frozen Foods,210,False
+2023-03-27,Frozen Foods,196,False
+2023-03-28,Frozen Foods,232,True
+2023-03-29,Frozen Foods,201,False
+2023-03-30,Frozen Foods,215,True
+2023-03-31,Frozen Foods,184,False
+2023-04-01,Frozen Foods,185,False
+2023-04-02,Frozen Foods,170,False
+2023-04-03,Frozen Foods,172,False
+2023-04-04,Frozen Foods,190,False
+2023-04-05,Frozen Foods,160,False
+2023-04-06,Frozen Foods,166,False
+2023-04-07,Frozen Foods,201,True
+2023-04-08,Frozen Foods,175,False
+2023-04-09,Frozen Foods,161,False
+2023-04-10,Frozen Foods,151,False
+2023-04-11,Frozen Foods,142,False
+2023-04-12,Frozen Foods,222,True
+2023-04-13,Frozen Foods,159,False
+2023-04-14,Frozen Foods,156,False
+2023-04-15,Frozen Foods,195,False
+2023-04-16,Frozen Foods,170,False
+2023-04-17,Frozen Foods,150,False
+2023-04-18,Frozen Foods,201,True
+2023-04-19,Frozen Foods,173,False
+2023-04-20,Frozen Foods,206,True
+2023-04-21,Frozen Foods,163,False
+2023-04-22,Frozen Foods,185,False
+2023-04-23,Frozen Foods,189,False
+2023-04-24,Frozen Foods,203,True
+2023-04-25,Frozen Foods,147,False
+2023-04-26,Frozen Foods,161,False
+2023-04-27,Frozen Foods,146,False
+2023-04-28,Frozen Foods,161,False
+2023-04-29,Frozen Foods,178,False
+2023-04-30,Frozen Foods,217,False
+2023-05-01,Frozen Foods,137,False
+2023-05-02,Frozen Foods,120,False
+2023-05-03,Frozen Foods,136,False
+2023-05-04,Frozen Foods,144,False
+2023-05-05,Frozen Foods,159,False
+2023-05-06,Frozen Foods,151,False
+2023-05-07,Frozen Foods,138,False
+2023-05-08,Frozen Foods,148,False
+2023-05-09,Frozen Foods,120,False
+2023-05-10,Frozen Foods,132,False
+2023-05-11,Frozen Foods,134,False
+2023-05-12,Frozen Foods,137,False
+2023-05-13,Frozen Foods,167,False
+2023-05-14,Frozen Foods,149,False
+2023-05-15,Frozen Foods,134,False
+2023-05-16,Frozen Foods,137,False
+2023-05-17,Frozen Foods,139,False
+2023-05-18,Frozen Foods,139,False
+2023-05-19,Frozen Foods,143,False
+2023-05-20,Frozen Foods,208,True
+2023-05-21,Frozen Foods,163,False
+2023-05-22,Frozen Foods,178,True
+2023-05-23,Frozen Foods,117,False
+2023-05-24,Frozen Foods,138,False
+2023-05-25,Frozen Foods,144,False
+2023-05-26,Frozen Foods,147,False
+2023-05-27,Frozen Foods,149,False
+2023-05-28,Frozen Foods,150,False
+2023-05-29,Frozen Foods,130,False
+2023-05-30,Frozen Foods,144,False
+2023-05-31,Frozen Foods,151,False
+2023-06-01,Frozen Foods,116,False
+2023-06-02,Frozen Foods,133,False
+2023-06-03,Frozen Foods,141,False
+2023-06-04,Frozen Foods,138,False
+2023-06-05,Frozen Foods,118,False
+2023-06-06,Frozen Foods,131,False
+2023-06-07,Frozen Foods,125,False
+2023-06-08,Frozen Foods,180,True
+2023-06-09,Frozen Foods,110,False
+2023-06-10,Frozen Foods,146,False
+2023-06-11,Frozen Foods,132,False
+2023-06-12,Frozen Foods,110,False
+2023-06-13,Frozen Foods,121,False
+2023-06-14,Frozen Foods,123,False
+2023-06-15,Frozen Foods,158,False
+2023-06-16,Frozen Foods,119,False
+2023-06-17,Frozen Foods,125,False
+2023-06-18,Frozen Foods,143,False
+2023-06-19,Frozen Foods,94,False
+2023-06-20,Frozen Foods,120,False
+2023-06-21,Frozen Foods,121,False
+2023-06-22,Frozen Foods,131,False
+2023-06-23,Frozen Foods,133,False
+2023-06-24,Frozen Foods,133,False
+2023-06-25,Frozen Foods,137,False
+2023-06-26,Frozen Foods,111,False
+2023-06-27,Frozen Foods,107,False
+2023-06-28,Frozen Foods,155,True
+2023-06-29,Frozen Foods,105,False
+2023-06-30,Frozen Foods,116,False
+2023-07-01,Frozen Foods,120,False
+2023-07-02,Frozen Foods,139,False
+2023-07-03,Frozen Foods,138,False
+2023-07-04,Frozen Foods,98,False
+2023-07-05,Frozen Foods,91,False
+2023-07-06,Frozen Foods,113,False
+2023-07-07,Frozen Foods,115,False
+2023-07-08,Frozen Foods,135,False
+2023-07-09,Frozen Foods,127,False
+2023-07-10,Frozen Foods,112,False
+2023-07-11,Frozen Foods,120,False
+2023-07-12,Frozen Foods,128,False
+2023-07-13,Frozen Foods,90,False
+2023-07-14,Frozen Foods,110,False
+2023-07-15,Frozen Foods,135,False
+2023-07-16,Frozen Foods,120,False
+2023-07-17,Frozen Foods,137,False
+2023-07-18,Frozen Foods,107,False
+2023-07-19,Frozen Foods,143,True
+2023-07-20,Frozen Foods,122,False
+2023-07-21,Frozen Foods,107,False
+2023-07-22,Frozen Foods,109,False
+2023-07-23,Frozen Foods,127,False
+2023-07-24,Frozen Foods,128,False
+2023-07-25,Frozen Foods,111,False
+2023-07-26,Frozen Foods,104,False
+2023-07-27,Frozen Foods,127,False
+2023-07-28,Frozen Foods,140,True
+2023-07-29,Frozen Foods,159,True
+2023-07-30,Frozen Foods,167,True
+2023-07-31,Frozen Foods,125,False
+2023-08-01,Frozen Foods,152,False
+2023-08-02,Frozen Foods,132,False
+2023-08-03,Frozen Foods,136,False
+2023-08-04,Frozen Foods,115,False
+2023-08-05,Frozen Foods,126,False
+2023-08-06,Frozen Foods,140,False
+2023-08-07,Frozen Foods,122,False
+2023-08-08,Frozen Foods,107,False
+2023-08-09,Frozen Foods,119,False
+2023-08-10,Frozen Foods,126,False
+2023-08-11,Frozen Foods,126,False
+2023-08-12,Frozen Foods,146,False
+2023-08-13,Frozen Foods,143,False
+2023-08-14,Frozen Foods,115,False
+2023-08-15,Frozen Foods,114,False
+2023-08-16,Frozen Foods,106,False
+2023-08-17,Frozen Foods,144,False
+2023-08-18,Frozen Foods,121,False
+2023-08-19,Frozen Foods,136,False
+2023-08-20,Frozen Foods,162,True
+2023-08-21,Frozen Foods,159,False
+2023-08-22,Frozen Foods,107,False
+2023-08-23,Frozen Foods,116,False
+2023-08-24,Frozen Foods,126,False
+2023-08-25,Frozen Foods,129,False
+2023-08-26,Frozen Foods,186,True
+2023-08-27,Frozen Foods,162,False
+2023-08-28,Frozen Foods,128,False
+2023-08-29,Frozen Foods,108,False
+2023-08-30,Frozen Foods,118,False
+2023-08-31,Frozen Foods,125,False
+2023-09-01,Frozen Foods,164,False
+2023-09-02,Frozen Foods,140,False
+2023-09-03,Frozen Foods,174,False
+2023-09-04,Frozen Foods,140,False
+2023-09-05,Frozen Foods,183,True
+2023-09-06,Frozen Foods,136,False
+2023-09-07,Frozen Foods,127,False
+2023-09-08,Frozen Foods,147,False
+2023-09-09,Frozen Foods,167,False
+2023-09-10,Frozen Foods,171,False
+2023-09-11,Frozen Foods,137,False
+2023-09-12,Frozen Foods,130,False
+2023-09-13,Frozen Foods,118,False
+2023-09-14,Frozen Foods,148,False
+2023-09-15,Frozen Foods,143,False
+2023-09-16,Frozen Foods,146,False
+2023-09-17,Frozen Foods,151,False
+2023-09-18,Frozen Foods,132,False
+2023-09-19,Frozen Foods,119,False
+2023-09-20,Frozen Foods,127,False
+2023-09-21,Frozen Foods,123,False
+2023-09-22,Frozen Foods,132,False
+2023-09-23,Frozen Foods,149,False
+2023-09-24,Frozen Foods,137,False
+2023-09-25,Frozen Foods,163,False
+2023-09-26,Frozen Foods,154,False
+2023-09-27,Frozen Foods,128,False
+2023-09-28,Frozen Foods,175,True
+2023-09-29,Frozen Foods,143,False
+2023-09-30,Frozen Foods,173,False
+2023-10-01,Frozen Foods,220,True
+2023-10-02,Frozen Foods,174,False
+2023-10-03,Frozen Foods,153,False
+2023-10-04,Frozen Foods,143,False
+2023-10-05,Frozen Foods,169,False
+2023-10-06,Frozen Foods,177,False
+2023-10-07,Frozen Foods,217,False
+2023-10-08,Frozen Foods,169,False
+2023-10-09,Frozen Foods,169,False
+2023-10-10,Frozen Foods,155,False
+2023-10-11,Frozen Foods,170,False
+2023-10-12,Frozen Foods,141,False
+2023-10-13,Frozen Foods,144,False
+2023-10-14,Frozen Foods,174,False
+2023-10-15,Frozen Foods,185,False
+2023-10-16,Frozen Foods,152,False
+2023-10-17,Frozen Foods,168,False
+2023-10-18,Frozen Foods,173,False
+2023-10-19,Frozen Foods,168,False
+2023-10-20,Frozen Foods,221,True
+2023-10-21,Frozen Foods,189,False
+2023-10-22,Frozen Foods,168,False
+2023-10-23,Frozen Foods,177,False
+2023-10-24,Frozen Foods,192,True
+2023-10-25,Frozen Foods,172,False
+2023-10-26,Frozen Foods,180,False
+2023-10-27,Frozen Foods,166,False
+2023-10-28,Frozen Foods,165,False
+2023-10-29,Frozen Foods,172,False
+2023-10-30,Frozen Foods,177,False
+2023-10-31,Frozen Foods,158,False
+2023-11-01,Frozen Foods,184,False
+2023-11-02,Frozen Foods,192,False
+2023-11-03,Frozen Foods,191,False
+2023-11-04,Frozen Foods,213,False
+2023-11-05,Frozen Foods,207,False
+2023-11-06,Frozen Foods,178,False
+2023-11-07,Frozen Foods,193,False
+2023-11-08,Frozen Foods,190,False
+2023-11-09,Frozen Foods,179,False
+2023-11-10,Frozen Foods,196,False
+2023-11-11,Frozen Foods,208,False
+2023-11-12,Frozen Foods,199,False
+2023-11-13,Frozen Foods,173,False
+2023-11-14,Frozen Foods,170,False
+2023-11-15,Frozen Foods,179,False
+2023-11-16,Frozen Foods,244,True
+2023-11-17,Frozen Foods,172,False
+2023-11-18,Frozen Foods,212,False
+2023-11-19,Frozen Foods,201,False
+2023-11-20,Frozen Foods,179,False
+2023-11-21,Frozen Foods,163,False
+2023-11-22,Frozen Foods,180,False
+2023-11-23,Frozen Foods,180,False
+2023-11-24,Frozen Foods,189,False
+2023-11-25,Frozen Foods,265,True
+2023-11-26,Frozen Foods,195,False
+2023-11-27,Frozen Foods,196,False
+2023-11-28,Frozen Foods,231,True
+2023-11-29,Frozen Foods,185,False
+2023-11-30,Frozen Foods,228,True
+2023-12-01,Frozen Foods,242,True
+2023-12-02,Frozen Foods,232,False
+2023-12-03,Frozen Foods,235,False
+2023-12-04,Frozen Foods,177,False
+2023-12-05,Frozen Foods,192,False
+2023-12-06,Frozen Foods,196,False
+2023-12-07,Frozen Foods,202,False
+2023-12-08,Frozen Foods,214,False
+2023-12-09,Frozen Foods,219,False
+2023-12-10,Frozen Foods,222,False
+2023-12-11,Frozen Foods,192,False
+2023-12-12,Frozen Foods,189,False
+2023-12-13,Frozen Foods,195,False
+2023-12-14,Frozen Foods,209,False
+2023-12-15,Frozen Foods,185,False
+2023-12-16,Frozen Foods,234,False
+2023-12-17,Frozen Foods,207,False
+2023-12-18,Frozen Foods,192,False
+2023-12-19,Frozen Foods,195,False
+2023-12-20,Frozen Foods,220,False
+2023-12-21,Frozen Foods,195,False
+2023-12-22,Frozen Foods,171,False
+2023-12-23,Frozen Foods,203,False
+2023-12-24,Frozen Foods,229,False
+2023-12-25,Frozen Foods,207,False
+2023-12-26,Frozen Foods,254,True
+2023-12-27,Frozen Foods,201,False
+2023-12-28,Frozen Foods,214,False
+2023-12-29,Frozen Foods,192,False
+2023-12-30,Frozen Foods,240,False
+2023-12-31,Frozen Foods,208,False
+2024-01-01,Frozen Foods,193,False
+2024-01-02,Frozen Foods,182,False
+2024-01-03,Frozen Foods,253,True
+2024-01-04,Frozen Foods,204,False
+2024-01-05,Frozen Foods,206,False
+2024-01-06,Frozen Foods,237,False
+2024-01-07,Frozen Foods,224,False
+2024-01-08,Frozen Foods,203,False
+2024-01-09,Frozen Foods,186,False
+2024-01-10,Frozen Foods,222,False
+2024-01-11,Frozen Foods,201,False
+2024-01-12,Frozen Foods,199,False
+2024-01-13,Frozen Foods,256,False
+2024-01-14,Frozen Foods,220,False
+2024-01-15,Frozen Foods,191,False
+2024-01-16,Frozen Foods,191,False
+2024-01-17,Frozen Foods,204,False
+2024-01-18,Frozen Foods,211,False
+2024-01-19,Frozen Foods,214,False
+2024-01-20,Frozen Foods,269,False
+2024-01-21,Frozen Foods,207,False
+2024-01-22,Frozen Foods,213,False
+2024-01-23,Frozen Foods,198,False
+2024-01-24,Frozen Foods,197,False
+2024-01-25,Frozen Foods,197,False
+2024-01-26,Frozen Foods,193,False
+2024-01-27,Frozen Foods,257,False
+2024-01-28,Frozen Foods,247,False
+2024-01-29,Frozen Foods,205,False
+2024-01-30,Frozen Foods,222,False
+2024-01-31,Frozen Foods,186,False
+2024-02-01,Frozen Foods,182,False
+2024-02-02,Frozen Foods,171,False
+2024-02-03,Frozen Foods,277,True
+2024-02-04,Frozen Foods,231,False
+2024-02-05,Frozen Foods,200,False
+2024-02-06,Frozen Foods,201,False
+2024-02-07,Frozen Foods,181,False
+2024-02-08,Frozen Foods,209,False
+2024-02-09,Frozen Foods,202,False
+2024-02-10,Frozen Foods,238,False
+2024-02-11,Frozen Foods,205,False
+2024-02-12,Frozen Foods,203,False
+2024-02-13,Frozen Foods,184,False
+2024-02-14,Frozen Foods,244,True
+2024-02-15,Frozen Foods,206,False
+2024-02-16,Frozen Foods,200,False
+2024-02-17,Frozen Foods,218,False
+2024-02-18,Frozen Foods,286,True
+2024-02-19,Frozen Foods,179,False
+2024-02-20,Frozen Foods,214,False
+2024-02-21,Frozen Foods,196,False
+2024-02-22,Frozen Foods,213,False
+2024-02-23,Frozen Foods,192,False
+2024-02-24,Frozen Foods,222,False
+2024-02-25,Frozen Foods,219,False
+2024-02-26,Frozen Foods,210,False
+2024-02-27,Frozen Foods,190,False
+2024-02-28,Frozen Foods,207,False
+2024-02-29,Frozen Foods,194,False
+2024-03-01,Frozen Foods,157,False
+2024-03-02,Frozen Foods,203,False
+2024-03-03,Frozen Foods,195,False
+2024-03-04,Frozen Foods,183,False
+2024-03-05,Frozen Foods,167,False
+2024-03-06,Frozen Foods,194,False
+2024-03-07,Frozen Foods,181,False
+2024-03-08,Frozen Foods,180,False
+2024-03-09,Frozen Foods,218,False
+2024-03-10,Frozen Foods,222,False
+2024-03-11,Frozen Foods,182,False
+2024-03-12,Frozen Foods,173,False
+2024-03-13,Frozen Foods,160,False
+2024-03-14,Frozen Foods,174,False
+2024-03-15,Frozen Foods,220,True
+2024-03-16,Frozen Foods,211,False
+2024-03-17,Frozen Foods,205,False
+2024-03-18,Frozen Foods,191,False
+2024-03-19,Frozen Foods,175,False
+2024-03-20,Frozen Foods,182,False
+2024-03-21,Frozen Foods,198,False
+2024-03-22,Frozen Foods,187,False
+2024-03-23,Frozen Foods,209,False
+2024-03-24,Frozen Foods,202,False
+2024-03-25,Frozen Foods,220,True
+2024-03-26,Frozen Foods,172,False
+2024-03-27,Frozen Foods,176,False
+2024-03-28,Frozen Foods,192,False
+2024-03-29,Frozen Foods,180,False
+2024-03-30,Frozen Foods,193,False
+2024-03-31,Frozen Foods,233,False
+2024-04-01,Frozen Foods,164,False
+2024-04-02,Frozen Foods,142,False
+2024-04-03,Frozen Foods,154,False
+2024-04-04,Frozen Foods,161,False
+2024-04-05,Frozen Foods,182,False
+2024-04-06,Frozen Foods,170,False
+2024-04-07,Frozen Foods,242,True
+2024-04-08,Frozen Foods,178,False
+2024-04-09,Frozen Foods,152,False
+2024-04-10,Frozen Foods,156,False
+2024-04-11,Frozen Foods,147,False
+2024-04-12,Frozen Foods,157,False
+2024-04-13,Frozen Foods,184,False
+2024-04-14,Frozen Foods,192,False
+2024-04-15,Frozen Foods,174,False
+2024-04-16,Frozen Foods,150,False
+2024-04-17,Frozen Foods,135,False
+2024-04-18,Frozen Foods,160,False
+2024-04-19,Frozen Foods,164,False
+2024-04-20,Frozen Foods,187,False
+2024-04-21,Frozen Foods,180,False
+2024-04-22,Frozen Foods,162,False
+2024-04-23,Frozen Foods,219,True
+2024-04-24,Frozen Foods,165,False
+2024-04-25,Frozen Foods,155,False
+2024-04-26,Frozen Foods,154,False
+2024-04-27,Frozen Foods,182,False
+2024-04-28,Frozen Foods,205,False
+2024-04-29,Frozen Foods,158,False
+2024-04-30,Frozen Foods,160,False
+2024-05-01,Frozen Foods,166,True
+2024-05-02,Frozen Foods,152,False
+2024-05-03,Frozen Foods,163,False
+2024-05-04,Frozen Foods,164,False
+2024-05-05,Frozen Foods,159,False
+2024-05-06,Frozen Foods,138,False
+2024-05-07,Frozen Foods,107,False
+2024-05-08,Frozen Foods,147,False
+2024-05-09,Frozen Foods,139,False
+2024-05-10,Frozen Foods,143,False
+2024-05-11,Frozen Foods,149,False
+2024-05-12,Frozen Foods,153,False
+2024-05-13,Frozen Foods,132,False
+2024-05-14,Frozen Foods,151,False
+2024-05-15,Frozen Foods,133,False
+2024-05-16,Frozen Foods,199,True
+2024-05-17,Frozen Foods,143,False
+2024-05-18,Frozen Foods,142,False
+2024-05-19,Frozen Foods,156,False
+2024-05-20,Frozen Foods,129,False
+2024-05-21,Frozen Foods,109,False
+2024-05-22,Frozen Foods,158,False
+2024-05-23,Frozen Foods,147,False
+2024-05-24,Frozen Foods,144,False
+2024-05-25,Frozen Foods,160,False
+2024-05-26,Frozen Foods,140,False
+2024-05-27,Frozen Foods,131,False
+2024-05-28,Frozen Foods,148,False
+2024-05-29,Frozen Foods,124,False
+2024-05-30,Frozen Foods,105,False
+2024-05-31,Frozen Foods,169,True
+2024-06-01,Frozen Foods,137,False
+2024-06-02,Frozen Foods,141,False
+2024-06-03,Frozen Foods,130,False
+2024-06-04,Frozen Foods,129,False
+2024-06-05,Frozen Foods,124,False
+2024-06-06,Frozen Foods,136,False
+2024-06-07,Frozen Foods,102,False
+2024-06-08,Frozen Foods,146,False
+2024-06-09,Frozen Foods,147,False
+2024-06-10,Frozen Foods,105,False
+2024-06-11,Frozen Foods,102,False
+2024-06-12,Frozen Foods,111,False
+2024-06-13,Frozen Foods,113,False
+2024-06-14,Frozen Foods,131,False
+2024-06-15,Frozen Foods,131,False
+2024-06-16,Frozen Foods,128,False
+2024-06-17,Frozen Foods,113,False
+2024-06-18,Frozen Foods,135,False
+2024-06-19,Frozen Foods,121,False
+2024-06-20,Frozen Foods,119,False
+2024-06-21,Frozen Foods,120,False
+2024-06-22,Frozen Foods,156,False
+2024-06-23,Frozen Foods,130,False
+2024-06-24,Frozen Foods,138,False
+2024-06-25,Frozen Foods,124,False
+2024-06-26,Frozen Foods,119,False
+2024-06-27,Frozen Foods,183,True
+2024-06-28,Frozen Foods,108,False
+2024-06-29,Frozen Foods,169,True
+2024-06-30,Frozen Foods,123,False
+2024-07-01,Frozen Foods,127,False
+2024-07-02,Frozen Foods,137,False
+2024-07-03,Frozen Foods,136,False
+2024-07-04,Frozen Foods,131,False
+2024-07-05,Frozen Foods,112,False
+2024-07-06,Frozen Foods,128,False
+2024-07-07,Frozen Foods,111,False
+2024-07-08,Frozen Foods,141,False
+2024-07-09,Frozen Foods,121,False
+2024-07-10,Frozen Foods,109,False
+2024-07-11,Frozen Foods,161,True
+2024-07-12,Frozen Foods,131,True
+2024-07-13,Frozen Foods,137,False
+2024-07-14,Frozen Foods,130,False
+2024-07-15,Frozen Foods,123,False
+2024-07-16,Frozen Foods,114,False
+2024-07-17,Frozen Foods,96,False
+2024-07-18,Frozen Foods,116,False
+2024-07-19,Frozen Foods,128,False
+2024-07-20,Frozen Foods,165,True
+2024-07-21,Frozen Foods,142,False
+2024-07-22,Frozen Foods,130,True
+2024-07-23,Frozen Foods,115,False
+2024-07-24,Frozen Foods,107,False
+2024-07-25,Frozen Foods,125,False
+2024-07-26,Frozen Foods,115,False
+2024-07-27,Frozen Foods,141,False
+2024-07-28,Frozen Foods,146,False
+2024-07-29,Frozen Foods,124,False
+2024-07-30,Frozen Foods,118,False
+2024-07-31,Frozen Foods,102,False
+2024-08-01,Frozen Foods,121,False
+2024-08-02,Frozen Foods,114,False
+2024-08-03,Frozen Foods,135,False
+2024-08-04,Frozen Foods,134,False
+2024-08-05,Frozen Foods,108,False
+2024-08-06,Frozen Foods,96,False
+2024-08-07,Frozen Foods,112,False
+2024-08-08,Frozen Foods,124,False
+2024-08-09,Frozen Foods,104,False
+2024-08-10,Frozen Foods,139,False
+2024-08-11,Frozen Foods,164,False
+2024-08-12,Frozen Foods,134,False
+2024-08-13,Frozen Foods,142,False
+2024-08-14,Frozen Foods,126,False
+2024-08-15,Frozen Foods,136,False
+2024-08-16,Frozen Foods,142,True
+2024-08-17,Frozen Foods,131,False
+2024-08-18,Frozen Foods,104,False
+2024-08-19,Frozen Foods,136,False
+2024-08-20,Frozen Foods,141,False
+2024-08-21,Frozen Foods,114,False
+2024-08-22,Frozen Foods,118,False
+2024-08-23,Frozen Foods,111,False
+2024-08-24,Frozen Foods,144,False
+2024-08-25,Frozen Foods,154,False
+2024-08-26,Frozen Foods,99,False
+2024-08-27,Frozen Foods,126,False
+2024-08-28,Frozen Foods,117,False
+2024-08-29,Frozen Foods,122,False
+2024-08-30,Frozen Foods,127,False
+2024-08-31,Frozen Foods,137,False
+2024-09-01,Frozen Foods,157,False
+2024-09-02,Frozen Foods,135,False
+2024-09-03,Frozen Foods,150,False
+2024-09-04,Frozen Foods,143,False
+2024-09-05,Frozen Foods,140,False
+2024-09-06,Frozen Foods,121,False
+2024-09-07,Frozen Foods,193,True
+2024-09-08,Frozen Foods,170,False
+2024-09-09,Frozen Foods,138,False
+2024-09-10,Frozen Foods,146,False
+2024-09-11,Frozen Foods,160,False
+2024-09-12,Frozen Foods,151,False
+2024-09-13,Frozen Foods,139,False
+2024-09-14,Frozen Foods,152,False
+2024-09-15,Frozen Foods,125,False
+2024-09-16,Frozen Foods,135,False
+2024-09-17,Frozen Foods,133,False
+2024-09-18,Frozen Foods,142,False
+2024-09-19,Frozen Foods,136,False
+2024-09-20,Frozen Foods,133,False
+2024-09-21,Frozen Foods,135,False
+2024-09-22,Frozen Foods,146,False
+2024-09-23,Frozen Foods,178,True
+2024-09-24,Frozen Foods,159,False
+2024-09-25,Frozen Foods,136,False
+2024-09-26,Frozen Foods,142,False
+2024-09-27,Frozen Foods,150,False
+2024-09-28,Frozen Foods,187,True
+2024-09-29,Frozen Foods,163,False
+2024-09-30,Frozen Foods,128,False
+2024-10-01,Frozen Foods,171,False
+2024-10-02,Frozen Foods,162,False
+2024-10-03,Frozen Foods,164,False
+2024-10-04,Frozen Foods,150,False
+2024-10-05,Frozen Foods,193,False
+2024-10-06,Frozen Foods,211,False
+2024-10-07,Frozen Foods,147,False
+2024-10-08,Frozen Foods,156,False
+2024-10-09,Frozen Foods,163,False
+2024-10-10,Frozen Foods,170,False
+2024-10-11,Frozen Foods,153,False
+2024-10-12,Frozen Foods,148,False
+2024-10-13,Frozen Foods,201,False
+2024-10-14,Frozen Foods,170,False
+2024-10-15,Frozen Foods,138,False
+2024-10-16,Frozen Foods,152,False
+2024-10-17,Frozen Foods,180,False
+2024-10-18,Frozen Foods,219,True
+2024-10-19,Frozen Foods,196,False
+2024-10-20,Frozen Foods,182,False
+2024-10-21,Frozen Foods,161,False
+2024-10-22,Frozen Foods,158,False
+2024-10-23,Frozen Foods,174,False
+2024-10-24,Frozen Foods,149,False
+2024-10-25,Frozen Foods,150,False
+2024-10-26,Frozen Foods,197,False
+2024-10-27,Frozen Foods,183,False
+2024-10-28,Frozen Foods,218,True
+2024-10-29,Frozen Foods,151,False
+2024-10-30,Frozen Foods,159,False
+2024-10-31,Frozen Foods,148,False
+2024-11-01,Frozen Foods,183,False
+2024-11-02,Frozen Foods,191,False
+2024-11-03,Frozen Foods,204,False
+2024-11-04,Frozen Foods,210,True
+2024-11-05,Frozen Foods,191,False
+2024-11-06,Frozen Foods,237,True
+2024-11-07,Frozen Foods,160,False
+2024-11-08,Frozen Foods,200,False
+2024-11-09,Frozen Foods,294,True
+2024-11-10,Frozen Foods,210,False
+2024-11-11,Frozen Foods,174,False
+2024-11-12,Frozen Foods,219,False
+2024-11-13,Frozen Foods,166,False
+2024-11-14,Frozen Foods,183,False
+2024-11-15,Frozen Foods,185,False
+2024-11-16,Frozen Foods,227,False
+2024-11-17,Frozen Foods,214,False
+2024-11-18,Frozen Foods,176,False
+2024-11-19,Frozen Foods,170,False
+2024-11-20,Frozen Foods,178,False
+2024-11-21,Frozen Foods,170,False
+2024-11-22,Frozen Foods,183,False
+2024-11-23,Frozen Foods,203,False
+2024-11-24,Frozen Foods,191,False
+2024-11-25,Frozen Foods,199,False
+2024-11-26,Frozen Foods,176,False
+2024-11-27,Frozen Foods,166,False
+2024-11-28,Frozen Foods,180,False
+2024-11-29,Frozen Foods,183,False
+2024-11-30,Frozen Foods,188,False
+2024-12-01,Frozen Foods,233,False
+2024-12-02,Frozen Foods,235,True
+2024-12-03,Frozen Foods,221,False
+2024-12-04,Frozen Foods,206,False
+2024-12-05,Frozen Foods,194,False
+2024-12-06,Frozen Foods,189,False
+2024-12-07,Frozen Foods,227,False
+2024-12-08,Frozen Foods,237,False
+2024-12-09,Frozen Foods,199,False
+2024-12-10,Frozen Foods,196,False
+2024-12-11,Frozen Foods,200,False
+2024-12-12,Frozen Foods,191,False
+2024-12-13,Frozen Foods,195,False
+2024-12-14,Frozen Foods,202,False
+2024-12-15,Frozen Foods,298,True
+2024-12-16,Frozen Foods,203,False
+2024-12-17,Frozen Foods,189,False
+2024-12-18,Frozen Foods,273,True
+2024-12-19,Frozen Foods,200,False
+2024-12-20,Frozen Foods,186,False
+2024-12-21,Frozen Foods,240,False
+2024-12-22,Frozen Foods,234,False
+2024-12-23,Frozen Foods,204,False
+2024-12-24,Frozen Foods,194,False
+2024-12-25,Frozen Foods,205,False
+2024-12-26,Frozen Foods,196,False
+2024-12-27,Frozen Foods,206,False
+2024-12-28,Frozen Foods,204,False
+2024-12-29,Frozen Foods,223,False
+2024-12-30,Frozen Foods,221,False
+2024-12-31,Frozen Foods,189,False
+2025-01-01,Frozen Foods,197,False
+2025-01-02,Frozen Foods,199,False
+2025-01-03,Frozen Foods,189,False
+2025-01-04,Frozen Foods,207,False
+2025-01-05,Frozen Foods,233,False
+2025-01-06,Frozen Foods,207,False
+2025-01-07,Frozen Foods,256,True
+2025-01-08,Frozen Foods,203,False
+2025-01-09,Frozen Foods,206,False
+2025-01-10,Frozen Foods,218,False
+2025-01-11,Frozen Foods,233,False
+2025-01-12,Frozen Foods,228,False
+2025-01-13,Frozen Foods,201,False
+2025-01-14,Frozen Foods,212,False
+2025-01-15,Frozen Foods,223,False
+2025-01-16,Frozen Foods,197,False
+2025-01-17,Frozen Foods,206,False
+2025-01-18,Frozen Foods,240,False
+2025-01-19,Frozen Foods,223,False
+2025-01-20,Frozen Foods,205,False
+2025-01-21,Frozen Foods,186,False
+2025-01-22,Frozen Foods,182,False
+2025-01-23,Frozen Foods,210,False
+2025-01-24,Frozen Foods,251,True
+2025-01-25,Frozen Foods,238,False
+2025-01-26,Frozen Foods,236,False
+2025-01-27,Frozen Foods,193,False
+2025-01-28,Frozen Foods,204,False
+2025-01-29,Frozen Foods,189,False
+2025-01-30,Frozen Foods,223,False
+2025-01-31,Frozen Foods,239,True
+2025-02-01,Frozen Foods,226,False
+2025-02-02,Frozen Foods,215,False
+2025-02-03,Frozen Foods,206,False
+2025-02-04,Frozen Foods,195,False
+2025-02-05,Frozen Foods,192,False
+2025-02-06,Frozen Foods,210,False
+2025-02-07,Frozen Foods,199,False
+2025-02-08,Frozen Foods,235,False
+2025-02-09,Frozen Foods,216,False
+2025-02-10,Frozen Foods,181,False
+2025-02-11,Frozen Foods,200,False
+2025-02-12,Frozen Foods,195,False
+2025-02-13,Frozen Foods,207,False
+2025-02-14,Frozen Foods,198,False
+2025-02-15,Frozen Foods,231,False
+2025-02-16,Frozen Foods,208,False
+2025-02-17,Frozen Foods,223,False
+2025-02-18,Frozen Foods,197,False
+2025-02-19,Frozen Foods,258,True
+2025-02-20,Frozen Foods,188,False
+2025-02-21,Frozen Foods,203,False
+2025-02-22,Frozen Foods,212,False
+2025-02-23,Frozen Foods,235,False
+2025-02-24,Frozen Foods,194,False
+2025-02-25,Frozen Foods,199,False
+2025-02-26,Frozen Foods,208,False
+2025-02-27,Frozen Foods,183,False
+2025-02-28,Frozen Foods,190,False
+2025-03-01,Frozen Foods,216,False
+2025-03-02,Frozen Foods,237,False
+2025-03-03,Frozen Foods,181,False
+2025-03-04,Frozen Foods,190,False
+2025-03-05,Frozen Foods,181,False
+2025-03-06,Frozen Foods,207,False
+2025-03-07,Frozen Foods,160,False
+2025-03-08,Frozen Foods,211,False
+2025-03-09,Frozen Foods,242,True
+2025-03-10,Frozen Foods,150,False
+2025-03-11,Frozen Foods,186,False
+2025-03-12,Frozen Foods,184,False
+2025-03-13,Frozen Foods,179,False
+2025-03-14,Frozen Foods,181,False
+2025-03-15,Frozen Foods,250,False
+2025-03-16,Frozen Foods,207,False
+2025-03-17,Frozen Foods,189,False
+2025-03-18,Frozen Foods,174,False
+2025-03-19,Frozen Foods,186,False
+2025-03-20,Frozen Foods,179,False
+2025-03-21,Frozen Foods,177,False
+2025-03-22,Frozen Foods,233,False
+2025-03-23,Frozen Foods,225,False
+2025-03-24,Frozen Foods,184,False
+2025-03-25,Frozen Foods,153,False
+2025-03-26,Frozen Foods,178,False
+2025-03-27,Frozen Foods,217,False
+2025-03-28,Frozen Foods,180,False
+2025-03-29,Frozen Foods,224,False
+2025-03-30,Frozen Foods,228,False
+2025-03-31,Frozen Foods,185,False
+2025-04-01,Frozen Foods,149,False
+2025-04-02,Frozen Foods,129,False
+2025-04-03,Frozen Foods,169,False
+2025-04-04,Frozen Foods,150,False
+2025-04-05,Frozen Foods,186,False
+2025-04-06,Frozen Foods,168,False
+2025-04-07,Frozen Foods,157,False
+2025-04-08,Frozen Foods,160,False
+2025-04-09,Frozen Foods,163,False
+2025-04-10,Frozen Foods,146,False
+2025-04-11,Frozen Foods,175,False
+2025-04-12,Frozen Foods,176,False
+2025-04-13,Frozen Foods,209,True
+2025-04-14,Frozen Foods,159,False
+2025-04-15,Frozen Foods,160,False
+2025-04-16,Frozen Foods,162,False
+2025-04-17,Frozen Foods,177,False
+2025-04-18,Frozen Foods,157,False
+2025-04-19,Frozen Foods,182,False
+2025-04-20,Frozen Foods,170,False
+2025-04-21,Frozen Foods,171,False
+2025-04-22,Frozen Foods,162,False
+2025-04-23,Frozen Foods,195,True
+2025-04-24,Frozen Foods,136,False
+2025-04-25,Frozen Foods,178,False
+2025-04-26,Frozen Foods,168,False
+2025-04-27,Frozen Foods,222,True
+2025-04-28,Frozen Foods,165,False
+2025-04-29,Frozen Foods,185,True
+2025-04-30,Frozen Foods,141,False
+2025-05-01,Frozen Foods,110,False
+2025-05-02,Frozen Foods,147,False
+2025-05-03,Frozen Foods,151,False
+2025-05-04,Frozen Foods,196,False
+2025-05-05,Frozen Foods,125,False
+2025-05-06,Frozen Foods,126,False
+2025-05-07,Frozen Foods,130,False
+2025-05-08,Frozen Foods,141,False
+2025-05-09,Frozen Foods,166,True
+2025-05-10,Frozen Foods,166,False
+2025-05-11,Frozen Foods,146,False
+2025-05-12,Frozen Foods,120,False
+2025-05-13,Frozen Foods,114,False
+2025-05-14,Frozen Foods,109,False
+2025-05-15,Frozen Foods,131,False
+2025-05-16,Frozen Foods,134,False
+2025-05-17,Frozen Foods,150,False
+2025-05-18,Frozen Foods,174,False
+2025-05-19,Frozen Foods,153,False
+2025-05-20,Frozen Foods,133,False
+2025-05-21,Frozen Foods,115,False
+2025-05-22,Frozen Foods,165,True
+2025-05-23,Frozen Foods,164,True
+2025-05-24,Frozen Foods,150,False
+2025-05-25,Frozen Foods,149,False
+2025-05-26,Frozen Foods,129,False
+2025-05-27,Frozen Foods,133,False
+2025-05-28,Frozen Foods,129,False
+2025-05-29,Frozen Foods,140,False
+2025-05-30,Frozen Foods,142,False
+2025-05-31,Frozen Foods,146,False
+2025-06-01,Frozen Foods,155,False
+2025-06-02,Frozen Foods,108,False
+2025-06-03,Frozen Foods,100,False
+2025-06-04,Frozen Foods,126,False
+2025-06-05,Frozen Foods,111,False
+2025-06-06,Frozen Foods,125,False
+2025-06-07,Frozen Foods,108,False
+2025-06-08,Frozen Foods,157,False
+2025-06-09,Frozen Foods,130,False
+2025-06-10,Frozen Foods,102,False
+2025-06-11,Frozen Foods,102,False
+2025-06-12,Frozen Foods,142,False
+2025-06-13,Frozen Foods,112,False
+2025-06-14,Frozen Foods,129,False
+2025-06-15,Frozen Foods,110,False
+2025-06-16,Frozen Foods,117,False
+2025-06-17,Frozen Foods,118,False
+2025-06-18,Frozen Foods,130,False
+2025-06-19,Frozen Foods,103,False
+2025-06-20,Frozen Foods,102,False
+2025-06-21,Frozen Foods,145,False
+2025-06-22,Frozen Foods,152,False
+2025-06-23,Frozen Foods,101,False
+2025-06-24,Frozen Foods,135,False
+2025-06-25,Frozen Foods,122,False
+2025-06-26,Frozen Foods,135,False
+2025-06-27,Frozen Foods,120,False
+2025-06-28,Frozen Foods,107,False
+2025-06-29,Frozen Foods,137,False
+2025-06-30,Frozen Foods,135,False
+2025-07-01,Frozen Foods,104,False
+2025-07-02,Frozen Foods,110,False
+2025-07-03,Frozen Foods,113,False
+2025-07-04,Frozen Foods,78,False
+2025-07-05,Frozen Foods,154,False
+2025-07-06,Frozen Foods,121,False
+2025-07-07,Frozen Foods,121,False
+2025-07-08,Frozen Foods,114,False
+2025-07-09,Frozen Foods,131,False
+2025-07-10,Frozen Foods,120,False
+2025-07-11,Frozen Foods,112,False
+2025-07-12,Frozen Foods,121,False
+2025-07-13,Frozen Foods,142,False
+2025-07-14,Frozen Foods,91,False
+2025-07-15,Frozen Foods,123,False
+2025-07-16,Frozen Foods,101,False
+2025-07-17,Frozen Foods,131,False
+2025-07-18,Frozen Foods,117,False
+2025-07-19,Frozen Foods,140,False
+2025-07-20,Frozen Foods,133,False
+2025-07-21,Frozen Foods,93,False
+2025-07-22,Frozen Foods,104,False
+2025-07-23,Frozen Foods,124,False
+2025-07-24,Frozen Foods,117,False
+2025-07-25,Frozen Foods,130,False
+2025-07-26,Frozen Foods,137,False
+2025-07-27,Frozen Foods,120,False
+2025-07-28,Frozen Foods,134,True
+2025-07-29,Frozen Foods,116,False
+2025-07-30,Frozen Foods,85,False
+2025-07-31,Frozen Foods,136,False
+2025-08-01,Frozen Foods,127,False
+2025-08-02,Frozen Foods,190,True
+2025-08-03,Frozen Foods,119,False
+2025-08-04,Frozen Foods,137,False
+2025-08-05,Frozen Foods,150,False
+2025-08-06,Frozen Foods,104,False
+2025-08-07,Frozen Foods,131,False
+2025-08-08,Frozen Foods,121,False
+2025-08-09,Frozen Foods,119,False
+2025-08-10,Frozen Foods,145,False
+2025-08-11,Frozen Foods,132,False
+2025-08-12,Frozen Foods,113,False
+2025-08-13,Frozen Foods,136,False
+2025-08-14,Frozen Foods,100,False
+2025-08-15,Frozen Foods,102,False
+2025-08-16,Frozen Foods,141,False
+2025-08-17,Frozen Foods,140,False
+2025-08-18,Frozen Foods,112,False
+2025-08-19,Frozen Foods,131,False
+2025-08-20,Frozen Foods,128,False
+2025-08-21,Frozen Foods,132,False
+2025-08-22,Frozen Foods,119,False
+2025-08-23,Frozen Foods,147,False
+2025-08-24,Frozen Foods,133,False
+2025-08-25,Frozen Foods,147,False
+2025-08-26,Frozen Foods,111,False
+2025-08-27,Frozen Foods,148,False
+2025-08-28,Frozen Foods,121,False
+2025-08-29,Frozen Foods,134,True
+2025-08-30,Frozen Foods,157,False
+2025-08-31,Frozen Foods,141,False
+2025-09-01,Frozen Foods,148,False
+2025-09-02,Frozen Foods,153,False
+2025-09-03,Frozen Foods,142,False
+2025-09-04,Frozen Foods,130,False
+2025-09-05,Frozen Foods,150,False
+2025-09-06,Frozen Foods,158,False
+2025-09-07,Frozen Foods,167,False
+2025-09-08,Frozen Foods,110,False
+2025-09-09,Frozen Foods,143,False
+2025-09-10,Frozen Foods,129,False
+2025-09-11,Frozen Foods,159,False
+2025-09-12,Frozen Foods,145,False
+2025-09-13,Frozen Foods,161,False
+2025-09-14,Frozen Foods,164,False
+2025-09-15,Frozen Foods,125,False
+2025-09-16,Frozen Foods,158,False
+2025-09-17,Frozen Foods,163,False
+2025-09-18,Frozen Foods,143,False
+2025-09-19,Frozen Foods,158,False
+2025-09-20,Frozen Foods,151,False
+2025-09-21,Frozen Foods,148,False
+2025-09-22,Frozen Foods,138,False
+2025-09-23,Frozen Foods,143,False
+2025-09-24,Frozen Foods,132,False
+2025-09-25,Frozen Foods,144,False
+2025-09-26,Frozen Foods,141,False
+2025-09-27,Frozen Foods,145,False
+2025-09-28,Frozen Foods,165,False
+2025-09-29,Frozen Foods,149,False
+2025-09-30,Frozen Foods,140,False
+2025-10-01,Frozen Foods,175,False
+2025-10-02,Frozen Foods,144,False
+2025-10-03,Frozen Foods,166,False
+2025-10-04,Frozen Foods,215,True
+2025-10-05,Frozen Foods,170,False
+2025-10-06,Frozen Foods,152,False
+2025-10-07,Frozen Foods,148,False
+2025-10-08,Frozen Foods,153,False
+2025-10-09,Frozen Foods,157,False
+2025-10-10,Frozen Foods,171,False
+2025-10-11,Frozen Foods,226,True
+2025-10-12,Frozen Foods,164,False
+2025-10-13,Frozen Foods,175,False
+2025-10-14,Frozen Foods,149,False
+2025-10-15,Frozen Foods,159,False
+2025-10-16,Frozen Foods,206,True
+2025-10-17,Frozen Foods,163,False
+2025-10-18,Frozen Foods,198,False
+2025-10-19,Frozen Foods,190,False
+2025-10-20,Frozen Foods,149,False
+2025-10-21,Frozen Foods,188,False
+2025-10-22,Frozen Foods,162,False
+2025-10-23,Frozen Foods,158,False
+2025-10-24,Frozen Foods,172,False
+2025-10-25,Frozen Foods,187,False
+2025-10-26,Frozen Foods,189,False
+2025-10-27,Frozen Foods,192,False
+2025-10-28,Frozen Foods,156,False
+2025-10-29,Frozen Foods,156,False
+2025-10-30,Frozen Foods,161,False
+2025-10-31,Frozen Foods,174,False
+2025-11-01,Frozen Foods,191,False
+2025-11-02,Frozen Foods,185,False
+2025-11-03,Frozen Foods,175,False
+2025-11-04,Frozen Foods,162,False
+2025-11-05,Frozen Foods,177,False
+2025-11-06,Frozen Foods,189,False
+2025-11-07,Frozen Foods,171,False
+2025-11-08,Frozen Foods,192,False
+2025-11-09,Frozen Foods,211,False
+2025-11-10,Frozen Foods,194,False
+2025-11-11,Frozen Foods,206,True
+2025-11-12,Frozen Foods,193,False
+2025-11-13,Frozen Foods,239,True
+2025-11-14,Frozen Foods,195,False
+2025-11-15,Frozen Foods,278,True
+2025-11-16,Frozen Foods,238,False
+2025-11-17,Frozen Foods,178,False
+2025-11-18,Frozen Foods,184,False
+2025-11-19,Frozen Foods,177,False
+2025-11-20,Frozen Foods,183,False
+2025-11-21,Frozen Foods,202,False
+2025-11-22,Frozen Foods,193,False
+2025-11-23,Frozen Foods,199,False
+2025-11-24,Frozen Foods,200,False
+2025-11-25,Frozen Foods,196,False
+2025-11-26,Frozen Foods,178,False
+2025-11-27,Frozen Foods,193,False
+2025-11-28,Frozen Foods,187,False
+2025-11-29,Frozen Foods,229,False
+2025-11-30,Frozen Foods,263,True
+2025-12-01,Frozen Foods,212,False
+2025-12-02,Frozen Foods,233,False
+2025-12-03,Frozen Foods,207,False
+2025-12-04,Frozen Foods,200,False
+2025-12-05,Frozen Foods,208,False
+2025-12-06,Frozen Foods,224,False
+2025-12-07,Frozen Foods,259,False
+2025-12-08,Frozen Foods,201,False
+2025-12-09,Frozen Foods,195,False
+2025-12-10,Frozen Foods,188,False
+2025-12-11,Frozen Foods,213,False
+2025-12-12,Frozen Foods,210,False
+2025-12-13,Frozen Foods,222,False
+2025-12-14,Frozen Foods,236,False
+2025-12-15,Frozen Foods,180,False
+2025-12-16,Frozen Foods,201,False
+2025-12-17,Frozen Foods,205,False
+2025-12-18,Frozen Foods,221,False
+2025-12-19,Frozen Foods,189,False
+2025-12-20,Frozen Foods,212,False
+2025-12-21,Frozen Foods,217,False
+2025-12-22,Frozen Foods,182,False
+2025-12-23,Frozen Foods,266,True
+2025-12-24,Frozen Foods,219,False
+2025-12-25,Frozen Foods,203,False
+2025-12-26,Frozen Foods,264,True
+2025-12-27,Frozen Foods,231,False
+2025-12-28,Frozen Foods,228,False
+2025-12-29,Frozen Foods,195,False
+2025-12-30,Frozen Foods,195,False
+2025-12-31,Frozen Foods,179,False

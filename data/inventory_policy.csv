@@ -1,0 +1,6 @@
+category,avg_daily_demand,demand_std,safety_stock,reorder_point,naive_reorder_point
+Beverages,237.3,55.7,634,2295,2060
+Frozen Foods,169.6,39.5,452,1640,1473
+Home Cleaning,115.6,19.5,298,1107,997
+Personal Care,148.0,20.3,376,1412,1273
+Snacks,192.4,36.1,500,1847,1662

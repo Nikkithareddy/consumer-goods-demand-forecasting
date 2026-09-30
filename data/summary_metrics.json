@@ -1,0 +1,14 @@
+{
+  "target_service_level": 0.95,
+  "z_score": 1.645,
+  "avg_stockout_rate_optimized_stochastic_lt_pct": 4.97,
+  "avg_stockout_rate_naive_pct": 14.73,
+  "avg_stockout_reduction_pct_points": 9.8,
+  "promo_lift_pct_by_category": {
+    "Beverages": 34.0,
+    "Frozen Foods": 27.7,
+    "Home Cleaning": 17.4,
+    "Personal Care": 20.5,
+    "Snacks": 30.5
+  }
+}

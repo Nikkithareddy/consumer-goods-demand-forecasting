@@ -1,0 +1,11 @@
+category,policy,stockout_rate_pct
+Beverages,optimized_stochastic_lt,5.1
+Beverages,naive_fixed_lt,14.3
+Frozen Foods,optimized_stochastic_lt,5.2
+Frozen Foods,naive_fixed_lt,14.4
+Home Cleaning,optimized_stochastic_lt,4.4
+Home Cleaning,naive_fixed_lt,15.2
+Personal Care,optimized_stochastic_lt,5.2
+Personal Care,naive_fixed_lt,15.05
+Snacks,optimized_stochastic_lt,4.95
+Snacks,naive_fixed_lt,14.7
